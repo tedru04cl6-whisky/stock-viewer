@@ -1,0 +1,67 @@
+{
+  "updatedAt": "2026-07-24",
+  "methodology": "依公司官方產品頁、新聞稿或年報人工整理。題材標籤描述公司與 AI 供應鏈的關聯，不代表營收占比、獲利貢獻或投資建議。",
+  "themes": {
+    "ai": {
+      "label": "AI 人工智慧",
+      "aliases": ["AI", "人工智慧", "生成式 AI", "AI 供應鏈", "AI 相關股票", "AI 股票"],
+      "categories": ["晶片與 ASIC", "AI 伺服器", "電源與散熱"],
+      "stocks": {
+        "2330": {
+          "categories": ["晶片與 ASIC"],
+          "reason": "提供 AI 與高效能運算所需的先進製程及 CoWoS 先進封裝。",
+          "sourceLabel": "台積公司｜HPC Platform for AI",
+          "sourceUrl": "https://www.tsmc.com/english/dedicatedFoundry/technology/platform_HPC"
+        },
+        "2454": {
+          "categories": ["晶片與 ASIC"],
+          "reason": "以 NeuroPilot、NPU 與生成式 AI 工具鏈支援終端裝置的邊緣 AI 運算。",
+          "sourceLabel": "聯發科技｜Artificial Intelligence",
+          "sourceUrl": "https://www.mediatek.com/technology/artificial-intelligence"
+        },
+        "3661": {
+          "categories": ["晶片與 ASIC"],
+          "reason": "提供用於高效能運算與 AI 基礎設施的 ASIC 設計及量產服務。",
+          "sourceLabel": "世芯電子｜2024 Business Report",
+          "sourceUrl": "https://www.alchip.com/upload/2025_05_08/3_20250508144605i99jti6ht0.pdf"
+        },
+        "2317": {
+          "categories": ["AI 伺服器"],
+          "reason": "提供 AI 伺服器製造、系統整合與資料中心基礎設施方案。",
+          "sourceLabel": "鴻海｜COMPUTEX 2026 AI Infrastructure",
+          "sourceUrl": "https://www.honhai.com/en-us/press-center/press-releases/latest-news/2044"
+        },
+        "2356": {
+          "categories": ["AI 伺服器"],
+          "reason": "產品線包含 GPU AI 伺服器、機櫃方案與雲端資料中心設備。",
+          "sourceLabel": "英業達｜Enterprise & Cloud Data Center",
+          "sourceUrl": "https://www.inventec.com/en/products12.htm"
+        },
+        "2376": {
+          "categories": ["AI 伺服器"],
+          "reason": "提供支援模型訓練、推論與生成式 AI 工作負載的 AI 伺服器。",
+          "sourceLabel": "技嘉｜AI Server",
+          "sourceUrl": "https://www.gigabyte.com/Enterprise/AI-Server?fid=2512"
+        },
+        "3231": {
+          "categories": ["AI 伺服器"],
+          "reason": "提供搭載加速運算 GPU 的 AI 伺服器平台與製造服務。",
+          "sourceLabel": "緯創｜AI Server Platform",
+          "sourceUrl": "https://www.wistron.com/en/Newsroom/2025-08-26"
+        },
+        "6669": {
+          "categories": ["AI 伺服器"],
+          "reason": "提供超大規模資料中心的 AI 運算、機櫃整合與進階散熱基礎設施。",
+          "sourceLabel": "緯穎｜AI Infrastructure",
+          "sourceUrl": "https://www.wiwynn.com/solutions"
+        },
+        "2308": {
+          "categories": ["電源與散熱"],
+          "reason": "提供 AI 與高效能運算資料中心所需的液冷與散熱方案。",
+          "sourceLabel": "台達電｜Data Center Liquid Cooling",
+          "sourceUrl": "https://www.deltaww.com/en-US/products/data-center-cooling"
+        }
+      }
+    }
+  }
+}

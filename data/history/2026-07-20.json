@@ -1,0 +1,7470 @@
+{
+  "dataDate": "2026-07-20",
+  "fetchedAt": "2026-07-24T00:25:05.973Z",
+  "stocks": {
+    "1101": {
+      "name": "台泥",
+      "close": 23.8,
+      "volume": 43224315,
+      "instNetBuy": 7263449
+    },
+    "1102": {
+      "name": "亞泥",
+      "close": 33,
+      "volume": 14124752,
+      "instNetBuy": 209372
+    },
+    "1103": {
+      "name": "嘉泥",
+      "close": 13.65,
+      "volume": 264058,
+      "instNetBuy": 108418
+    },
+    "1104": {
+      "name": "環泥",
+      "close": 26.5,
+      "volume": 592134,
+      "instNetBuy": 31932
+    },
+    "1108": {
+      "name": "幸福",
+      "close": 12.15,
+      "volume": 315804,
+      "instNetBuy": -84774
+    },
+    "1109": {
+      "name": "信大",
+      "close": 13.9,
+      "volume": 114248,
+      "instNetBuy": 7487
+    },
+    "1110": {
+      "name": "東泥",
+      "close": 15.95,
+      "volume": 195983,
+      "instNetBuy": 83600
+    },
+    "1201": {
+      "name": "味全",
+      "close": 12.7,
+      "volume": 488211,
+      "instNetBuy": 75496
+    },
+    "1203": {
+      "name": "味王",
+      "close": 47.1,
+      "volume": 88288,
+      "instNetBuy": 19000
+    },
+    "1210": {
+      "name": "大成",
+      "close": 57.7,
+      "volume": 2162211,
+      "instNetBuy": 321995
+    },
+    "1213": {
+      "name": "大飲",
+      "close": null,
+      "volume": 0,
+      "instNetBuy": null
+    },
+    "1215": {
+      "name": "卜蜂",
+      "close": 109.5,
+      "volume": 1269156,
+      "instNetBuy": -413762
+    },
+    "1216": {
+      "name": "統一",
+      "close": 80.3,
+      "volume": 30472521,
+      "instNetBuy": 4114076
+    },
+    "1217": {
+      "name": "愛之味",
+      "close": 9.95,
+      "volume": 243533,
+      "instNetBuy": 105300
+    },
+    "1218": {
+      "name": "泰山",
+      "close": 16.35,
+      "volume": 897364,
+      "instNetBuy": 227878
+    },
+    "1219": {
+      "name": "福壽",
+      "close": 11.75,
+      "volume": 1631049,
+      "instNetBuy": -157000
+    },
+    "1220": {
+      "name": "台榮",
+      "close": 11.4,
+      "volume": 117167,
+      "instNetBuy": 34000
+    },
+    "1225": {
+      "name": "福懋油",
+      "close": 27.05,
+      "volume": 143502,
+      "instNetBuy": 53100
+    },
+    "1227": {
+      "name": "佳格",
+      "close": 30.15,
+      "volume": 1016515,
+      "instNetBuy": -23790
+    },
+    "1229": {
+      "name": "聯華",
+      "close": 40.05,
+      "volume": 2207174,
+      "instNetBuy": -277188
+    },
+    "1231": {
+      "name": "聯華食",
+      "close": 90.6,
+      "volume": 455900,
+      "instNetBuy": 92201
+    },
+    "1232": {
+      "name": "大統益",
+      "close": 159.5,
+      "volume": 1129233,
+      "instNetBuy": -302
+    },
+    "1233": {
+      "name": "天仁",
+      "close": 29,
+      "volume": 30824,
+      "instNetBuy": 12000
+    },
+    "1234": {
+      "name": "黑松",
+      "close": 34,
+      "volume": 170809,
+      "instNetBuy": 135700
+    },
+    "1235": {
+      "name": "興泰",
+      "close": 37.4,
+      "volume": 28432,
+      "instNetBuy": 24200
+    },
+    "1236": {
+      "name": "宏亞",
+      "close": 23.55,
+      "volume": 169475,
+      "instNetBuy": -16000
+    },
+    "1256": {
+      "name": "鮮活果汁-KY",
+      "close": 186,
+      "volume": 73383,
+      "instNetBuy": 23600
+    },
+    "1301": {
+      "name": "台塑",
+      "close": 60.6,
+      "volume": 46496573,
+      "instNetBuy": -5294080
+    },
+    "1303": {
+      "name": "南亞",
+      "close": 186.5,
+      "volume": 112072991,
+      "instNetBuy": 6610168
+    },
+    "1304": {
+      "name": "台聚",
+      "close": 12.95,
+      "volume": 5295296,
+      "instNetBuy": 67965
+    },
+    "1305": {
+      "name": "華夏",
+      "close": 12.35,
+      "volume": 2661629,
+      "instNetBuy": -440663
+    },
+    "1307": {
+      "name": "三芳",
+      "close": 31.5,
+      "volume": 1469686,
+      "instNetBuy": 145145
+    },
+    "1308": {
+      "name": "亞聚",
+      "close": 14.05,
+      "volume": 1768910,
+      "instNetBuy": 114319
+    },
+    "1309": {
+      "name": "台達化",
+      "close": 14.55,
+      "volume": 2806871,
+      "instNetBuy": 161802
+    },
+    "1310": {
+      "name": "台苯",
+      "close": 9.92,
+      "volume": 4338037,
+      "instNetBuy": -447281
+    },
+    "1312": {
+      "name": "國喬",
+      "close": 12.7,
+      "volume": 10430833,
+      "instNetBuy": -1985725
+    },
+    "1313": {
+      "name": "聯成",
+      "close": 11.8,
+      "volume": 5378428,
+      "instNetBuy": -429320
+    },
+    "1314": {
+      "name": "中石化",
+      "close": 8.28,
+      "volume": 49820266,
+      "instNetBuy": -3874084
+    },
+    "1315": {
+      "name": "達新",
+      "close": 64.1,
+      "volume": 20954,
+      "instNetBuy": 13700
+    },
+    "1316": {
+      "name": "上曜",
+      "close": 10.15,
+      "volume": 1799857,
+      "instNetBuy": -261749
+    },
+    "1319": {
+      "name": "東陽",
+      "close": 72.5,
+      "volume": 3714690,
+      "instNetBuy": 636246
+    },
+    "1321": {
+      "name": "大洋",
+      "close": 32,
+      "volume": 95500,
+      "instNetBuy": 38800
+    },
+    "1323": {
+      "name": "永裕",
+      "close": 20.2,
+      "volume": 41750,
+      "instNetBuy": 15000
+    },
+    "1324": {
+      "name": "地球",
+      "close": 10.2,
+      "volume": 77753,
+      "instNetBuy": -3919
+    },
+    "1325": {
+      "name": "恆大",
+      "close": 25.6,
+      "volume": 563976,
+      "instNetBuy": -109600
+    },
+    "1326": {
+      "name": "台化",
+      "close": 64.2,
+      "volume": 52416077,
+      "instNetBuy": -4794433
+    },
+    "1337": {
+      "name": "再生-KY",
+      "close": 4.86,
+      "volume": 382422,
+      "instNetBuy": -140340
+    },
+    "1338": {
+      "name": "廣華-KY",
+      "close": 16.15,
+      "volume": 116457,
+      "instNetBuy": 21000
+    },
+    "1339": {
+      "name": "昭輝",
+      "close": 44.2,
+      "volume": 124183,
+      "instNetBuy": 69206
+    },
+    "1340": {
+      "name": "勝悅-KY",
+      "close": 5.2,
+      "volume": 354455,
+      "instNetBuy": -13400
+    },
+    "1341": {
+      "name": "富林-KY",
+      "close": 58.6,
+      "volume": 3002,
+      "instNetBuy": 2000
+    },
+    "1342": {
+      "name": "八貫",
+      "close": 110.5,
+      "volume": 474571,
+      "instNetBuy": -17154
+    },
+    "1402": {
+      "name": "遠東新",
+      "close": 27.3,
+      "volume": 18759029,
+      "instNetBuy": 3666342
+    },
+    "1409": {
+      "name": "新纖",
+      "close": 23.7,
+      "volume": 21243688,
+      "instNetBuy": 2696767
+    },
+    "1410": {
+      "name": "南染",
+      "close": 27.6,
+      "volume": 178602,
+      "instNetBuy": 36000
+    },
+    "1413": {
+      "name": "宏洲",
+      "close": 9.48,
+      "volume": 22945,
+      "instNetBuy": 1700
+    },
+    "1414": {
+      "name": "東和",
+      "close": 18.7,
+      "volume": 278888,
+      "instNetBuy": 95300
+    },
+    "1416": {
+      "name": "廣豐",
+      "close": 11,
+      "volume": 266998,
+      "instNetBuy": 32100
+    },
+    "1417": {
+      "name": "嘉裕",
+      "close": 8.64,
+      "volume": 230988,
+      "instNetBuy": 47183
+    },
+    "1418": {
+      "name": "東華",
+      "close": 18.45,
+      "volume": 3218,
+      "instNetBuy": 800
+    },
+    "1419": {
+      "name": "新紡",
+      "close": 66.9,
+      "volume": 127571,
+      "instNetBuy": 82000
+    },
+    "1423": {
+      "name": "利華",
+      "close": 36.6,
+      "volume": 953808,
+      "instNetBuy": -1362
+    },
+    "1432": {
+      "name": "大魯閣",
+      "close": 14.95,
+      "volume": 169471,
+      "instNetBuy": 999
+    },
+    "1434": {
+      "name": "福懋",
+      "close": 18.55,
+      "volume": 6977965,
+      "instNetBuy": 821493
+    },
+    "1435": {
+      "name": "中福",
+      "close": 20.65,
+      "volume": 36603,
+      "instNetBuy": 1000
+    },
+    "1436": {
+      "name": "華友聯",
+      "close": 44.55,
+      "volume": 520283,
+      "instNetBuy": -96000
+    },
+    "1437": {
+      "name": "勤益控",
+      "close": 31.05,
+      "volume": 228126,
+      "instNetBuy": 142400
+    },
+    "1438": {
+      "name": "三地開發",
+      "close": 20.8,
+      "volume": 50231,
+      "instNetBuy": 10177
+    },
+    "1439": {
+      "name": "雋揚",
+      "close": 25.85,
+      "volume": 55504,
+      "instNetBuy": 6500
+    },
+    "1440": {
+      "name": "南紡",
+      "close": 12.75,
+      "volume": 1783480,
+      "instNetBuy": -288086
+    },
+    "1441": {
+      "name": "大東",
+      "close": 9.1,
+      "volume": 14698,
+      "instNetBuy": 4100
+    },
+    "1442": {
+      "name": "名軒",
+      "close": 29.85,
+      "volume": 546594,
+      "instNetBuy": 86105
+    },
+    "1443": {
+      "name": "立益物流",
+      "close": 26.65,
+      "volume": 31647,
+      "instNetBuy": 22300
+    },
+    "1444": {
+      "name": "力麗",
+      "close": 8.1,
+      "volume": 2910032,
+      "instNetBuy": -182933
+    },
+    "1445": {
+      "name": "大宇",
+      "close": 11.3,
+      "volume": 73290,
+      "instNetBuy": 23200
+    },
+    "1446": {
+      "name": "宏和",
+      "close": 13.9,
+      "volume": 216905,
+      "instNetBuy": -1864
+    },
+    "1447": {
+      "name": "力鵬",
+      "close": 7.75,
+      "volume": 2454453,
+      "instNetBuy": 252365
+    },
+    "1449": {
+      "name": "佳和",
+      "close": 12.7,
+      "volume": 655435,
+      "instNetBuy": 76705
+    },
+    "1451": {
+      "name": "年興",
+      "close": 17.35,
+      "volume": 189218,
+      "instNetBuy": 22300
+    },
+    "1452": {
+      "name": "宏益",
+      "close": 11.5,
+      "volume": 50360,
+      "instNetBuy": 25000
+    },
+    "1453": {
+      "name": "大將",
+      "close": 11.1,
+      "volume": 34749,
+      "instNetBuy": 18900
+    },
+    "1454": {
+      "name": "台富",
+      "close": 12.95,
+      "volume": 31451,
+      "instNetBuy": 16200
+    },
+    "1455": {
+      "name": "集盛",
+      "close": 9.11,
+      "volume": 1009556,
+      "instNetBuy": -222408
+    },
+    "1456": {
+      "name": "怡華",
+      "close": 13.55,
+      "volume": 68772,
+      "instNetBuy": 29600
+    },
+    "1457": {
+      "name": "宜進",
+      "close": 14.25,
+      "volume": 102724,
+      "instNetBuy": 77300
+    },
+    "1459": {
+      "name": "聯發",
+      "close": 11.65,
+      "volume": 99829,
+      "instNetBuy": 39000
+    },
+    "1460": {
+      "name": "宏遠",
+      "close": 6.99,
+      "volume": 541272,
+      "instNetBuy": 7674
+    },
+    "1463": {
+      "name": "強盛新",
+      "close": 18,
+      "volume": 106014,
+      "instNetBuy": 90006
+    },
+    "1464": {
+      "name": "得力",
+      "close": 10.45,
+      "volume": 426508,
+      "instNetBuy": 27627
+    },
+    "1465": {
+      "name": "偉全",
+      "close": 12.9,
+      "volume": 73549,
+      "instNetBuy": 12700
+    },
+    "1466": {
+      "name": "聚隆",
+      "close": 17.3,
+      "volume": 2688331,
+      "instNetBuy": 357917
+    },
+    "1467": {
+      "name": "南緯",
+      "close": 9.57,
+      "volume": 1153351,
+      "instNetBuy": 245316
+    },
+    "1468": {
+      "name": "昶和",
+      "close": 14.95,
+      "volume": 137324,
+      "instNetBuy": 5321
+    },
+    "1470": {
+      "name": "大統新創",
+      "close": 23,
+      "volume": 5015,
+      "instNetBuy": 1015
+    },
+    "1471": {
+      "name": "首利",
+      "close": 9.84,
+      "volume": 457186,
+      "instNetBuy": 80400
+    },
+    "1472": {
+      "name": "三洋實業",
+      "close": 89,
+      "volume": 74907,
+      "instNetBuy": 5900
+    },
+    "1473": {
+      "name": "台南",
+      "close": 20.25,
+      "volume": 46504,
+      "instNetBuy": 30400
+    },
+    "1474": {
+      "name": "弘裕",
+      "close": 10.5,
+      "volume": 107860,
+      "instNetBuy": 48200
+    },
+    "1475": {
+      "name": "業旺",
+      "close": 27.45,
+      "volume": 18800,
+      "instNetBuy": 3100
+    },
+    "1476": {
+      "name": "儒鴻",
+      "close": 336.5,
+      "volume": 2768304,
+      "instNetBuy": 201448
+    },
+    "1477": {
+      "name": "聚陽",
+      "close": 216,
+      "volume": 1071118,
+      "instNetBuy": -86383
+    },
+    "1503": {
+      "name": "士電",
+      "close": 200,
+      "volume": 2217815,
+      "instNetBuy": 330932
+    },
+    "1504": {
+      "name": "東元",
+      "close": 66.3,
+      "volume": 9254281,
+      "instNetBuy": -933799
+    },
+    "1506": {
+      "name": "正道",
+      "close": 10.8,
+      "volume": 595079,
+      "instNetBuy": -206200
+    },
+    "1512": {
+      "name": "瑞利",
+      "close": 6.73,
+      "volume": 57271,
+      "instNetBuy": 12600
+    },
+    "1513": {
+      "name": "中興電",
+      "close": 157.5,
+      "volume": 4311536,
+      "instNetBuy": 1580
+    },
+    "1514": {
+      "name": "亞力",
+      "close": 104,
+      "volume": 2539248,
+      "instNetBuy": -72076
+    },
+    "1515": {
+      "name": "力山",
+      "close": 44,
+      "volume": 2615568,
+      "instNetBuy": 360908
+    },
+    "1516": {
+      "name": "川飛",
+      "close": 15.7,
+      "volume": 31088,
+      "instNetBuy": -7315
+    },
+    "1517": {
+      "name": "利奇",
+      "close": 11.6,
+      "volume": 4061549,
+      "instNetBuy": -131165
+    },
+    "1519": {
+      "name": "華城",
+      "close": 668,
+      "volume": 2159488,
+      "instNetBuy": 328540
+    },
+    "1521": {
+      "name": "大億",
+      "close": 25.15,
+      "volume": 47020,
+      "instNetBuy": 2000
+    },
+    "1522": {
+      "name": "堤維西",
+      "close": 28.7,
+      "volume": 422424,
+      "instNetBuy": 43612
+    },
+    "1524": {
+      "name": "耿鼎",
+      "close": 26.5,
+      "volume": 470334,
+      "instNetBuy": 44800
+    },
+    "1525": {
+      "name": "江申",
+      "close": 67.4,
+      "volume": 13218,
+      "instNetBuy": 4200
+    },
+    "1526": {
+      "name": "日馳",
+      "close": 17.35,
+      "volume": 5368249,
+      "instNetBuy": -275497
+    },
+    "1527": {
+      "name": "鑽全",
+      "close": 33.6,
+      "volume": 201768,
+      "instNetBuy": 20089
+    },
+    "1528": {
+      "name": "恩德",
+      "close": 19.75,
+      "volume": 1581499,
+      "instNetBuy": 473757
+    },
+    "1529": {
+      "name": "樂事綠能",
+      "close": 20.4,
+      "volume": 731906,
+      "instNetBuy": 169518
+    },
+    "1530": {
+      "name": "亞崴",
+      "close": 29.7,
+      "volume": 58974,
+      "instNetBuy": 14018
+    },
+    "1531": {
+      "name": "高林股",
+      "close": 13,
+      "volume": 99809,
+      "instNetBuy": 42000
+    },
+    "1532": {
+      "name": "勤美",
+      "close": 23.15,
+      "volume": 315275,
+      "instNetBuy": 86100
+    },
+    "1533": {
+      "name": "車王電",
+      "close": 33.65,
+      "volume": 105838,
+      "instNetBuy": -390
+    },
+    "1535": {
+      "name": "中宇",
+      "close": 50.3,
+      "volume": 263457,
+      "instNetBuy": 12100
+    },
+    "1536": {
+      "name": "和大",
+      "close": 49.3,
+      "volume": 2495958,
+      "instNetBuy": -265710
+    },
+    "1537": {
+      "name": "廣隆",
+      "close": 126,
+      "volume": 83634,
+      "instNetBuy": 29553
+    },
+    "1538": {
+      "name": "正峰",
+      "close": 9.8,
+      "volume": 14323,
+      "instNetBuy": -111
+    },
+    "1539": {
+      "name": "巨庭",
+      "close": 15.85,
+      "volume": 103378,
+      "instNetBuy": -24909
+    },
+    "1540": {
+      "name": "喬福",
+      "close": 21.45,
+      "volume": 270558,
+      "instNetBuy": -14713
+    },
+    "1541": {
+      "name": "錩泰",
+      "close": 22.05,
+      "volume": 38560,
+      "instNetBuy": 1300
+    },
+    "1558": {
+      "name": "伸興",
+      "close": 94.3,
+      "volume": 615826,
+      "instNetBuy": 32365
+    },
+    "1560": {
+      "name": "中砂",
+      "close": 647,
+      "volume": 2601632,
+      "instNetBuy": -63289
+    },
+    "1563": {
+      "name": "巧新",
+      "close": 59,
+      "volume": 1684875,
+      "instNetBuy": 62465
+    },
+    "1568": {
+      "name": "倉佑",
+      "close": 28.85,
+      "volume": 990060,
+      "instNetBuy": 207753
+    },
+    "1582": {
+      "name": "信錦",
+      "close": 70.4,
+      "volume": 1217125,
+      "instNetBuy": 359776
+    },
+    "1583": {
+      "name": "程泰",
+      "close": 49.45,
+      "volume": 23171,
+      "instNetBuy": 9800
+    },
+    "1587": {
+      "name": "吉茂",
+      "close": 25.1,
+      "volume": 286233,
+      "instNetBuy": 93243
+    },
+    "1590": {
+      "name": "亞德客-KY",
+      "close": 1335,
+      "volume": 1342429,
+      "instNetBuy": -192667
+    },
+    "1597": {
+      "name": "直得",
+      "close": 122,
+      "volume": 2049571,
+      "instNetBuy": 838513
+    },
+    "1598": {
+      "name": "岱宇",
+      "close": 19.9,
+      "volume": 180498,
+      "instNetBuy": 40005
+    },
+    "1603": {
+      "name": "華電",
+      "close": 28.6,
+      "volume": 215973,
+      "instNetBuy": 67200
+    },
+    "1604": {
+      "name": "聲寶",
+      "close": 23.4,
+      "volume": 254987,
+      "instNetBuy": 131400
+    },
+    "1605": {
+      "name": "華新",
+      "close": 31.8,
+      "volume": 21523818,
+      "instNetBuy": -1371669
+    },
+    "1608": {
+      "name": "華榮",
+      "close": 31.45,
+      "volume": 3897016,
+      "instNetBuy": -1317031
+    },
+    "1609": {
+      "name": "大亞",
+      "close": 36.35,
+      "volume": 4315679,
+      "instNetBuy": -195387
+    },
+    "1611": {
+      "name": "中電",
+      "close": 12.15,
+      "volume": 782680,
+      "instNetBuy": -110980
+    },
+    "1612": {
+      "name": "宏泰",
+      "close": 31,
+      "volume": 1344774,
+      "instNetBuy": -121166
+    },
+    "1614": {
+      "name": "三洋電",
+      "close": 31.1,
+      "volume": 84467,
+      "instNetBuy": 39179
+    },
+    "1615": {
+      "name": "大山",
+      "close": 46.55,
+      "volume": 300674,
+      "instNetBuy": -33673
+    },
+    "1616": {
+      "name": "億泰",
+      "close": 19.9,
+      "volume": 579075,
+      "instNetBuy": 21913
+    },
+    "1617": {
+      "name": "榮星",
+      "close": 19.4,
+      "volume": 1202051,
+      "instNetBuy": 69735
+    },
+    "1618": {
+      "name": "合機",
+      "close": 37.5,
+      "volume": 520010,
+      "instNetBuy": -32675
+    },
+    "1623": {
+      "name": "大東電",
+      "close": 219.5,
+      "volume": 223491,
+      "instNetBuy": 15350
+    },
+    "1626": {
+      "name": "艾美特-KY",
+      "close": 10.05,
+      "volume": 67455,
+      "instNetBuy": 35028
+    },
+    "1702": {
+      "name": "南僑",
+      "close": 33.9,
+      "volume": 361614,
+      "instNetBuy": 24974
+    },
+    "1707": {
+      "name": "葡萄王",
+      "close": 92.7,
+      "volume": 544586,
+      "instNetBuy": 216500
+    },
+    "1708": {
+      "name": "東鹼",
+      "close": 52.5,
+      "volume": 5519120,
+      "instNetBuy": 595984
+    },
+    "1709": {
+      "name": "和益",
+      "close": 26.2,
+      "volume": 4381044,
+      "instNetBuy": 553809
+    },
+    "1710": {
+      "name": "東聯",
+      "close": 15.45,
+      "volume": 8337541,
+      "instNetBuy": -1837278
+    },
+    "1711": {
+      "name": "永光",
+      "close": 36.75,
+      "volume": 6709716,
+      "instNetBuy": 1201926
+    },
+    "1712": {
+      "name": "興農",
+      "close": 39.85,
+      "volume": 1045791,
+      "instNetBuy": 400160
+    },
+    "1713": {
+      "name": "國化",
+      "close": 47.4,
+      "volume": 137258,
+      "instNetBuy": 500
+    },
+    "1714": {
+      "name": "和桐",
+      "close": 15,
+      "volume": 20737149,
+      "instNetBuy": 1450682
+    },
+    "1717": {
+      "name": "長興",
+      "close": 62.1,
+      "volume": 13114082,
+      "instNetBuy": 991646
+    },
+    "1718": {
+      "name": "中纖",
+      "close": 13,
+      "volume": 8613985,
+      "instNetBuy": 979000
+    },
+    "1720": {
+      "name": "生達",
+      "close": 63.6,
+      "volume": 338400,
+      "instNetBuy": 87896
+    },
+    "1721": {
+      "name": "三晃",
+      "close": 20.35,
+      "volume": 1388643,
+      "instNetBuy": 429100
+    },
+    "1722": {
+      "name": "台肥",
+      "close": 46.85,
+      "volume": 1995856,
+      "instNetBuy": -270306
+    },
+    "1723": {
+      "name": "中碳",
+      "close": 86.6,
+      "volume": 947478,
+      "instNetBuy": -56789
+    },
+    "1725": {
+      "name": "元禎",
+      "close": 29,
+      "volume": 98399,
+      "instNetBuy": 11000
+    },
+    "1726": {
+      "name": "永記",
+      "close": 80.2,
+      "volume": 148873,
+      "instNetBuy": -14771
+    },
+    "1727": {
+      "name": "中華化",
+      "close": 77,
+      "volume": 3530670,
+      "instNetBuy": 656060
+    },
+    "1730": {
+      "name": "花仙子",
+      "close": 51.4,
+      "volume": 40190,
+      "instNetBuy": 15000
+    },
+    "1731": {
+      "name": "美吾華",
+      "close": 20.65,
+      "volume": 171130,
+      "instNetBuy": 2200
+    },
+    "1732": {
+      "name": "毛寶",
+      "close": 26.4,
+      "volume": 333169,
+      "instNetBuy": -59712
+    },
+    "1733": {
+      "name": "五鼎",
+      "close": 31.65,
+      "volume": 323100,
+      "instNetBuy": 56630
+    },
+    "1734": {
+      "name": "杏輝",
+      "close": 32.35,
+      "volume": 451012,
+      "instNetBuy": 156713
+    },
+    "1735": {
+      "name": "日勝化",
+      "close": 19.8,
+      "volume": 238443,
+      "instNetBuy": -13488
+    },
+    "1736": {
+      "name": "喬山",
+      "close": 135,
+      "volume": 1448064,
+      "instNetBuy": 125352
+    },
+    "1737": {
+      "name": "臺鹽",
+      "close": 31.95,
+      "volume": 103153,
+      "instNetBuy": 24300
+    },
+    "1752": {
+      "name": "南光",
+      "close": 31.55,
+      "volume": 55005,
+      "instNetBuy": 10689
+    },
+    "1760": {
+      "name": "寶齡富錦",
+      "close": 61.4,
+      "volume": 740886,
+      "instNetBuy": -24755
+    },
+    "1762": {
+      "name": "中化生",
+      "close": 34.8,
+      "volume": 229708,
+      "instNetBuy": -29804
+    },
+    "1773": {
+      "name": "勝一",
+      "close": 167.5,
+      "volume": 1116007,
+      "instNetBuy": -282321
+    },
+    "1776": {
+      "name": "展宇",
+      "close": 17.95,
+      "volume": 102314,
+      "instNetBuy": -8000
+    },
+    "1783": {
+      "name": "和康生",
+      "close": 40.15,
+      "volume": 119902,
+      "instNetBuy": 53500
+    },
+    "1786": {
+      "name": "科妍",
+      "close": 50.3,
+      "volume": 299181,
+      "instNetBuy": 107691
+    },
+    "1789": {
+      "name": "神隆",
+      "close": 19.95,
+      "volume": 809554,
+      "instNetBuy": 148951
+    },
+    "1795": {
+      "name": "美時",
+      "close": 189,
+      "volume": 1387480,
+      "instNetBuy": 275974
+    },
+    "1802": {
+      "name": "台玻",
+      "close": 53.3,
+      "volume": 33569742,
+      "instNetBuy": 3368951
+    },
+    "1805": {
+      "name": "寶徠",
+      "close": 10.05,
+      "volume": 126096,
+      "instNetBuy": 35000
+    },
+    "1806": {
+      "name": "冠軍",
+      "close": 8.23,
+      "volume": 186543,
+      "instNetBuy": 109500
+    },
+    "1808": {
+      "name": "潤隆",
+      "close": 31.8,
+      "volume": 1130605,
+      "instNetBuy": 67000
+    },
+    "1809": {
+      "name": "中釉",
+      "close": 38.05,
+      "volume": 2255921,
+      "instNetBuy": 666192
+    },
+    "1810": {
+      "name": "和成",
+      "close": 28.25,
+      "volume": 39284589,
+      "instNetBuy": -3844476
+    },
+    "1817": {
+      "name": "凱撒衛",
+      "close": 38.55,
+      "volume": 33593,
+      "instNetBuy": 4150
+    },
+    "1903": {
+      "name": "士紙",
+      "close": 48.65,
+      "volume": 103059,
+      "instNetBuy": 37249
+    },
+    "1904": {
+      "name": "正隆",
+      "close": 21.35,
+      "volume": 1760726,
+      "instNetBuy": -74705
+    },
+    "1905": {
+      "name": "華紙",
+      "close": 13.85,
+      "volume": 3342737,
+      "instNetBuy": -261348
+    },
+    "1906": {
+      "name": "寶隆",
+      "close": 10.9,
+      "volume": 316987,
+      "instNetBuy": 22500
+    },
+    "1907": {
+      "name": "永豐餘",
+      "close": 27.75,
+      "volume": 1430442,
+      "instNetBuy": -388192
+    },
+    "1909": {
+      "name": "榮成",
+      "close": 9.9,
+      "volume": 3595981,
+      "instNetBuy": -492000
+    },
+    "2002": {
+      "name": "中鋼",
+      "close": 18.55,
+      "volume": 40618078,
+      "instNetBuy": 3854533
+    },
+    "2006": {
+      "name": "東和鋼鐵",
+      "close": 70,
+      "volume": 3116691,
+      "instNetBuy": -681959
+    },
+    "2007": {
+      "name": "燁興",
+      "close": 7.11,
+      "volume": 196524,
+      "instNetBuy": 73369
+    },
+    "2008": {
+      "name": "高興昌",
+      "close": 31.3,
+      "volume": 67409,
+      "instNetBuy": 32188
+    },
+    "2009": {
+      "name": "第一銅",
+      "close": 36.1,
+      "volume": 1772072,
+      "instNetBuy": -80865
+    },
+    "2010": {
+      "name": "春源",
+      "close": 20.85,
+      "volume": 1025149,
+      "instNetBuy": 173364
+    },
+    "2012": {
+      "name": "春雨",
+      "close": 15.55,
+      "volume": 70266,
+      "instNetBuy": 35000
+    },
+    "2013": {
+      "name": "中鋼構",
+      "close": 41.1,
+      "volume": 129319,
+      "instNetBuy": 64356
+    },
+    "2014": {
+      "name": "中鴻",
+      "close": 16.9,
+      "volume": 2625756,
+      "instNetBuy": -551000
+    },
+    "2015": {
+      "name": "豐興",
+      "close": 63.7,
+      "volume": 211770,
+      "instNetBuy": 32700
+    },
+    "2017": {
+      "name": "官田鋼",
+      "close": 8.82,
+      "volume": 377786,
+      "instNetBuy": 52000
+    },
+    "2020": {
+      "name": "美亞",
+      "close": 21.1,
+      "volume": 268989,
+      "instNetBuy": -22217
+    },
+    "2022": {
+      "name": "聚亨",
+      "close": 7.63,
+      "volume": 555419,
+      "instNetBuy": 171919
+    },
+    "2023": {
+      "name": "燁輝",
+      "close": 13.7,
+      "volume": 1191988,
+      "instNetBuy": 185110
+    },
+    "2024": {
+      "name": "志聯",
+      "close": 14.05,
+      "volume": 25715,
+      "instNetBuy": 14450
+    },
+    "2025": {
+      "name": "千興",
+      "close": 11.25,
+      "volume": 276393,
+      "instNetBuy": -20103
+    },
+    "2027": {
+      "name": "大成鋼",
+      "close": 40.45,
+      "volume": 10955143,
+      "instNetBuy": -581800
+    },
+    "2028": {
+      "name": "威致",
+      "close": 15.55,
+      "volume": 80677,
+      "instNetBuy": 37400
+    },
+    "2029": {
+      "name": "盛餘",
+      "close": 20.6,
+      "volume": 216551,
+      "instNetBuy": 113227
+    },
+    "2030": {
+      "name": "彰源",
+      "close": 17.15,
+      "volume": 571089,
+      "instNetBuy": 10899
+    },
+    "2031": {
+      "name": "新光鋼",
+      "close": 39.05,
+      "volume": 714350,
+      "instNetBuy": -78798
+    },
+    "2032": {
+      "name": "新鋼",
+      "close": 15.65,
+      "volume": 267461,
+      "instNetBuy": 30200
+    },
+    "2033": {
+      "name": "佳大",
+      "close": 14.9,
+      "volume": 91000,
+      "instNetBuy": -2000
+    },
+    "2034": {
+      "name": "允強",
+      "close": 19.35,
+      "volume": 1403535,
+      "instNetBuy": -576021
+    },
+    "2038": {
+      "name": "海光",
+      "close": 12.4,
+      "volume": 427591,
+      "instNetBuy": 74200
+    },
+    "2049": {
+      "name": "上銀",
+      "close": 300,
+      "volume": 2284977,
+      "instNetBuy": 253139
+    },
+    "2059": {
+      "name": "川湖",
+      "close": 7750,
+      "volume": 797667,
+      "instNetBuy": 4221
+    },
+    "2062": {
+      "name": "橋椿",
+      "close": 18.85,
+      "volume": 227948,
+      "instNetBuy": 13960
+    },
+    "2069": {
+      "name": "運錩",
+      "close": 18.6,
+      "volume": 308341,
+      "instNetBuy": 38800
+    },
+    "2072": {
+      "name": "世紀風電",
+      "close": 141.5,
+      "volume": 278164,
+      "instNetBuy": 54240
+    },
+    "2101": {
+      "name": "南港",
+      "close": 33.5,
+      "volume": 1943500,
+      "instNetBuy": 19563
+    },
+    "2102": {
+      "name": "泰豐",
+      "close": 18.85,
+      "volume": 196460,
+      "instNetBuy": 134197
+    },
+    "2103": {
+      "name": "台橡",
+      "close": 23.05,
+      "volume": 6323933,
+      "instNetBuy": 141771
+    },
+    "2104": {
+      "name": "國際中橡",
+      "close": 10.4,
+      "volume": 3665208,
+      "instNetBuy": -661879
+    },
+    "2105": {
+      "name": "正新",
+      "close": 33.2,
+      "volume": 12767361,
+      "instNetBuy": 2206031
+    },
+    "2106": {
+      "name": "建大",
+      "close": 18.1,
+      "volume": 957555,
+      "instNetBuy": 20449
+    },
+    "2107": {
+      "name": "厚生",
+      "close": 25.8,
+      "volume": 271023,
+      "instNetBuy": 59710
+    },
+    "2108": {
+      "name": "南帝",
+      "close": 27.55,
+      "volume": 1040909,
+      "instNetBuy": -317601
+    },
+    "2109": {
+      "name": "華豐",
+      "close": 14.6,
+      "volume": 97755,
+      "instNetBuy": 45700
+    },
+    "2114": {
+      "name": "鑫永銓",
+      "close": 88,
+      "volume": 59367,
+      "instNetBuy": 13300
+    },
+    "2115": {
+      "name": "六暉-KY",
+      "close": 22,
+      "volume": 72701,
+      "instNetBuy": 17700
+    },
+    "2201": {
+      "name": "裕隆",
+      "close": 28.3,
+      "volume": 2975562,
+      "instNetBuy": -387448
+    },
+    "2204": {
+      "name": "中華",
+      "close": 56.4,
+      "volume": 923044,
+      "instNetBuy": -136660
+    },
+    "2206": {
+      "name": "三陽工業",
+      "close": 64.8,
+      "volume": 4242994,
+      "instNetBuy": 205690
+    },
+    "2207": {
+      "name": "和泰車",
+      "close": 490,
+      "volume": 482302,
+      "instNetBuy": 80154
+    },
+    "2208": {
+      "name": "台船",
+      "close": 20.15,
+      "volume": 8119090,
+      "instNetBuy": -863278
+    },
+    "2211": {
+      "name": "長榮鋼",
+      "close": 87,
+      "volume": 1119814,
+      "instNetBuy": -115859
+    },
+    "2227": {
+      "name": "裕日車",
+      "close": 49.8,
+      "volume": 64127,
+      "instNetBuy": 44000
+    },
+    "2228": {
+      "name": "劍麟",
+      "close": 77.5,
+      "volume": 152058,
+      "instNetBuy": -3000
+    },
+    "2231": {
+      "name": "為升",
+      "close": 107,
+      "volume": 1383593,
+      "instNetBuy": 460
+    },
+    "2233": {
+      "name": "宇隆",
+      "close": 202,
+      "volume": 2014907,
+      "instNetBuy": 779553
+    },
+    "2236": {
+      "name": "百達-KY",
+      "close": 153,
+      "volume": 941031,
+      "instNetBuy": -171648
+    },
+    "2239": {
+      "name": "英利-KY",
+      "close": 19.95,
+      "volume": 74000,
+      "instNetBuy": 19000
+    },
+    "2241": {
+      "name": "艾姆勒",
+      "close": 35.65,
+      "volume": 953972,
+      "instNetBuy": -124229
+    },
+    "2243": {
+      "name": "宏旭-KY",
+      "close": 51.8,
+      "volume": 833848,
+      "instNetBuy": -82663
+    },
+    "2247": {
+      "name": "汎德永業",
+      "close": 220,
+      "volume": 68489,
+      "instNetBuy": 4400
+    },
+    "2248": {
+      "name": "華勝-KY",
+      "close": 65.2,
+      "volume": 454898,
+      "instNetBuy": 64769
+    },
+    "2250": {
+      "name": "IKKA-KY",
+      "close": 60.4,
+      "volume": 312368,
+      "instNetBuy": 54600
+    },
+    "2254": {
+      "name": "巨鎧精密-創",
+      "close": 61.2,
+      "volume": 29382,
+      "instNetBuy": 4199
+    },
+    "2258": {
+      "name": "鴻華先進-創",
+      "close": 32.45,
+      "volume": 589032,
+      "instNetBuy": 333355
+    },
+    "2301": {
+      "name": "光寶科",
+      "close": 193.5,
+      "volume": 16919854,
+      "instNetBuy": 624742
+    },
+    "2302": {
+      "name": "麗正",
+      "close": 39.15,
+      "volume": 3704657,
+      "instNetBuy": 743369
+    },
+    "2303": {
+      "name": "聯電",
+      "close": 130,
+      "volume": 297589744,
+      "instNetBuy": -38765679
+    },
+    "2305": {
+      "name": "全友",
+      "close": 32.35,
+      "volume": 6375895,
+      "instNetBuy": 26195
+    },
+    "2308": {
+      "name": "台達電",
+      "close": 1705,
+      "volume": 11567901,
+      "instNetBuy": -159585
+    },
+    "2312": {
+      "name": "金寶",
+      "close": 30.1,
+      "volume": 19469537,
+      "instNetBuy": 1467511
+    },
+    "2313": {
+      "name": "華通",
+      "close": 199,
+      "volume": 42275231,
+      "instNetBuy": -2149899
+    },
+    "2314": {
+      "name": "台揚",
+      "close": 12.45,
+      "volume": 120717,
+      "instNetBuy": -16000
+    },
+    "2316": {
+      "name": "楠梓電",
+      "close": 153,
+      "volume": 3593844,
+      "instNetBuy": 745705
+    },
+    "2317": {
+      "name": "鴻海",
+      "close": 234.5,
+      "volume": 48579978,
+      "instNetBuy": 3922279
+    },
+    "2321": {
+      "name": "東訊",
+      "close": 15.2,
+      "volume": 1100,
+      "instNetBuy": null
+    },
+    "2323": {
+      "name": "中環",
+      "close": 10.25,
+      "volume": 7071503,
+      "instNetBuy": -1742074
+    },
+    "2324": {
+      "name": "仁寶",
+      "close": 34.4,
+      "volume": 58621914,
+      "instNetBuy": -11185667
+    },
+    "2327": {
+      "name": "國巨*",
+      "close": 630,
+      "volume": 39385060,
+      "instNetBuy": 2645733
+    },
+    "2328": {
+      "name": "廣宇",
+      "close": 45.1,
+      "volume": 2932732,
+      "instNetBuy": 18257
+    },
+    "2329": {
+      "name": "華泰",
+      "close": 43.8,
+      "volume": 5307545,
+      "instNetBuy": 73421
+    },
+    "2330": {
+      "name": "台積電",
+      "close": 2320,
+      "volume": 55790346,
+      "instNetBuy": 4002406
+    },
+    "2331": {
+      "name": "精英",
+      "close": 19.2,
+      "volume": 1785869,
+      "instNetBuy": 251996
+    },
+    "2332": {
+      "name": "友訊",
+      "close": 20.65,
+      "volume": 27528170,
+      "instNetBuy": -3770743
+    },
+    "2337": {
+      "name": "旺宏",
+      "close": 117.5,
+      "volume": 71475589,
+      "instNetBuy": 2834457
+    },
+    "2338": {
+      "name": "光罩",
+      "close": 41.75,
+      "volume": 2656235,
+      "instNetBuy": -319234
+    },
+    "2340": {
+      "name": "台亞",
+      "close": 31.25,
+      "volume": 4112954,
+      "instNetBuy": -248457
+    },
+    "2342": {
+      "name": "茂矽",
+      "close": 40.4,
+      "volume": 3330138,
+      "instNetBuy": 583968
+    },
+    "2344": {
+      "name": "華邦電",
+      "close": 151,
+      "volume": 107223362,
+      "instNetBuy": 4515241
+    },
+    "2345": {
+      "name": "智邦",
+      "close": 2090,
+      "volume": 3939531,
+      "instNetBuy": 32811
+    },
+    "2347": {
+      "name": "聯強",
+      "close": 84,
+      "volume": 8756979,
+      "instNetBuy": 1817711
+    },
+    "2348": {
+      "name": "海悅",
+      "close": 77.5,
+      "volume": 686156,
+      "instNetBuy": 198258
+    },
+    "2349": {
+      "name": "錸德",
+      "close": 11.1,
+      "volume": 2440465,
+      "instNetBuy": 254264
+    },
+    "2351": {
+      "name": "順德",
+      "close": 156,
+      "volume": 5734007,
+      "instNetBuy": 1830415
+    },
+    "2352": {
+      "name": "佳世達",
+      "close": 29.85,
+      "volume": 10241030,
+      "instNetBuy": -2436814
+    },
+    "2353": {
+      "name": "宏碁",
+      "close": 29.25,
+      "volume": 25088311,
+      "instNetBuy": 172893
+    },
+    "2354": {
+      "name": "鴻準",
+      "close": 54,
+      "volume": 5868971,
+      "instNetBuy": -132320
+    },
+    "2355": {
+      "name": "敬鵬",
+      "close": 42.55,
+      "volume": 5534660,
+      "instNetBuy": 623467
+    },
+    "2356": {
+      "name": "英業達",
+      "close": 57.2,
+      "volume": 33764507,
+      "instNetBuy": 4144538
+    },
+    "2357": {
+      "name": "華碩",
+      "close": 688,
+      "volume": 3669278,
+      "instNetBuy": 470167
+    },
+    "2359": {
+      "name": "所羅門",
+      "close": 134.5,
+      "volume": 5235065,
+      "instNetBuy": -172718
+    },
+    "2360": {
+      "name": "致茂",
+      "close": 1835,
+      "volume": 2310803,
+      "instNetBuy": 103229
+    },
+    "2362": {
+      "name": "藍天",
+      "close": 41.9,
+      "volume": 1381960,
+      "instNetBuy": 309889
+    },
+    "2363": {
+      "name": "矽統",
+      "close": 56.7,
+      "volume": 6243986,
+      "instNetBuy": 492859
+    },
+    "2364": {
+      "name": "倫飛",
+      "close": 68.2,
+      "volume": 129871,
+      "instNetBuy": -14249
+    },
+    "2365": {
+      "name": "昆盈",
+      "close": 29.3,
+      "volume": 1998025,
+      "instNetBuy": 407995
+    },
+    "2367": {
+      "name": "燿華",
+      "close": 43.25,
+      "volume": 12233663,
+      "instNetBuy": 3465127
+    },
+    "2368": {
+      "name": "金像電",
+      "close": 927,
+      "volume": 5875440,
+      "instNetBuy": 240260
+    },
+    "2369": {
+      "name": "菱生",
+      "close": 33.75,
+      "volume": 11935502,
+      "instNetBuy": 1076045
+    },
+    "2371": {
+      "name": "大同",
+      "close": 25.9,
+      "volume": 9934155,
+      "instNetBuy": 1547636
+    },
+    "2373": {
+      "name": "震旦行",
+      "close": 54.2,
+      "volume": 57000,
+      "instNetBuy": 31000
+    },
+    "2374": {
+      "name": "佳能",
+      "close": 65.2,
+      "volume": 4639268,
+      "instNetBuy": 724386
+    },
+    "2375": {
+      "name": "凱美",
+      "close": 135.5,
+      "volume": 6498266,
+      "instNetBuy": 2071444
+    },
+    "2376": {
+      "name": "技嘉",
+      "close": 331,
+      "volume": 7450480,
+      "instNetBuy": 45968
+    },
+    "2377": {
+      "name": "微星",
+      "close": 141.5,
+      "volume": 13485283,
+      "instNetBuy": 2313901
+    },
+    "2379": {
+      "name": "瑞昱",
+      "close": 709,
+      "volume": 4306249,
+      "instNetBuy": 52744
+    },
+    "2380": {
+      "name": "虹光",
+      "close": 19.5,
+      "volume": 16480,
+      "instNetBuy": null
+    },
+    "2382": {
+      "name": "廣達",
+      "close": 316,
+      "volume": 36017076,
+      "instNetBuy": 8688052
+    },
+    "2383": {
+      "name": "台光電",
+      "close": 4395,
+      "volume": 3220536,
+      "instNetBuy": 71657
+    },
+    "2385": {
+      "name": "群光",
+      "close": 102.5,
+      "volume": 5822954,
+      "instNetBuy": 871943
+    },
+    "2387": {
+      "name": "精元",
+      "close": 38,
+      "volume": 418921,
+      "instNetBuy": -2578
+    },
+    "2388": {
+      "name": "威盛",
+      "close": 72.4,
+      "volume": 9638215,
+      "instNetBuy": 2189160
+    },
+    "2390": {
+      "name": "云辰",
+      "close": 11.3,
+      "volume": 748488,
+      "instNetBuy": 23593
+    },
+    "2392": {
+      "name": "正崴",
+      "close": 34.4,
+      "volume": 2202804,
+      "instNetBuy": -706235
+    },
+    "2393": {
+      "name": "億光",
+      "close": 66.8,
+      "volume": 2882329,
+      "instNetBuy": -846690
+    },
+    "2395": {
+      "name": "研華",
+      "close": 516,
+      "volume": 3844639,
+      "instNetBuy": -85764
+    },
+    "2397": {
+      "name": "友通",
+      "close": 54.7,
+      "volume": 437027,
+      "instNetBuy": 93179
+    },
+    "2399": {
+      "name": "映泰",
+      "close": 36.7,
+      "volume": 3679401,
+      "instNetBuy": 631893
+    },
+    "2401": {
+      "name": "凌陽",
+      "close": 26.4,
+      "volume": 5324298,
+      "instNetBuy": -199803
+    },
+    "2402": {
+      "name": "毅嘉",
+      "close": 56.4,
+      "volume": 2411434,
+      "instNetBuy": -180456
+    },
+    "2404": {
+      "name": "漢唐",
+      "close": 1135,
+      "volume": 2265237,
+      "instNetBuy": 123297
+    },
+    "2405": {
+      "name": "輔信",
+      "close": 16.1,
+      "volume": 1900530,
+      "instNetBuy": -433697
+    },
+    "2406": {
+      "name": "國碩",
+      "close": 30.25,
+      "volume": 10057368,
+      "instNetBuy": -940253
+    },
+    "2408": {
+      "name": "南亞科",
+      "close": 381,
+      "volume": 73602466,
+      "instNetBuy": -7078343
+    },
+    "2409": {
+      "name": "友達",
+      "close": 25.4,
+      "volume": 235634776,
+      "instNetBuy": 15299459
+    },
+    "2412": {
+      "name": "中華電",
+      "close": 139,
+      "volume": 26231910,
+      "instNetBuy": 10514028
+    },
+    "2413": {
+      "name": "環科",
+      "close": 39.9,
+      "volume": 1062709,
+      "instNetBuy": 277039
+    },
+    "2414": {
+      "name": "精技",
+      "close": 56.3,
+      "volume": 879231,
+      "instNetBuy": 69700
+    },
+    "2415": {
+      "name": "錩新",
+      "close": 33.55,
+      "volume": 394141,
+      "instNetBuy": 43827
+    },
+    "2417": {
+      "name": "圓剛",
+      "close": 39.9,
+      "volume": 816345,
+      "instNetBuy": 65762
+    },
+    "2419": {
+      "name": "仲琦",
+      "close": 25.2,
+      "volume": 844298,
+      "instNetBuy": 266498
+    },
+    "2420": {
+      "name": "新巨",
+      "close": 56.8,
+      "volume": 759414,
+      "instNetBuy": -175367
+    },
+    "2421": {
+      "name": "建準",
+      "close": 125.5,
+      "volume": 1583201,
+      "instNetBuy": -66451
+    },
+    "2423": {
+      "name": "固緯",
+      "close": 76,
+      "volume": 473501,
+      "instNetBuy": 126400
+    },
+    "2424": {
+      "name": "隴華",
+      "close": 8.62,
+      "volume": 22736,
+      "instNetBuy": 4000
+    },
+    "2425": {
+      "name": "承啟",
+      "close": 41.6,
+      "volume": 1755018,
+      "instNetBuy": -11434
+    },
+    "2426": {
+      "name": "鼎元",
+      "close": 53.5,
+      "volume": 8884711,
+      "instNetBuy": 1861559
+    },
+    "2427": {
+      "name": "三商電",
+      "close": 23.9,
+      "volume": 925943,
+      "instNetBuy": 151300
+    },
+    "2428": {
+      "name": "興勤",
+      "close": 250,
+      "volume": 1482526,
+      "instNetBuy": 358309
+    },
+    "2429": {
+      "name": "銘旺科",
+      "close": 40,
+      "volume": 923898,
+      "instNetBuy": 54400
+    },
+    "2430": {
+      "name": "燦坤",
+      "close": 17.9,
+      "volume": 46192,
+      "instNetBuy": -5000
+    },
+    "2431": {
+      "name": "聯昌",
+      "close": 10.45,
+      "volume": 337367,
+      "instNetBuy": -81491
+    },
+    "2432": {
+      "name": "倚天酷碁-創",
+      "close": 28.3,
+      "volume": 19000,
+      "instNetBuy": 4000
+    },
+    "2433": {
+      "name": "互盛電",
+      "close": 41.9,
+      "volume": 41165,
+      "instNetBuy": 22011
+    },
+    "2434": {
+      "name": "統懋",
+      "close": 73.7,
+      "volume": 111404,
+      "instNetBuy": 16239
+    },
+    "2436": {
+      "name": "偉詮電",
+      "close": 56.6,
+      "volume": 3109969,
+      "instNetBuy": -26743
+    },
+    "2438": {
+      "name": "翔耀",
+      "close": 18.55,
+      "volume": 100056,
+      "instNetBuy": 50000
+    },
+    "2439": {
+      "name": "美律",
+      "close": 82.2,
+      "volume": 1364000,
+      "instNetBuy": -187634
+    },
+    "2440": {
+      "name": "太空梭",
+      "close": 15.5,
+      "volume": 456813,
+      "instNetBuy": 10300
+    },
+    "2441": {
+      "name": "超豐",
+      "close": 119,
+      "volume": 9004875,
+      "instNetBuy": 976373
+    },
+    "2442": {
+      "name": "新美齊",
+      "close": 19.2,
+      "volume": 973319,
+      "instNetBuy": 281400
+    },
+    "2444": {
+      "name": "兆勁",
+      "close": 11.2,
+      "volume": 292219,
+      "instNetBuy": -113900
+    },
+    "2449": {
+      "name": "京元電子",
+      "close": 270.5,
+      "volume": 30195062,
+      "instNetBuy": -3984689
+    },
+    "2450": {
+      "name": "神腦",
+      "close": 28.7,
+      "volume": 111023,
+      "instNetBuy": 13000
+    },
+    "2451": {
+      "name": "創見",
+      "close": 221,
+      "volume": 3639472,
+      "instNetBuy": 118451
+    },
+    "2453": {
+      "name": "凌群",
+      "close": 50.7,
+      "volume": 450969,
+      "instNetBuy": -76000
+    },
+    "2454": {
+      "name": "聯發科",
+      "close": 3340,
+      "volume": 9227986,
+      "instNetBuy": 1019118
+    },
+    "2455": {
+      "name": "全新",
+      "close": 277,
+      "volume": 5150601,
+      "instNetBuy": 1224448
+    },
+    "2457": {
+      "name": "飛宏",
+      "close": 24.05,
+      "volume": 2522856,
+      "instNetBuy": -30779
+    },
+    "2458": {
+      "name": "義隆",
+      "close": 161.5,
+      "volume": 2451747,
+      "instNetBuy": 121789
+    },
+    "2459": {
+      "name": "敦吉",
+      "close": 65.1,
+      "volume": 120620,
+      "instNetBuy": -30692
+    },
+    "2460": {
+      "name": "建通",
+      "close": 31.05,
+      "volume": 449523,
+      "instNetBuy": -121305
+    },
+    "2461": {
+      "name": "光群雷",
+      "close": 15.9,
+      "volume": 589278,
+      "instNetBuy": -22985
+    },
+    "2462": {
+      "name": "良得電",
+      "close": 20.2,
+      "volume": 256921,
+      "instNetBuy": -45588
+    },
+    "2464": {
+      "name": "盟立",
+      "close": 134.5,
+      "volume": 6589423,
+      "instNetBuy": 1325040
+    },
+    "2465": {
+      "name": "麗臺",
+      "close": 74.5,
+      "volume": 1255671,
+      "instNetBuy": 139600
+    },
+    "2466": {
+      "name": "冠西電",
+      "close": 119,
+      "volume": 1099593,
+      "instNetBuy": -93557
+    },
+    "2467": {
+      "name": "志聖",
+      "close": 522,
+      "volume": 1836618,
+      "instNetBuy": -59760
+    },
+    "2468": {
+      "name": "華經",
+      "close": 35.15,
+      "volume": 441375,
+      "instNetBuy": 117730
+    },
+    "2471": {
+      "name": "資通",
+      "close": 51.6,
+      "volume": 295045,
+      "instNetBuy": -149300
+    },
+    "2472": {
+      "name": "立隆電",
+      "close": 265.5,
+      "volume": 5994228,
+      "instNetBuy": 1906315
+    },
+    "2474": {
+      "name": "可成",
+      "close": 190,
+      "volume": 5670008,
+      "instNetBuy": 658429
+    },
+    "2476": {
+      "name": "鉅祥",
+      "close": 113.5,
+      "volume": 5527727,
+      "instNetBuy": 349656
+    },
+    "2477": {
+      "name": "美隆電",
+      "close": 20.85,
+      "volume": 198836,
+      "instNetBuy": 8700
+    },
+    "2478": {
+      "name": "大毅",
+      "close": 131,
+      "volume": 4306471,
+      "instNetBuy": 1118469
+    },
+    "2480": {
+      "name": "敦陽科",
+      "close": 155,
+      "volume": 198417,
+      "instNetBuy": 26214
+    },
+    "2481": {
+      "name": "強茂",
+      "close": 139.5,
+      "volume": 17365258,
+      "instNetBuy": 2308499
+    },
+    "2482": {
+      "name": "連宇",
+      "close": 18.35,
+      "volume": 661464,
+      "instNetBuy": -61331
+    },
+    "2483": {
+      "name": "百容",
+      "close": 41.9,
+      "volume": 3526537,
+      "instNetBuy": 861799
+    },
+    "2484": {
+      "name": "希華",
+      "close": 72.7,
+      "volume": 5998915,
+      "instNetBuy": -783047
+    },
+    "2485": {
+      "name": "兆赫",
+      "close": 40.95,
+      "volume": 6355492,
+      "instNetBuy": 2361028
+    },
+    "2486": {
+      "name": "一詮",
+      "close": 216.5,
+      "volume": 8987284,
+      "instNetBuy": -495556
+    },
+    "2488": {
+      "name": "漢平",
+      "close": 49.65,
+      "volume": 209374,
+      "instNetBuy": 42300
+    },
+    "2489": {
+      "name": "瑞軒",
+      "close": 30.6,
+      "volume": 13173196,
+      "instNetBuy": 2987729
+    },
+    "2491": {
+      "name": "吉祥全",
+      "close": 30.8,
+      "volume": 306628,
+      "instNetBuy": 8400
+    },
+    "2492": {
+      "name": "華新科",
+      "close": 277,
+      "volume": 1274622,
+      "instNetBuy": 268282
+    },
+    "2493": {
+      "name": "揚博",
+      "close": 217,
+      "volume": 4987848,
+      "instNetBuy": -287144
+    },
+    "2495": {
+      "name": "普安",
+      "close": 37.85,
+      "volume": 3425557,
+      "instNetBuy": 174173
+    },
+    "2496": {
+      "name": "卓越",
+      "close": 60.7,
+      "volume": 27821,
+      "instNetBuy": 1300
+    },
+    "2497": {
+      "name": "怡利電",
+      "close": 53.7,
+      "volume": 478492,
+      "instNetBuy": -59041
+    },
+    "2498": {
+      "name": "宏達電",
+      "close": 41.6,
+      "volume": 5916754,
+      "instNetBuy": 335552
+    },
+    "2501": {
+      "name": "國建",
+      "close": 22.3,
+      "volume": 1510107,
+      "instNetBuy": 143936
+    },
+    "2504": {
+      "name": "國產",
+      "close": 31.3,
+      "volume": 1908893,
+      "instNetBuy": -812022
+    },
+    "2505": {
+      "name": "國揚",
+      "close": 17.65,
+      "volume": 202483,
+      "instNetBuy": 61400
+    },
+    "2506": {
+      "name": "太設",
+      "close": 8.69,
+      "volume": 189509,
+      "instNetBuy": 40500
+    },
+    "2509": {
+      "name": "全坤建",
+      "close": 13.2,
+      "volume": 51079,
+      "instNetBuy": 17800
+    },
+    "2511": {
+      "name": "太子",
+      "close": 8.55,
+      "volume": 1246010,
+      "instNetBuy": 409200
+    },
+    "2514": {
+      "name": "龍邦",
+      "close": 12.85,
+      "volume": 95849,
+      "instNetBuy": 47909
+    },
+    "2515": {
+      "name": "中工",
+      "close": 12.2,
+      "volume": 7629024,
+      "instNetBuy": 107188
+    },
+    "2516": {
+      "name": "新建",
+      "close": 13.95,
+      "volume": 78907,
+      "instNetBuy": 14800
+    },
+    "2520": {
+      "name": "冠德",
+      "close": 35.75,
+      "volume": 1746101,
+      "instNetBuy": -118492
+    },
+    "2524": {
+      "name": "京城",
+      "close": 36.95,
+      "volume": 138341,
+      "instNetBuy": 83100
+    },
+    "2527": {
+      "name": "宏璟",
+      "close": 50.4,
+      "volume": 3376844,
+      "instNetBuy": -174665
+    },
+    "2528": {
+      "name": "皇普",
+      "close": 21.95,
+      "volume": 621555,
+      "instNetBuy": 75550
+    },
+    "2530": {
+      "name": "華建",
+      "close": 20.05,
+      "volume": 1450349,
+      "instNetBuy": 417093
+    },
+    "2534": {
+      "name": "宏盛",
+      "close": 17.2,
+      "volume": 551288,
+      "instNetBuy": 114211
+    },
+    "2535": {
+      "name": "達欣工",
+      "close": 86,
+      "volume": 297832,
+      "instNetBuy": -31487
+    },
+    "2536": {
+      "name": "宏普",
+      "close": 19.5,
+      "volume": 1152043,
+      "instNetBuy": -141480
+    },
+    "2537": {
+      "name": "聯上發",
+      "close": 10.95,
+      "volume": 1435596,
+      "instNetBuy": -312179
+    },
+    "2538": {
+      "name": "基泰",
+      "close": 9.83,
+      "volume": 311952,
+      "instNetBuy": -37836
+    },
+    "2539": {
+      "name": "櫻花建",
+      "close": 40.4,
+      "volume": 1234689,
+      "instNetBuy": -49013
+    },
+    "2540": {
+      "name": "愛山林",
+      "close": 54,
+      "volume": 549899,
+      "instNetBuy": 167800
+    },
+    "2542": {
+      "name": "興富發",
+      "close": 43.3,
+      "volume": 14382651,
+      "instNetBuy": 308821
+    },
+    "2543": {
+      "name": "皇昌",
+      "close": 38.5,
+      "volume": 1321648,
+      "instNetBuy": 341084
+    },
+    "2545": {
+      "name": "皇翔",
+      "close": 34.25,
+      "volume": 250893,
+      "instNetBuy": 24017
+    },
+    "2546": {
+      "name": "根基",
+      "close": 96.9,
+      "volume": 232600,
+      "instNetBuy": 39200
+    },
+    "2547": {
+      "name": "日勝生",
+      "close": 10.2,
+      "volume": 3096574,
+      "instNetBuy": -207999
+    },
+    "2548": {
+      "name": "華固",
+      "close": 101.5,
+      "volume": 1686466,
+      "instNetBuy": -44014
+    },
+    "2597": {
+      "name": "潤弘",
+      "close": 162,
+      "volume": 298412,
+      "instNetBuy": -12916
+    },
+    "2601": {
+      "name": "益航",
+      "close": 6.57,
+      "volume": 3876598,
+      "instNetBuy": -677800
+    },
+    "2603": {
+      "name": "長榮",
+      "close": 196,
+      "volume": 10069119,
+      "instNetBuy": 993729
+    },
+    "2605": {
+      "name": "新興",
+      "close": 30.65,
+      "volume": 6243566,
+      "instNetBuy": -410639
+    },
+    "2606": {
+      "name": "裕民",
+      "close": 61.6,
+      "volume": 3756160,
+      "instNetBuy": 382388
+    },
+    "2607": {
+      "name": "榮運",
+      "close": 46.3,
+      "volume": 400593,
+      "instNetBuy": 100457
+    },
+    "2608": {
+      "name": "嘉里大榮",
+      "close": 29.35,
+      "volume": 366191,
+      "instNetBuy": 215800
+    },
+    "2609": {
+      "name": "陽明",
+      "close": 49,
+      "volume": 17602639,
+      "instNetBuy": -742434
+    },
+    "2610": {
+      "name": "華航",
+      "close": 20.95,
+      "volume": 36809973,
+      "instNetBuy": 7409917
+    },
+    "2611": {
+      "name": "志信",
+      "close": 14.2,
+      "volume": 261994,
+      "instNetBuy": 94281
+    },
+    "2612": {
+      "name": "中航",
+      "close": 51.4,
+      "volume": 242071,
+      "instNetBuy": 15996
+    },
+    "2613": {
+      "name": "中櫃",
+      "close": 21.1,
+      "volume": 287084,
+      "instNetBuy": 121010
+    },
+    "2614": {
+      "name": "東森",
+      "close": 18.15,
+      "volume": 488280,
+      "instNetBuy": 115758
+    },
+    "2615": {
+      "name": "萬海",
+      "close": 80.5,
+      "volume": 12810255,
+      "instNetBuy": 2694814
+    },
+    "2616": {
+      "name": "山隆",
+      "close": 13.65,
+      "volume": 229709,
+      "instNetBuy": 7298
+    },
+    "2617": {
+      "name": "台航",
+      "close": 28.65,
+      "volume": 963587,
+      "instNetBuy": 87283
+    },
+    "2618": {
+      "name": "長榮航",
+      "close": 41.2,
+      "volume": 37206444,
+      "instNetBuy": 7596996
+    },
+    "2630": {
+      "name": "亞航",
+      "close": 53.6,
+      "volume": 12965648,
+      "instNetBuy": -1628133
+    },
+    "2633": {
+      "name": "台灣高鐵",
+      "close": 25.85,
+      "volume": 4152046,
+      "instNetBuy": 890285
+    },
+    "2634": {
+      "name": "漢翔",
+      "close": 65,
+      "volume": 86889053,
+      "instNetBuy": 2797368
+    },
+    "2636": {
+      "name": "台驊控股",
+      "close": 63,
+      "volume": 271798,
+      "instNetBuy": 22566
+    },
+    "2637": {
+      "name": "慧洋-KY",
+      "close": 79.1,
+      "volume": 1921422,
+      "instNetBuy": 184144
+    },
+    "2642": {
+      "name": "宅配通",
+      "close": 20.45,
+      "volume": 62637,
+      "instNetBuy": 31600
+    },
+    "2645": {
+      "name": "長榮航太",
+      "close": 208,
+      "volume": 12404585,
+      "instNetBuy": -69219
+    },
+    "2646": {
+      "name": "星宇航空",
+      "close": 21.3,
+      "volume": 5661730,
+      "instNetBuy": 1244649
+    },
+    "2701": {
+      "name": "萬企",
+      "close": 10.95,
+      "volume": 173442,
+      "instNetBuy": 79500
+    },
+    "2702": {
+      "name": "華園",
+      "close": 13,
+      "volume": 42332,
+      "instNetBuy": 31600
+    },
+    "2704": {
+      "name": "國賓",
+      "close": 45.3,
+      "volume": 136558,
+      "instNetBuy": 29000
+    },
+    "2705": {
+      "name": "六福",
+      "close": 16.2,
+      "volume": 107626,
+      "instNetBuy": 52100
+    },
+    "2706": {
+      "name": "第一店",
+      "close": 12.8,
+      "volume": 460896,
+      "instNetBuy": 53400
+    },
+    "2707": {
+      "name": "晶華",
+      "close": 179.5,
+      "volume": 115746,
+      "instNetBuy": 51000
+    },
+    "2712": {
+      "name": "遠雄來",
+      "close": 14.9,
+      "volume": 21514,
+      "instNetBuy": 12481
+    },
+    "2722": {
+      "name": "夏都",
+      "close": 22.1,
+      "volume": 44021,
+      "instNetBuy": 7400
+    },
+    "2723": {
+      "name": "美食-KY",
+      "close": 63.9,
+      "volume": 238771,
+      "instNetBuy": 104056
+    },
+    "2727": {
+      "name": "王品",
+      "close": 221.5,
+      "volume": 585342,
+      "instNetBuy": 102880
+    },
+    "2731": {
+      "name": "雄獅",
+      "close": 143,
+      "volume": 498938,
+      "instNetBuy": 8676
+    },
+    "2739": {
+      "name": "寒舍",
+      "close": 35.15,
+      "volume": 212432,
+      "instNetBuy": 28590
+    },
+    "2748": {
+      "name": "雲品",
+      "close": 39.7,
+      "volume": 113193,
+      "instNetBuy": 35000
+    },
+    "2753": {
+      "name": "八方雲集",
+      "close": 175.5,
+      "volume": 199423,
+      "instNetBuy": 63169
+    },
+    "2762": {
+      "name": "世界健身-KY",
+      "close": 85.5,
+      "volume": 110611,
+      "instNetBuy": 51900
+    },
+    "2801": {
+      "name": "彰銀",
+      "close": 23.85,
+      "volume": 36648175,
+      "instNetBuy": 333950
+    },
+    "2812": {
+      "name": "台中銀",
+      "close": 20.35,
+      "volume": 24689553,
+      "instNetBuy": -2465297
+    },
+    "2816": {
+      "name": "旺旺保",
+      "close": 33.95,
+      "volume": 197494,
+      "instNetBuy": 10000
+    },
+    "2820": {
+      "name": "華票",
+      "close": 16.55,
+      "volume": 2528560,
+      "instNetBuy": 481019
+    },
+    "2832": {
+      "name": "台產",
+      "close": 56.6,
+      "volume": 205149,
+      "instNetBuy": 74100
+    },
+    "2834": {
+      "name": "臺企銀",
+      "close": 18,
+      "volume": 47265801,
+      "instNetBuy": -14590717
+    },
+    "2836": {
+      "name": "高雄銀",
+      "close": 12.55,
+      "volume": 2020019,
+      "instNetBuy": -146914
+    },
+    "2838": {
+      "name": "聯邦銀",
+      "close": 20.4,
+      "volume": 4509960,
+      "instNetBuy": 235093
+    },
+    "2845": {
+      "name": "遠東銀",
+      "close": 13.3,
+      "volume": 17787636,
+      "instNetBuy": -2668947
+    },
+    "2849": {
+      "name": "安泰銀",
+      "close": 14.95,
+      "volume": 769439,
+      "instNetBuy": 243100
+    },
+    "2850": {
+      "name": "新產",
+      "close": 147,
+      "volume": 264337,
+      "instNetBuy": -9831
+    },
+    "2851": {
+      "name": "中再保",
+      "close": 35.95,
+      "volume": 2418255,
+      "instNetBuy": 36214
+    },
+    "2852": {
+      "name": "第一保",
+      "close": 26.65,
+      "volume": 362984,
+      "instNetBuy": 176000
+    },
+    "2855": {
+      "name": "統一證",
+      "close": 42.95,
+      "volume": 8819833,
+      "instNetBuy": 1633102
+    },
+    "2867": {
+      "name": "三商壽",
+      "close": 9.23,
+      "volume": 28061764,
+      "instNetBuy": 8514700
+    },
+    "2880": {
+      "name": "華南金",
+      "close": 39.9,
+      "volume": 45552145,
+      "instNetBuy": 4855533
+    },
+    "2881": {
+      "name": "富邦金",
+      "close": 123.5,
+      "volume": 26626575,
+      "instNetBuy": 5673121
+    },
+    "2882": {
+      "name": "國泰金",
+      "close": 94,
+      "volume": 29681623,
+      "instNetBuy": 7713731
+    },
+    "2883": {
+      "name": "凱基金",
+      "close": 29.55,
+      "volume": 70442629,
+      "instNetBuy": 3661279
+    },
+    "2884": {
+      "name": "玉山金",
+      "close": 35.85,
+      "volume": 80234731,
+      "instNetBuy": 30189041
+    },
+    "2885": {
+      "name": "元大金",
+      "close": 62.9,
+      "volume": 54774292,
+      "instNetBuy": -12154539
+    },
+    "2886": {
+      "name": "兆豐金",
+      "close": 48.2,
+      "volume": 45571317,
+      "instNetBuy": 2992559
+    },
+    "2887": {
+      "name": "台新新光金",
+      "close": 35.15,
+      "volume": 146407830,
+      "instNetBuy": -794086
+    },
+    "2889": {
+      "name": "國票金",
+      "close": 15.7,
+      "volume": 5457749,
+      "instNetBuy": -243159
+    },
+    "2890": {
+      "name": "永豐金",
+      "close": 39.7,
+      "volume": 54944931,
+      "instNetBuy": -3644544
+    },
+    "2891": {
+      "name": "中信金",
+      "close": 61.5,
+      "volume": 69848055,
+      "instNetBuy": 17913141
+    },
+    "2892": {
+      "name": "第一金",
+      "close": 33.95,
+      "volume": 38105765,
+      "instNetBuy": -782306
+    },
+    "2897": {
+      "name": "王道銀行",
+      "close": 10.4,
+      "volume": 8226902,
+      "instNetBuy": -2034490
+    },
+    "2901": {
+      "name": "欣欣",
+      "close": 24.05,
+      "volume": 22424,
+      "instNetBuy": 8200
+    },
+    "2903": {
+      "name": "遠百",
+      "close": 22.2,
+      "volume": 2044448,
+      "instNetBuy": 117700
+    },
+    "2904": {
+      "name": "匯僑",
+      "close": 13.7,
+      "volume": 45859,
+      "instNetBuy": 14000
+    },
+    "2905": {
+      "name": "三商",
+      "close": 15.4,
+      "volume": 950948,
+      "instNetBuy": 261310
+    },
+    "2906": {
+      "name": "高林",
+      "close": 14,
+      "volume": 395591,
+      "instNetBuy": -36235
+    },
+    "2908": {
+      "name": "特力",
+      "close": 22,
+      "volume": 170951,
+      "instNetBuy": 82592
+    },
+    "2910": {
+      "name": "統領",
+      "close": 25.75,
+      "volume": 79734,
+      "instNetBuy": 41286
+    },
+    "2911": {
+      "name": "麗嬰房",
+      "close": 7.15,
+      "volume": 232776,
+      "instNetBuy": 70800
+    },
+    "2912": {
+      "name": "統一超",
+      "close": 243.5,
+      "volume": 5553873,
+      "instNetBuy": 1422730
+    },
+    "2913": {
+      "name": "農林",
+      "close": 11.25,
+      "volume": 2050655,
+      "instNetBuy": -229172
+    },
+    "2915": {
+      "name": "潤泰全",
+      "close": 51.1,
+      "volume": 2448895,
+      "instNetBuy": 291339
+    },
+    "2923": {
+      "name": "鼎固-KY",
+      "close": 36.25,
+      "volume": 609643,
+      "instNetBuy": 316100
+    },
+    "2929": {
+      "name": "淘帝-KY",
+      "close": 5.89,
+      "volume": 194240,
+      "instNetBuy": -2528
+    },
+    "2939": {
+      "name": "永邑-KY",
+      "close": 19.4,
+      "volume": 11022,
+      "instNetBuy": 2000
+    },
+    "2945": {
+      "name": "三商家購",
+      "close": 41.35,
+      "volume": 19757,
+      "instNetBuy": 9100
+    },
+    "3002": {
+      "name": "歐格",
+      "close": 18.05,
+      "volume": 260149,
+      "instNetBuy": 92459
+    },
+    "3003": {
+      "name": "健和興",
+      "close": 59.3,
+      "volume": 704839,
+      "instNetBuy": -62751
+    },
+    "3004": {
+      "name": "豐達科",
+      "close": 137,
+      "volume": 929359,
+      "instNetBuy": 64494
+    },
+    "3005": {
+      "name": "神基",
+      "close": 109.5,
+      "volume": 3702385,
+      "instNetBuy": -249109
+    },
+    "3006": {
+      "name": "晶豪科",
+      "close": 188.5,
+      "volume": 8543683,
+      "instNetBuy": -556477
+    },
+    "3008": {
+      "name": "大立光",
+      "close": 3875,
+      "volume": 1549724,
+      "instNetBuy": 25881
+    },
+    "3010": {
+      "name": "華立",
+      "close": 112.5,
+      "volume": 916709,
+      "instNetBuy": -105614
+    },
+    "3011": {
+      "name": "今皓",
+      "close": 11.85,
+      "volume": 575478,
+      "instNetBuy": -214000
+    },
+    "3013": {
+      "name": "晟銘電",
+      "close": 85.3,
+      "volume": 2790801,
+      "instNetBuy": 593445
+    },
+    "3014": {
+      "name": "聯陽",
+      "close": 124,
+      "volume": 1381874,
+      "instNetBuy": 88252
+    },
+    "3015": {
+      "name": "全漢",
+      "close": 54.6,
+      "volume": 867392,
+      "instNetBuy": 55155
+    },
+    "3016": {
+      "name": "嘉晶",
+      "close": 101,
+      "volume": 6792121,
+      "instNetBuy": 419128
+    },
+    "3017": {
+      "name": "奇鋐",
+      "close": 2135,
+      "volume": 4416999,
+      "instNetBuy": -448079
+    },
+    "3018": {
+      "name": "隆銘綠能",
+      "close": 11.8,
+      "volume": 26585,
+      "instNetBuy": null
+    },
+    "3019": {
+      "name": "亞光",
+      "close": 129,
+      "volume": 3292135,
+      "instNetBuy": -180997
+    },
+    "3021": {
+      "name": "鴻名",
+      "close": 21.25,
+      "volume": 346041,
+      "instNetBuy": 135258
+    },
+    "3022": {
+      "name": "威強電",
+      "close": 78.3,
+      "volume": 849791,
+      "instNetBuy": -53223
+    },
+    "3023": {
+      "name": "信邦",
+      "close": 301,
+      "volume": 1264423,
+      "instNetBuy": -175412
+    },
+    "3024": {
+      "name": "憶聲",
+      "close": 13.85,
+      "volume": 9982995,
+      "instNetBuy": -262400
+    },
+    "3025": {
+      "name": "星通",
+      "close": 55.2,
+      "volume": 352124,
+      "instNetBuy": -31296
+    },
+    "3026": {
+      "name": "禾伸堂",
+      "close": 621,
+      "volume": 4726567,
+      "instNetBuy": 835166
+    },
+    "3027": {
+      "name": "盛達",
+      "close": 18.1,
+      "volume": 247843,
+      "instNetBuy": 23678
+    },
+    "3028": {
+      "name": "增你強",
+      "close": 65.8,
+      "volume": 2185108,
+      "instNetBuy": -79928
+    },
+    "3029": {
+      "name": "零壹",
+      "close": 103.5,
+      "volume": 1515709,
+      "instNetBuy": -166874
+    },
+    "3030": {
+      "name": "德律",
+      "close": 283,
+      "volume": 2811553,
+      "instNetBuy": -173966
+    },
+    "3031": {
+      "name": "佰鴻",
+      "close": 24.6,
+      "volume": 989232,
+      "instNetBuy": 94391
+    },
+    "3032": {
+      "name": "偉訓",
+      "close": 76.2,
+      "volume": 419099,
+      "instNetBuy": 47365
+    },
+    "3033": {
+      "name": "威健",
+      "close": 47.9,
+      "volume": 16427114,
+      "instNetBuy": 768727
+    },
+    "3034": {
+      "name": "聯詠",
+      "close": 458,
+      "volume": 4215309,
+      "instNetBuy": 75117
+    },
+    "3035": {
+      "name": "智原",
+      "close": 182.5,
+      "volume": 5623259,
+      "instNetBuy": 581546
+    },
+    "3036": {
+      "name": "文曄",
+      "close": 187,
+      "volume": 16065018,
+      "instNetBuy": 1312367
+    },
+    "3037": {
+      "name": "欣興",
+      "close": 750,
+      "volume": 30661875,
+      "instNetBuy": 2207801
+    },
+    "3038": {
+      "name": "全台",
+      "close": 20.5,
+      "volume": 246026,
+      "instNetBuy": 50523
+    },
+    "3040": {
+      "name": "遠見",
+      "close": 37.2,
+      "volume": 275566,
+      "instNetBuy": -32898
+    },
+    "3041": {
+      "name": "揚智",
+      "close": 23.4,
+      "volume": 1949185,
+      "instNetBuy": -478919
+    },
+    "3042": {
+      "name": "晶技",
+      "close": 157,
+      "volume": 12292397,
+      "instNetBuy": 3102871
+    },
+    "3043": {
+      "name": "科風",
+      "close": 20.8,
+      "volume": 121931,
+      "instNetBuy": 17418
+    },
+    "3044": {
+      "name": "健鼎",
+      "close": 388,
+      "volume": 2865239,
+      "instNetBuy": -22987
+    },
+    "3045": {
+      "name": "台灣大",
+      "close": 112,
+      "volume": 18734382,
+      "instNetBuy": 5066246
+    },
+    "3046": {
+      "name": "建碁",
+      "close": 51.9,
+      "volume": 295149,
+      "instNetBuy": 7286
+    },
+    "3047": {
+      "name": "訊舟",
+      "close": 14.8,
+      "volume": 1318266,
+      "instNetBuy": -77803
+    },
+    "3048": {
+      "name": "益登",
+      "close": 49.3,
+      "volume": 3210843,
+      "instNetBuy": 368060
+    },
+    "3049": {
+      "name": "精金",
+      "close": 11.25,
+      "volume": 2863176,
+      "instNetBuy": 279397
+    },
+    "3050": {
+      "name": "鈺德",
+      "close": 11.55,
+      "volume": 504660,
+      "instNetBuy": -102104
+    },
+    "3051": {
+      "name": "力特",
+      "close": 22.7,
+      "volume": 751941,
+      "instNetBuy": 41381
+    },
+    "3052": {
+      "name": "夆典",
+      "close": 10.7,
+      "volume": 243053,
+      "instNetBuy": 94900
+    },
+    "3054": {
+      "name": "立萬利",
+      "close": 55,
+      "volume": 138731,
+      "instNetBuy": 45124
+    },
+    "3055": {
+      "name": "蔚華科",
+      "close": 161.5,
+      "volume": 810224,
+      "instNetBuy": 219858
+    },
+    "3056": {
+      "name": "富華新",
+      "close": 14.45,
+      "volume": 990652,
+      "instNetBuy": 82287
+    },
+    "3057": {
+      "name": "喬鼎",
+      "close": 15.85,
+      "volume": 77568,
+      "instNetBuy": 12000
+    },
+    "3058": {
+      "name": "立德",
+      "close": 8.52,
+      "volume": 548573,
+      "instNetBuy": -74710
+    },
+    "3059": {
+      "name": "華晶科",
+      "close": 40.6,
+      "volume": 2660716,
+      "instNetBuy": 665252
+    },
+    "3060": {
+      "name": "銘異",
+      "close": 28.4,
+      "volume": 2779972,
+      "instNetBuy": -418498
+    },
+    "3062": {
+      "name": "建漢",
+      "close": 20.85,
+      "volume": 2586508,
+      "instNetBuy": 320487
+    },
+    "3090": {
+      "name": "日電貿",
+      "close": 175.5,
+      "volume": 1124347,
+      "instNetBuy": -68204
+    },
+    "3092": {
+      "name": "鴻碩",
+      "close": 23.7,
+      "volume": 332605,
+      "instNetBuy": -49762
+    },
+    "3094": {
+      "name": "聯傑",
+      "close": 35.65,
+      "volume": 2033047,
+      "instNetBuy": 257400
+    },
+    "3130": {
+      "name": "一零四",
+      "close": 203,
+      "volume": 70864,
+      "instNetBuy": -6932
+    },
+    "3135": {
+      "name": "凌航",
+      "close": 139.5,
+      "volume": 1282977,
+      "instNetBuy": 246239
+    },
+    "3138": {
+      "name": "耀登",
+      "close": 99,
+      "volume": 578303,
+      "instNetBuy": 197927
+    },
+    "3149": {
+      "name": "正達",
+      "close": 76.2,
+      "volume": 8376122,
+      "instNetBuy": 458829
+    },
+    "3150": {
+      "name": "鈺寶-創",
+      "close": 16.8,
+      "volume": 52009,
+      "instNetBuy": 14000
+    },
+    "3164": {
+      "name": "景岳",
+      "close": 16.3,
+      "volume": 48885,
+      "instNetBuy": 11000
+    },
+    "3167": {
+      "name": "大量",
+      "close": 733,
+      "volume": 2621566,
+      "instNetBuy": 164321
+    },
+    "3168": {
+      "name": "眾福科",
+      "close": 43.95,
+      "volume": 29486,
+      "instNetBuy": 8300
+    },
+    "3189": {
+      "name": "景碩",
+      "close": 679,
+      "volume": 23743793,
+      "instNetBuy": 853335
+    },
+    "3209": {
+      "name": "全科",
+      "close": 55.5,
+      "volume": 1831138,
+      "instNetBuy": 79603
+    },
+    "3229": {
+      "name": "晟鈦",
+      "close": 37.65,
+      "volume": 426575,
+      "instNetBuy": 4500
+    },
+    "3231": {
+      "name": "緯創",
+      "close": 143.5,
+      "volume": 51717481,
+      "instNetBuy": 11945523
+    },
+    "3257": {
+      "name": "虹冠電",
+      "close": 51.9,
+      "volume": 783665,
+      "instNetBuy": 158300
+    },
+    "3266": {
+      "name": "昇陽",
+      "close": 14.1,
+      "volume": 122338,
+      "instNetBuy": 61900
+    },
+    "3296": {
+      "name": "勝德",
+      "close": 24.7,
+      "volume": 181455,
+      "instNetBuy": 51485
+    },
+    "3305": {
+      "name": "昇貿",
+      "close": 106,
+      "volume": 2582391,
+      "instNetBuy": 342249
+    },
+    "3308": {
+      "name": "聯德",
+      "close": 19.9,
+      "volume": 70955,
+      "instNetBuy": 1623
+    },
+    "3311": {
+      "name": "閎暉",
+      "close": 33.4,
+      "volume": 451118,
+      "instNetBuy": 12000
+    },
+    "3312": {
+      "name": "弘憶股",
+      "close": 46.9,
+      "volume": 1621282,
+      "instNetBuy": 339294
+    },
+    "3321": {
+      "name": "同泰",
+      "close": 18.4,
+      "volume": 556899,
+      "instNetBuy": 90297
+    },
+    "3338": {
+      "name": "泰碩",
+      "close": 62.9,
+      "volume": 425834,
+      "instNetBuy": 32793
+    },
+    "3346": {
+      "name": "麗清",
+      "close": 20.5,
+      "volume": 602507,
+      "instNetBuy": -43696
+    },
+    "3356": {
+      "name": "奇偶",
+      "close": 54.9,
+      "volume": 499331,
+      "instNetBuy": -83628
+    },
+    "3376": {
+      "name": "新日興",
+      "close": 186.5,
+      "volume": 2332920,
+      "instNetBuy": 190347
+    },
+    "3380": {
+      "name": "明泰",
+      "close": 29.2,
+      "volume": 2226140,
+      "instNetBuy": -235600
+    },
+    "3406": {
+      "name": "玉晶光",
+      "close": 500,
+      "volume": 1774407,
+      "instNetBuy": 5170
+    },
+    "3413": {
+      "name": "京鼎",
+      "close": 359,
+      "volume": 5030232,
+      "instNetBuy": -352106
+    },
+    "3416": {
+      "name": "融程電",
+      "close": 159.5,
+      "volume": 413573,
+      "instNetBuy": -65623
+    },
+    "3419": {
+      "name": "譁裕",
+      "close": 12.3,
+      "volume": 256548,
+      "instNetBuy": -52000
+    },
+    "3432": {
+      "name": "台端",
+      "close": 16.75,
+      "volume": 20111,
+      "instNetBuy": -2000
+    },
+    "3437": {
+      "name": "榮創",
+      "close": 17.75,
+      "volume": 656419,
+      "instNetBuy": 138017
+    },
+    "3443": {
+      "name": "創意",
+      "close": 3745,
+      "volume": 1809521,
+      "instNetBuy": 109201
+    },
+    "3447": {
+      "name": "展達",
+      "close": 30.3,
+      "volume": 442706,
+      "instNetBuy": 156000
+    },
+    "3450": {
+      "name": "聯鈞",
+      "close": 389,
+      "volume": 3577990,
+      "instNetBuy": 816999
+    },
+    "3481": {
+      "name": "群創",
+      "close": 50.4,
+      "volume": 366167261,
+      "instNetBuy": 11462992
+    },
+    "3494": {
+      "name": "誠研",
+      "close": 7.32,
+      "volume": 162453,
+      "instNetBuy": 20000
+    },
+    "3501": {
+      "name": "維熹",
+      "close": 40.2,
+      "volume": 407631,
+      "instNetBuy": 8000
+    },
+    "3504": {
+      "name": "揚明光",
+      "close": 62.2,
+      "volume": 870057,
+      "instNetBuy": 31140
+    },
+    "3515": {
+      "name": "華擎",
+      "close": 202,
+      "volume": 352166,
+      "instNetBuy": 23199
+    },
+    "3518": {
+      "name": "柏騰",
+      "close": 26.2,
+      "volume": 781431,
+      "instNetBuy": -12000
+    },
+    "3528": {
+      "name": "安馳",
+      "close": 80.7,
+      "volume": 464096,
+      "instNetBuy": 62302
+    },
+    "3530": {
+      "name": "晶相光",
+      "close": 56.6,
+      "volume": 202085,
+      "instNetBuy": -44208
+    },
+    "3532": {
+      "name": "台勝科",
+      "close": 466,
+      "volume": 12923121,
+      "instNetBuy": -986431
+    },
+    "3533": {
+      "name": "嘉澤",
+      "close": 1905,
+      "volume": 1139929,
+      "instNetBuy": -91354
+    },
+    "3535": {
+      "name": "晶彩科",
+      "close": 88,
+      "volume": 1483552,
+      "instNetBuy": 426011
+    },
+    "3543": {
+      "name": "州巧",
+      "close": 28.75,
+      "volume": 604841,
+      "instNetBuy": -31000
+    },
+    "3545": {
+      "name": "敦泰",
+      "close": 47.7,
+      "volume": 1192420,
+      "instNetBuy": -49128
+    },
+    "3550": {
+      "name": "聯穎",
+      "close": 21.85,
+      "volume": 2987383,
+      "instNetBuy": 132064
+    },
+    "3557": {
+      "name": "嘉威",
+      "close": 25.85,
+      "volume": 96289,
+      "instNetBuy": 54400
+    },
+    "3563": {
+      "name": "牧德",
+      "close": 610,
+      "volume": 765045,
+      "instNetBuy": 221508
+    },
+    "3576": {
+      "name": "聯合再生",
+      "close": 18.45,
+      "volume": 43729873,
+      "instNetBuy": 4370247
+    },
+    "3583": {
+      "name": "辛耘",
+      "close": 728,
+      "volume": 1298862,
+      "instNetBuy": 93020
+    },
+    "3588": {
+      "name": "通嘉",
+      "close": 53.7,
+      "volume": 385223,
+      "instNetBuy": -45974
+    },
+    "3591": {
+      "name": "艾笛森",
+      "close": 20.65,
+      "volume": 1537034,
+      "instNetBuy": 576737
+    },
+    "3592": {
+      "name": "瑞鼎",
+      "close": 226.5,
+      "volume": 597190,
+      "instNetBuy": -322
+    },
+    "3593": {
+      "name": "力銘",
+      "close": 14.95,
+      "volume": 34218,
+      "instNetBuy": -7000
+    },
+    "3596": {
+      "name": "智易",
+      "close": 178,
+      "volume": 1252497,
+      "instNetBuy": 78014
+    },
+    "3605": {
+      "name": "宏致",
+      "close": 76.8,
+      "volume": 4664859,
+      "instNetBuy": 414119
+    },
+    "3607": {
+      "name": "谷崧",
+      "close": 14.65,
+      "volume": 330631,
+      "instNetBuy": 16614
+    },
+    "3617": {
+      "name": "碩天",
+      "close": 205,
+      "volume": 588644,
+      "instNetBuy": -91789
+    },
+    "3622": {
+      "name": "洋華",
+      "close": 52.5,
+      "volume": 595855,
+      "instNetBuy": -28845
+    },
+    "3645": {
+      "name": "達邁",
+      "close": 69,
+      "volume": 2232303,
+      "instNetBuy": 157606
+    },
+    "3652": {
+      "name": "精聯",
+      "close": 31,
+      "volume": 1598418,
+      "instNetBuy": -385283
+    },
+    "3653": {
+      "name": "健策",
+      "close": 3200,
+      "volume": 1510316,
+      "instNetBuy": -61451
+    },
+    "3661": {
+      "name": "世芯-KY",
+      "close": 3365,
+      "volume": 2061321,
+      "instNetBuy": 315559
+    },
+    "3665": {
+      "name": "貿聯-KY",
+      "close": 1820,
+      "volume": 3398243,
+      "instNetBuy": 78218
+    },
+    "3669": {
+      "name": "圓展",
+      "close": 33,
+      "volume": 189739,
+      "instNetBuy": 62000
+    },
+    "3673": {
+      "name": "TPK-KY",
+      "close": 62.4,
+      "volume": 8261996,
+      "instNetBuy": 1030735
+    },
+    "3679": {
+      "name": "新至陞",
+      "close": 109,
+      "volume": 37385,
+      "instNetBuy": 8100
+    },
+    "3686": {
+      "name": "達能",
+      "close": 15.5,
+      "volume": 98420,
+      "instNetBuy": 1000
+    },
+    "3694": {
+      "name": "海華",
+      "close": 60.3,
+      "volume": 1178909,
+      "instNetBuy": -28584
+    },
+    "3701": {
+      "name": "大眾控",
+      "close": 37.95,
+      "volume": 1519255,
+      "instNetBuy": 535190
+    },
+    "3702": {
+      "name": "大聯大",
+      "close": 106.5,
+      "volume": 11591719,
+      "instNetBuy": -737727
+    },
+    "3703": {
+      "name": "欣陸",
+      "close": 20.6,
+      "volume": 1180553,
+      "instNetBuy": 439053
+    },
+    "3704": {
+      "name": "合勤控",
+      "close": 44.85,
+      "volume": 3877717,
+      "instNetBuy": -336003
+    },
+    "3705": {
+      "name": "永信",
+      "close": 55,
+      "volume": 179744,
+      "instNetBuy": 94344
+    },
+    "3706": {
+      "name": "神達",
+      "close": 88.4,
+      "volume": 9919071,
+      "instNetBuy": 2020592
+    },
+    "3708": {
+      "name": "上緯投控",
+      "close": 96.5,
+      "volume": 436929,
+      "instNetBuy": 132111
+    },
+    "3711": {
+      "name": "日月光投控",
+      "close": 597,
+      "volume": 30646403,
+      "instNetBuy": -832818
+    },
+    "3712": {
+      "name": "永崴投控",
+      "close": 16.8,
+      "volume": 1215868,
+      "instNetBuy": 87233
+    },
+    "3714": {
+      "name": "富采",
+      "close": 51.7,
+      "volume": 9235465,
+      "instNetBuy": 1845592
+    },
+    "3715": {
+      "name": "定穎投控",
+      "close": 119.5,
+      "volume": 6644396,
+      "instNetBuy": 1628710
+    },
+    "3716": {
+      "name": "中化控股",
+      "close": 34.15,
+      "volume": 132550,
+      "instNetBuy": 72552
+    },
+    "3717": {
+      "name": "聯嘉投控",
+      "close": 21.9,
+      "volume": 4535355,
+      "instNetBuy": 549489
+    },
+    "4104": {
+      "name": "佳醫",
+      "close": 71.2,
+      "volume": 221351,
+      "instNetBuy": 23788
+    },
+    "4106": {
+      "name": "雃博",
+      "close": 24.7,
+      "volume": 263617,
+      "instNetBuy": -7970
+    },
+    "4108": {
+      "name": "懷特",
+      "close": 11.65,
+      "volume": 263334,
+      "instNetBuy": 90300
+    },
+    "4119": {
+      "name": "旭富",
+      "close": 46.7,
+      "volume": 133577,
+      "instNetBuy": 24150
+    },
+    "4133": {
+      "name": "亞諾法",
+      "close": 22.4,
+      "volume": 4535577,
+      "instNetBuy": -168935
+    },
+    "4137": {
+      "name": "麗豐-KY",
+      "close": 94.6,
+      "volume": 124821,
+      "instNetBuy": 16593
+    },
+    "4142": {
+      "name": "國光生",
+      "close": 16.9,
+      "volume": 904795,
+      "instNetBuy": 17430
+    },
+    "4148": {
+      "name": "全宇生技-KY",
+      "close": 30.35,
+      "volume": 24250,
+      "instNetBuy": 10100
+    },
+    "4155": {
+      "name": "訊映",
+      "close": 15.9,
+      "volume": 412188,
+      "instNetBuy": 37804
+    },
+    "4164": {
+      "name": "承業醫",
+      "close": 26.7,
+      "volume": 538463,
+      "instNetBuy": 141362
+    },
+    "4169": {
+      "name": "泰宗",
+      "close": 255,
+      "volume": 186991,
+      "instNetBuy": -18900
+    },
+    "4178": {
+      "name": "永笙-KY",
+      "close": 19.3,
+      "volume": 1435545,
+      "instNetBuy": 205237
+    },
+    "4190": {
+      "name": "佐登-KY",
+      "close": 25.7,
+      "volume": 69661,
+      "instNetBuy": 2000
+    },
+    "4195": {
+      "name": "基米-創",
+      "close": 16.45,
+      "volume": 114490,
+      "instNetBuy": 53268
+    },
+    "4306": {
+      "name": "炎洲",
+      "close": 14.35,
+      "volume": 1512061,
+      "instNetBuy": -366700
+    },
+    "4414": {
+      "name": "如興",
+      "close": 8.46,
+      "volume": 214100,
+      "instNetBuy": 77400
+    },
+    "4426": {
+      "name": "利勤",
+      "close": 8.33,
+      "volume": 117500,
+      "instNetBuy": 24900
+    },
+    "4438": {
+      "name": "廣越",
+      "close": 61.2,
+      "volume": 87691,
+      "instNetBuy": 39669
+    },
+    "4439": {
+      "name": "冠星-KY",
+      "close": 101,
+      "volume": 15755,
+      "instNetBuy": 5134
+    },
+    "4440": {
+      "name": "宜新實業",
+      "close": 17.35,
+      "volume": 60161,
+      "instNetBuy": 15100
+    },
+    "4441": {
+      "name": "振大環球",
+      "close": 174.5,
+      "volume": 84743,
+      "instNetBuy": 21899
+    },
+    "4526": {
+      "name": "東台",
+      "close": 31.4,
+      "volume": 2194745,
+      "instNetBuy": 92670
+    },
+    "4532": {
+      "name": "瑞智",
+      "close": 24.4,
+      "volume": 1527689,
+      "instNetBuy": -1406
+    },
+    "4536": {
+      "name": "拓凱",
+      "close": 164,
+      "volume": 289241,
+      "instNetBuy": -34352
+    },
+    "4540": {
+      "name": "全球傳動",
+      "close": 49.95,
+      "volume": 1381664,
+      "instNetBuy": 204580
+    },
+    "4545": {
+      "name": "銘鈺",
+      "close": 32.95,
+      "volume": 115273,
+      "instNetBuy": -9920
+    },
+    "4551": {
+      "name": "智伸科",
+      "close": 179.5,
+      "volume": 1556911,
+      "instNetBuy": 384710
+    },
+    "4552": {
+      "name": "力達-KY",
+      "close": 19,
+      "volume": 47877,
+      "instNetBuy": 9900
+    },
+    "4555": {
+      "name": "氣立",
+      "close": 45.2,
+      "volume": 302183,
+      "instNetBuy": -29358
+    },
+    "4557": {
+      "name": "永新-KY",
+      "close": 50.4,
+      "volume": 26772,
+      "instNetBuy": 8448
+    },
+    "4560": {
+      "name": "強信-KY",
+      "close": 32,
+      "volume": 145125,
+      "instNetBuy": -9000
+    },
+    "4562": {
+      "name": "穎漢",
+      "close": 31,
+      "volume": 271332,
+      "instNetBuy": 62113
+    },
+    "4564": {
+      "name": "元翎",
+      "close": 19.25,
+      "volume": 5795247,
+      "instNetBuy": 630802
+    },
+    "4566": {
+      "name": "時碩工業",
+      "close": 66.6,
+      "volume": 2343147,
+      "instNetBuy": 373010
+    },
+    "4569": {
+      "name": "六方科-KY",
+      "close": 157,
+      "volume": 45139,
+      "instNetBuy": -1052
+    },
+    "4571": {
+      "name": "鈞興-KY",
+      "close": 150,
+      "volume": 262334,
+      "instNetBuy": -54156
+    },
+    "4572": {
+      "name": "駐龍",
+      "close": 145,
+      "volume": 46772,
+      "instNetBuy": 20700
+    },
+    "4576": {
+      "name": "大銀微系統",
+      "close": 187.5,
+      "volume": 1361258,
+      "instNetBuy": 303453
+    },
+    "4581": {
+      "name": "光隆精密-KY",
+      "close": 51,
+      "volume": 14033,
+      "instNetBuy": 0
+    },
+    "4582": {
+      "name": "聚恆-創",
+      "close": 27.25,
+      "volume": 195774,
+      "instNetBuy": 5455
+    },
+    "4583": {
+      "name": "台灣精銳",
+      "close": 564,
+      "volume": 63150,
+      "instNetBuy": 4542
+    },
+    "4585": {
+      "name": "達明",
+      "close": 299,
+      "volume": 310733,
+      "instNetBuy": -27924
+    },
+    "4588": {
+      "name": "玖鼎電力",
+      "close": 51.5,
+      "volume": 73414,
+      "instNetBuy": -5584
+    },
+    "4590": {
+      "name": "富田-創",
+      "close": 88.9,
+      "volume": 331080,
+      "instNetBuy": 35019
+    },
+    "4720": {
+      "name": "德淵",
+      "close": 20.1,
+      "volume": 854771,
+      "instNetBuy": 96912
+    },
+    "4722": {
+      "name": "國精化",
+      "close": 218.5,
+      "volume": 1281505,
+      "instNetBuy": 234011
+    },
+    "4736": {
+      "name": "泰博",
+      "close": 128,
+      "volume": 116895,
+      "instNetBuy": 9317
+    },
+    "4737": {
+      "name": "華廣",
+      "close": 55.3,
+      "volume": 92744,
+      "instNetBuy": -3700
+    },
+    "4739": {
+      "name": "康普",
+      "close": 80.3,
+      "volume": 3067918,
+      "instNetBuy": 601753
+    },
+    "4746": {
+      "name": "台耀",
+      "close": 51.4,
+      "volume": 394076,
+      "instNetBuy": -161278
+    },
+    "4755": {
+      "name": "三福化",
+      "close": 121,
+      "volume": 622848,
+      "instNetBuy": 23040
+    },
+    "4763": {
+      "name": "材料*-KY",
+      "close": 48.6,
+      "volume": 12820596,
+      "instNetBuy": 2546107
+    },
+    "4764": {
+      "name": "雙鍵",
+      "close": 266.5,
+      "volume": 3913225,
+      "instNetBuy": 900494
+    },
+    "4766": {
+      "name": "南寶",
+      "close": 325,
+      "volume": 254788,
+      "instNetBuy": -43827
+    },
+    "4770": {
+      "name": "上品",
+      "close": 220,
+      "volume": 341693,
+      "instNetBuy": 32990
+    },
+    "4771": {
+      "name": "望隼",
+      "close": 196.5,
+      "volume": 178078,
+      "instNetBuy": -43674
+    },
+    "4807": {
+      "name": "日成-KY",
+      "close": 38.3,
+      "volume": 410039,
+      "instNetBuy": -36963
+    },
+    "4904": {
+      "name": "遠傳",
+      "close": 104.5,
+      "volume": 19211896,
+      "instNetBuy": 2358962
+    },
+    "4906": {
+      "name": "正文",
+      "close": 33.75,
+      "volume": 7212393,
+      "instNetBuy": 996180
+    },
+    "4912": {
+      "name": "聯德控股-KY",
+      "close": 82.6,
+      "volume": 287690,
+      "instNetBuy": -40900
+    },
+    "4915": {
+      "name": "致伸",
+      "close": 64.5,
+      "volume": 3437662,
+      "instNetBuy": 684107
+    },
+    "4916": {
+      "name": "事欣科",
+      "close": 97.7,
+      "volume": 5480006,
+      "instNetBuy": -445407
+    },
+    "4919": {
+      "name": "新唐",
+      "close": 135.5,
+      "volume": 10255250,
+      "instNetBuy": 2604434
+    },
+    "4927": {
+      "name": "泰鼎-KY",
+      "close": 34.6,
+      "volume": 5460349,
+      "instNetBuy": 1515372
+    },
+    "4930": {
+      "name": "燦星網",
+      "close": 16.65,
+      "volume": 24259,
+      "instNetBuy": 3000
+    },
+    "4934": {
+      "name": "太極",
+      "close": 15.1,
+      "volume": 807247,
+      "instNetBuy": -222954
+    },
+    "4935": {
+      "name": "茂林-KY",
+      "close": 35,
+      "volume": 124440,
+      "instNetBuy": 42000
+    },
+    "4938": {
+      "name": "和碩",
+      "close": 80,
+      "volume": 11806419,
+      "instNetBuy": -1644765
+    },
+    "4942": {
+      "name": "嘉彰",
+      "close": 36.65,
+      "volume": 159131,
+      "instNetBuy": -32066
+    },
+    "4943": {
+      "name": "康控-KY",
+      "close": 9,
+      "volume": 5740,
+      "instNetBuy": null
+    },
+    "4949": {
+      "name": "有成精密",
+      "close": 68,
+      "volume": 943730,
+      "instNetBuy": 232516
+    },
+    "4952": {
+      "name": "凌通",
+      "close": 47.25,
+      "volume": 518038,
+      "instNetBuy": -5771
+    },
+    "4956": {
+      "name": "光鋐",
+      "close": 28.45,
+      "volume": 1560048,
+      "instNetBuy": 491459
+    },
+    "4958": {
+      "name": "臻鼎-KY",
+      "close": 478.5,
+      "volume": 35909408,
+      "instNetBuy": 5465843
+    },
+    "4960": {
+      "name": "誠美材",
+      "close": 20.95,
+      "volume": 3474990,
+      "instNetBuy": 733370
+    },
+    "4961": {
+      "name": "天鈺",
+      "close": 152.5,
+      "volume": 694114,
+      "instNetBuy": 37107
+    },
+    "4967": {
+      "name": "十銓",
+      "close": 208.5,
+      "volume": 2764713,
+      "instNetBuy": 463003
+    },
+    "4968": {
+      "name": "立積",
+      "close": 97,
+      "volume": 1123417,
+      "instNetBuy": -139682
+    },
+    "4976": {
+      "name": "佳凌",
+      "close": 31.6,
+      "volume": 853139,
+      "instNetBuy": 164316
+    },
+    "4977": {
+      "name": "眾達-KY",
+      "close": 127.5,
+      "volume": 1948090,
+      "instNetBuy": 745950
+    },
+    "4989": {
+      "name": "榮科",
+      "close": 64.9,
+      "volume": 7792629,
+      "instNetBuy": 1943902
+    },
+    "4994": {
+      "name": "傳奇",
+      "close": 92.6,
+      "volume": 23857,
+      "instNetBuy": 8100
+    },
+    "4999": {
+      "name": "鑫禾",
+      "close": 19.5,
+      "volume": 147665,
+      "instNetBuy": 7779
+    },
+    "5007": {
+      "name": "三星",
+      "close": 56.5,
+      "volume": 81530,
+      "instNetBuy": 24761
+    },
+    "5203": {
+      "name": "訊連",
+      "close": 64.8,
+      "volume": 113694,
+      "instNetBuy": 30714
+    },
+    "5215": {
+      "name": "科嘉-KY",
+      "close": 38.5,
+      "volume": 86559,
+      "instNetBuy": 32873
+    },
+    "5222": {
+      "name": "全訊",
+      "close": 115,
+      "volume": 401029,
+      "instNetBuy": -6850
+    },
+    "5225": {
+      "name": "東科-KY",
+      "close": 69.8,
+      "volume": 209143,
+      "instNetBuy": 30153
+    },
+    "5234": {
+      "name": "達興材料",
+      "close": 333,
+      "volume": 355653,
+      "instNetBuy": 2970
+    },
+    "5236": {
+      "name": "凌陽創新",
+      "close": 144,
+      "volume": 242132,
+      "instNetBuy": -10264
+    },
+    "5243": {
+      "name": "乙盛-KY",
+      "close": 87.1,
+      "volume": 2179120,
+      "instNetBuy": 668030
+    },
+    "5244": {
+      "name": "弘凱",
+      "close": 31.1,
+      "volume": 235466,
+      "instNetBuy": 65000
+    },
+    "5258": {
+      "name": "虹堡",
+      "close": 50.9,
+      "volume": 430545,
+      "instNetBuy": -39200
+    },
+    "5269": {
+      "name": "祥碩",
+      "close": 1470,
+      "volume": 1285723,
+      "instNetBuy": 155493
+    },
+    "5283": {
+      "name": "禾聯碩",
+      "close": 53.1,
+      "volume": 45857,
+      "instNetBuy": 20500
+    },
+    "5284": {
+      "name": "jpp-KY",
+      "close": 288.5,
+      "volume": 1392478,
+      "instNetBuy": 8833
+    },
+    "5285": {
+      "name": "界霖",
+      "close": 79.7,
+      "volume": 1863601,
+      "instNetBuy": 186820
+    },
+    "5288": {
+      "name": "豐祥-KY",
+      "close": 186.5,
+      "volume": 168778,
+      "instNetBuy": 44504
+    },
+    "5292": {
+      "name": "華懋",
+      "close": 164,
+      "volume": 112198,
+      "instNetBuy": 6114
+    },
+    "5306": {
+      "name": "桂盟",
+      "close": 92.9,
+      "volume": 551103,
+      "instNetBuy": -14900
+    },
+    "5388": {
+      "name": "中磊",
+      "close": 82.8,
+      "volume": 3021772,
+      "instNetBuy": -664032
+    },
+    "5434": {
+      "name": "崇越",
+      "close": 544,
+      "volume": 2014510,
+      "instNetBuy": 323
+    },
+    "5469": {
+      "name": "瀚宇博",
+      "close": 68.1,
+      "volume": 2198988,
+      "instNetBuy": 203475
+    },
+    "5471": {
+      "name": "松翰",
+      "close": 53.3,
+      "volume": 2084458,
+      "instNetBuy": 308099
+    },
+    "5484": {
+      "name": "慧友",
+      "close": 41.15,
+      "volume": 378938,
+      "instNetBuy": 148100
+    },
+    "5515": {
+      "name": "建國",
+      "close": 42.75,
+      "volume": 787035,
+      "instNetBuy": 214982
+    },
+    "5519": {
+      "name": "隆大",
+      "close": 28,
+      "volume": 522723,
+      "instNetBuy": 48757
+    },
+    "5521": {
+      "name": "工信",
+      "close": 10.05,
+      "volume": 3142214,
+      "instNetBuy": -130476
+    },
+    "5522": {
+      "name": "遠雄",
+      "close": 67.1,
+      "volume": 3185316,
+      "instNetBuy": 2409268
+    },
+    "5525": {
+      "name": "順天",
+      "close": 22.65,
+      "volume": 259461,
+      "instNetBuy": 129300
+    },
+    "5531": {
+      "name": "鄉林",
+      "close": 7.79,
+      "volume": 474150,
+      "instNetBuy": 131000
+    },
+    "5533": {
+      "name": "皇鼎",
+      "close": 14.1,
+      "volume": 142687,
+      "instNetBuy": 30509
+    },
+    "5534": {
+      "name": "長虹",
+      "close": 80.6,
+      "volume": 548037,
+      "instNetBuy": 137796
+    },
+    "5538": {
+      "name": "東明-KY",
+      "close": 35.05,
+      "volume": 68537,
+      "instNetBuy": 32400
+    },
+    "5546": {
+      "name": "永固-KY",
+      "close": 17.1,
+      "volume": 48086,
+      "instNetBuy": 3000
+    },
+    "5607": {
+      "name": "遠雄港",
+      "close": 49.1,
+      "volume": 524665,
+      "instNetBuy": -32264
+    },
+    "5608": {
+      "name": "四維航",
+      "close": 13.6,
+      "volume": 1967342,
+      "instNetBuy": 119451
+    },
+    "5706": {
+      "name": "鳳凰",
+      "close": 45.8,
+      "volume": 206868,
+      "instNetBuy": 106400
+    },
+    "5871": {
+      "name": "中租-KY",
+      "close": 122.5,
+      "volume": 16696536,
+      "instNetBuy": 7091866
+    },
+    "5876": {
+      "name": "上海商銀",
+      "close": 45.55,
+      "volume": 20816596,
+      "instNetBuy": 6079164
+    },
+    "5880": {
+      "name": "合庫金",
+      "close": 25.5,
+      "volume": 30858845,
+      "instNetBuy": 7440555
+    },
+    "5906": {
+      "name": "台南-KY",
+      "close": null,
+      "volume": 140,
+      "instNetBuy": 140
+    },
+    "5907": {
+      "name": "大洋-KY",
+      "close": 4.85,
+      "volume": 198046,
+      "instNetBuy": -23974
+    },
+    "6005": {
+      "name": "群益證",
+      "close": 32.8,
+      "volume": 12635070,
+      "instNetBuy": -176700
+    },
+    "6024": {
+      "name": "群益期",
+      "close": 63.7,
+      "volume": 440849,
+      "instNetBuy": 48328
+    },
+    "6108": {
+      "name": "競國",
+      "close": 16.4,
+      "volume": 802903,
+      "instNetBuy": -47548
+    },
+    "6112": {
+      "name": "邁達特",
+      "close": 41,
+      "volume": 447671,
+      "instNetBuy": 107284
+    },
+    "6115": {
+      "name": "鎰勝",
+      "close": 45.45,
+      "volume": 152371,
+      "instNetBuy": -3000
+    },
+    "6116": {
+      "name": "彩晶",
+      "close": 14.3,
+      "volume": 37143404,
+      "instNetBuy": 5594450
+    },
+    "6117": {
+      "name": "迎廣",
+      "close": 66.6,
+      "volume": 177935,
+      "instNetBuy": 11482
+    },
+    "6120": {
+      "name": "達運",
+      "close": 12.95,
+      "volume": 3020675,
+      "instNetBuy": -316454
+    },
+    "6128": {
+      "name": "上福",
+      "close": 20.3,
+      "volume": 88739,
+      "instNetBuy": 19001
+    },
+    "6133": {
+      "name": "金橋",
+      "close": 20.65,
+      "volume": 1164488,
+      "instNetBuy": 47211
+    },
+    "6136": {
+      "name": "富爾特",
+      "close": 24.25,
+      "volume": 136594,
+      "instNetBuy": 23438
+    },
+    "6139": {
+      "name": "亞翔",
+      "close": 775,
+      "volume": 3589109,
+      "instNetBuy": -373138
+    },
+    "6141": {
+      "name": "柏承",
+      "close": 37.7,
+      "volume": 1724683,
+      "instNetBuy": -264100
+    },
+    "6142": {
+      "name": "友勁",
+      "close": 9.28,
+      "volume": 974754,
+      "instNetBuy": 101800
+    },
+    "6152": {
+      "name": "百一",
+      "close": 12,
+      "volume": 921232,
+      "instNetBuy": 222800
+    },
+    "6153": {
+      "name": "嘉聯益",
+      "close": 16.4,
+      "volume": 5956945,
+      "instNetBuy": -1168589
+    },
+    "6155": {
+      "name": "鈞寶",
+      "close": 58.6,
+      "volume": 1919575,
+      "instNetBuy": 543023
+    },
+    "6164": {
+      "name": "華興",
+      "close": 12.4,
+      "volume": 806814,
+      "instNetBuy": -143864
+    },
+    "6165": {
+      "name": "浪凡",
+      "close": 49.9,
+      "volume": 539029,
+      "instNetBuy": 51140
+    },
+    "6166": {
+      "name": "凌華",
+      "close": 120,
+      "volume": 2072023,
+      "instNetBuy": -49656
+    },
+    "6168": {
+      "name": "宏齊",
+      "close": 23.6,
+      "volume": 2328022,
+      "instNetBuy": -17067
+    },
+    "6176": {
+      "name": "瑞儀",
+      "close": 83.1,
+      "volume": 3619566,
+      "instNetBuy": -165969
+    },
+    "6177": {
+      "name": "達麗",
+      "close": 47.35,
+      "volume": 1173535,
+      "instNetBuy": 100413
+    },
+    "6183": {
+      "name": "關貿",
+      "close": 90.4,
+      "volume": 36518,
+      "instNetBuy": 20500
+    },
+    "6184": {
+      "name": "大豐電",
+      "close": 42.75,
+      "volume": 52759,
+      "instNetBuy": 34280
+    },
+    "6189": {
+      "name": "豐藝",
+      "close": 46.95,
+      "volume": 578483,
+      "instNetBuy": 126291
+    },
+    "6191": {
+      "name": "精成科",
+      "close": 90.5,
+      "volume": 7267736,
+      "instNetBuy": 525563
+    },
+    "6192": {
+      "name": "巨路",
+      "close": 114.5,
+      "volume": 108137,
+      "instNetBuy": -23462
+    },
+    "6196": {
+      "name": "帆宣",
+      "close": 518,
+      "volume": 1997918,
+      "instNetBuy": -46201
+    },
+    "6197": {
+      "name": "佳必琪",
+      "close": 301,
+      "volume": 2950601,
+      "instNetBuy": 135951
+    },
+    "6201": {
+      "name": "亞弘電",
+      "close": 49.2,
+      "volume": 26110,
+      "instNetBuy": 11000
+    },
+    "6202": {
+      "name": "盛群",
+      "close": 56.1,
+      "volume": 4303675,
+      "instNetBuy": -51774
+    },
+    "6205": {
+      "name": "詮欣",
+      "close": 60.9,
+      "volume": 769531,
+      "instNetBuy": 247080
+    },
+    "6206": {
+      "name": "飛捷",
+      "close": 117,
+      "volume": 1269978,
+      "instNetBuy": -20919
+    },
+    "6209": {
+      "name": "今國光",
+      "close": 65.4,
+      "volume": 5771076,
+      "instNetBuy": 1157007
+    },
+    "6213": {
+      "name": "聯茂",
+      "close": 322.5,
+      "volume": 36321779,
+      "instNetBuy": -1932461
+    },
+    "6214": {
+      "name": "精誠",
+      "close": 137.5,
+      "volume": 939235,
+      "instNetBuy": 51418
+    },
+    "6215": {
+      "name": "和椿",
+      "close": 94.8,
+      "volume": 1434891,
+      "instNetBuy": -6650
+    },
+    "6216": {
+      "name": "居易",
+      "close": 21.85,
+      "volume": 267760,
+      "instNetBuy": 4354
+    },
+    "6224": {
+      "name": "聚鼎",
+      "close": 55.5,
+      "volume": 838569,
+      "instNetBuy": 215423
+    },
+    "6225": {
+      "name": "天瀚",
+      "close": 25.55,
+      "volume": 60456,
+      "instNetBuy": 450
+    },
+    "6226": {
+      "name": "光鼎",
+      "close": 20.3,
+      "volume": 3974451,
+      "instNetBuy": -43100
+    },
+    "6230": {
+      "name": "尼得科超眾",
+      "close": 110,
+      "volume": 72493,
+      "instNetBuy": 2766
+    },
+    "6235": {
+      "name": "華孚",
+      "close": 39.25,
+      "volume": 853940,
+      "instNetBuy": 75300
+    },
+    "6239": {
+      "name": "力成",
+      "close": 266.5,
+      "volume": 20952221,
+      "instNetBuy": 1382348
+    },
+    "6243": {
+      "name": "迅杰",
+      "close": 46.45,
+      "volume": 3286291,
+      "instNetBuy": 87452
+    },
+    "6257": {
+      "name": "矽格",
+      "close": 211,
+      "volume": 6493349,
+      "instNetBuy": -298166
+    },
+    "6269": {
+      "name": "台郡",
+      "close": 54.1,
+      "volume": 5093218,
+      "instNetBuy": -1237119
+    },
+    "6271": {
+      "name": "同欣電",
+      "close": 192.5,
+      "volume": 6698590,
+      "instNetBuy": 543429
+    },
+    "6272": {
+      "name": "驊陞",
+      "close": 26.85,
+      "volume": 209593,
+      "instNetBuy": 9000
+    },
+    "6277": {
+      "name": "宏正",
+      "close": 76,
+      "volume": 4700824,
+      "instNetBuy": -802667
+    },
+    "6278": {
+      "name": "台表科",
+      "close": 157.5,
+      "volume": 4835334,
+      "instNetBuy": 1579107
+    },
+    "6281": {
+      "name": "全國電",
+      "close": 51.4,
+      "volume": 71297,
+      "instNetBuy": 45139
+    },
+    "6282": {
+      "name": "康舒",
+      "close": 46.85,
+      "volume": 16923032,
+      "instNetBuy": 238586
+    },
+    "6283": {
+      "name": "淳安",
+      "close": 21.05,
+      "volume": 140423,
+      "instNetBuy": -2899
+    },
+    "6285": {
+      "name": "啟碁",
+      "close": 235,
+      "volume": 8934026,
+      "instNetBuy": 669973
+    },
+    "6405": {
+      "name": "悅城",
+      "close": 41.75,
+      "volume": 1090860,
+      "instNetBuy": 381578
+    },
+    "6409": {
+      "name": "旭隼",
+      "close": 988,
+      "volume": 551049,
+      "instNetBuy": -19699
+    },
+    "6412": {
+      "name": "群電",
+      "close": 80.2,
+      "volume": 1081693,
+      "instNetBuy": -18538
+    },
+    "6414": {
+      "name": "樺漢",
+      "close": 405,
+      "volume": 3549738,
+      "instNetBuy": 5645
+    },
+    "6415": {
+      "name": "矽力*-KY",
+      "close": 427.5,
+      "volume": 6790313,
+      "instNetBuy": -333992
+    },
+    "6416": {
+      "name": "瑞祺電通",
+      "close": 90.4,
+      "volume": 616838,
+      "instNetBuy": 33499
+    },
+    "6426": {
+      "name": "統新",
+      "close": 153.5,
+      "volume": 597237,
+      "instNetBuy": 139751
+    },
+    "6431": {
+      "name": "光麗-KY",
+      "close": 17.45,
+      "volume": 131171,
+      "instNetBuy": -3000
+    },
+    "6438": {
+      "name": "迅得",
+      "close": 144,
+      "volume": 596880,
+      "instNetBuy": -45542
+    },
+    "6442": {
+      "name": "光聖",
+      "close": 1220,
+      "volume": 2422294,
+      "instNetBuy": 220379
+    },
+    "6443": {
+      "name": "元晶",
+      "close": 27.85,
+      "volume": 8179833,
+      "instNetBuy": -969000
+    },
+    "6446": {
+      "name": "藥華藥",
+      "close": 1175,
+      "volume": 2926691,
+      "instNetBuy": -329203
+    },
+    "6449": {
+      "name": "鈺邦",
+      "close": 238.5,
+      "volume": 2202639,
+      "instNetBuy": 591534
+    },
+    "6451": {
+      "name": "訊芯-KY",
+      "close": 395.5,
+      "volume": 3818617,
+      "instNetBuy": 1358440
+    },
+    "6456": {
+      "name": "GIS-KY",
+      "close": 61.6,
+      "volume": 3066459,
+      "instNetBuy": -231465
+    },
+    "6464": {
+      "name": "台數科",
+      "close": 79,
+      "volume": 103630,
+      "instNetBuy": -13232
+    },
+    "6472": {
+      "name": "保瑞",
+      "close": 392.5,
+      "volume": 690321,
+      "instNetBuy": 82748
+    },
+    "6477": {
+      "name": "安集",
+      "close": 41,
+      "volume": 8771674,
+      "instNetBuy": -122224
+    },
+    "6491": {
+      "name": "晶碩",
+      "close": 335.5,
+      "volume": 329484,
+      "instNetBuy": 46211
+    },
+    "6504": {
+      "name": "南六",
+      "close": 36.3,
+      "volume": 130372,
+      "instNetBuy": 43116
+    },
+    "6505": {
+      "name": "台塑化",
+      "close": 77.7,
+      "volume": 96798018,
+      "instNetBuy": 11117302
+    },
+    "6515": {
+      "name": "穎崴",
+      "close": 6050,
+      "volume": 388870,
+      "instNetBuy": -808
+    },
+    "6525": {
+      "name": "捷敏-KY",
+      "close": 155.5,
+      "volume": 3040279,
+      "instNetBuy": 342786
+    },
+    "6526": {
+      "name": "達發",
+      "close": 548,
+      "volume": 726342,
+      "instNetBuy": 178659
+    },
+    "6531": {
+      "name": "愛普*",
+      "close": 780,
+      "volume": 3373745,
+      "instNetBuy": 451555
+    },
+    "6533": {
+      "name": "晶心科",
+      "close": 231,
+      "volume": 1620034,
+      "instNetBuy": 132798
+    },
+    "6534": {
+      "name": "正瀚-創",
+      "close": 93,
+      "volume": 60212,
+      "instNetBuy": 24049
+    },
+    "6541": {
+      "name": "泰福-KY",
+      "close": 39.1,
+      "volume": 408068,
+      "instNetBuy": 62577
+    },
+    "6550": {
+      "name": "北極星藥業-KY",
+      "close": 12.3,
+      "volume": 853917,
+      "instNetBuy": 590460
+    },
+    "6552": {
+      "name": "易華電",
+      "close": 25.2,
+      "volume": 237456,
+      "instNetBuy": 3400
+    },
+    "6558": {
+      "name": "興能高",
+      "close": 26.55,
+      "volume": 385853,
+      "instNetBuy": 116400
+    },
+    "6573": {
+      "name": "虹揚-KY",
+      "close": 19.95,
+      "volume": 750234,
+      "instNetBuy": 141980
+    },
+    "6579": {
+      "name": "研揚",
+      "close": 149,
+      "volume": 348342,
+      "instNetBuy": 35218
+    },
+    "6581": {
+      "name": "鋼聯",
+      "close": 107,
+      "volume": 48558,
+      "instNetBuy": 1900
+    },
+    "6582": {
+      "name": "申豐",
+      "close": 31.9,
+      "volume": 47697,
+      "instNetBuy": 4800
+    },
+    "6585": {
+      "name": "鼎基",
+      "close": 121.5,
+      "volume": 423220,
+      "instNetBuy": -37362
+    },
+    "6589": {
+      "name": "台康生技",
+      "close": 44.9,
+      "volume": 468365,
+      "instNetBuy": 69071
+    },
+    "6591": {
+      "name": "動力-KY",
+      "close": 43.6,
+      "volume": 204814,
+      "instNetBuy": 22042
+    },
+    "6592": {
+      "name": "和潤企業",
+      "close": 60.4,
+      "volume": 392664,
+      "instNetBuy": -54958
+    },
+    "6598": {
+      "name": "ABC-KY",
+      "close": 26.7,
+      "volume": 1189043,
+      "instNetBuy": -123777
+    },
+    "6605": {
+      "name": "帝寶",
+      "close": 130.5,
+      "volume": 298212,
+      "instNetBuy": 25070
+    },
+    "6606": {
+      "name": "建德工業",
+      "close": 25.85,
+      "volume": 134184,
+      "instNetBuy": -977
+    },
+    "6614": {
+      "name": "資拓宏宇",
+      "close": 38.55,
+      "volume": 65590,
+      "instNetBuy": 10300
+    },
+    "6625": {
+      "name": "必應",
+      "close": 76,
+      "volume": 162225,
+      "instNetBuy": -45651
+    },
+    "6641": {
+      "name": "基士德-KY",
+      "close": 17.75,
+      "volume": 76596,
+      "instNetBuy": 3254
+    },
+    "6645": {
+      "name": "金萬林-創",
+      "close": 13.5,
+      "volume": 43650,
+      "instNetBuy": 12579
+    },
+    "6655": {
+      "name": "科定",
+      "close": 119,
+      "volume": 14478,
+      "instNetBuy": 8300
+    },
+    "6657": {
+      "name": "華安",
+      "close": 34.5,
+      "volume": 191591,
+      "instNetBuy": 80500
+    },
+    "6658": {
+      "name": "聯策",
+      "close": 155.5,
+      "volume": 758157,
+      "instNetBuy": 91465
+    },
+    "6666": {
+      "name": "羅麗芬-KY",
+      "close": 44.7,
+      "volume": 62083,
+      "instNetBuy": -200
+    },
+    "6668": {
+      "name": "中揚光",
+      "close": 34.15,
+      "volume": 411480,
+      "instNetBuy": -40840
+    },
+    "6669": {
+      "name": "緯穎",
+      "close": 4685,
+      "volume": 1414812,
+      "instNetBuy": 271498
+    },
+    "6670": {
+      "name": "復盛應用",
+      "close": 260,
+      "volume": 567008,
+      "instNetBuy": -200937
+    },
+    "6671": {
+      "name": "三能-KY",
+      "close": 24,
+      "volume": 75010,
+      "instNetBuy": 24000
+    },
+    "6672": {
+      "name": "騰輝電子-KY",
+      "close": 221.5,
+      "volume": 3652578,
+      "instNetBuy": 65041
+    },
+    "6674": {
+      "name": "鋐寶科技",
+      "close": 16.1,
+      "volume": 21030,
+      "instNetBuy": 4030
+    },
+    "6689": {
+      "name": "伊雲谷",
+      "close": 60.2,
+      "volume": 176675,
+      "instNetBuy": 50126
+    },
+    "6691": {
+      "name": "洋基工程",
+      "close": 693,
+      "volume": 803487,
+      "instNetBuy": -175447
+    },
+    "6695": {
+      "name": "芯鼎",
+      "close": 52.3,
+      "volume": 1233677,
+      "instNetBuy": -135611
+    },
+    "6698": {
+      "name": "旭暉應材",
+      "close": 34.5,
+      "volume": 383501,
+      "instNetBuy": -18900
+    },
+    "6706": {
+      "name": "惠特",
+      "close": 107,
+      "volume": 1903268,
+      "instNetBuy": 317275
+    },
+    "6715": {
+      "name": "嘉基",
+      "close": 375,
+      "volume": 760504,
+      "instNetBuy": -162558
+    },
+    "6719": {
+      "name": "力智",
+      "close": 218,
+      "volume": 1645750,
+      "instNetBuy": 301464
+    },
+    "6722": {
+      "name": "輝創",
+      "close": 33.85,
+      "volume": 65837,
+      "instNetBuy": 11500
+    },
+    "6742": {
+      "name": "澤米",
+      "close": 44.15,
+      "volume": 796805,
+      "instNetBuy": 155204
+    },
+    "6743": {
+      "name": "安普新",
+      "close": 29.65,
+      "volume": 230333,
+      "instNetBuy": 92650
+    },
+    "6753": {
+      "name": "龍德造船",
+      "close": 139.5,
+      "volume": 3641082,
+      "instNetBuy": -305079
+    },
+    "6754": {
+      "name": "匯僑設計",
+      "close": 42.1,
+      "volume": 18260,
+      "instNetBuy": 0
+    },
+    "6756": {
+      "name": "威鋒電子",
+      "close": 92.2,
+      "volume": 164974,
+      "instNetBuy": 2284
+    },
+    "6757": {
+      "name": "台灣虎航",
+      "close": 57.3,
+      "volume": 1300553,
+      "instNetBuy": 254447
+    },
+    "6768": {
+      "name": "志強-KY",
+      "close": 70.1,
+      "volume": 537205,
+      "instNetBuy": -7880
+    },
+    "6770": {
+      "name": "力積電",
+      "close": 63,
+      "volume": 179760556,
+      "instNetBuy": -26713877
+    },
+    "6771": {
+      "name": "平和環保-創",
+      "close": 38.7,
+      "volume": 9504,
+      "instNetBuy": 1500
+    },
+    "6776": {
+      "name": "展碁國際",
+      "close": 53.8,
+      "volume": 176252,
+      "instNetBuy": 25242
+    },
+    "6781": {
+      "name": "AES-KY",
+      "close": 926,
+      "volume": 1060540,
+      "instNetBuy": 216983
+    },
+    "6782": {
+      "name": "視陽",
+      "close": 195.5,
+      "volume": 276292,
+      "instNetBuy": 20453
+    },
+    "6789": {
+      "name": "采鈺",
+      "close": 459,
+      "volume": 2542540,
+      "instNetBuy": 364802
+    },
+    "6790": {
+      "name": "永豐實",
+      "close": 39.1,
+      "volume": 253323,
+      "instNetBuy": 134500
+    },
+    "6792": {
+      "name": "詠業",
+      "close": 52.5,
+      "volume": 84634,
+      "instNetBuy": 32800
+    },
+    "6794": {
+      "name": "向榮生技",
+      "close": 76.8,
+      "volume": 18423,
+      "instNetBuy": 1360
+    },
+    "6796": {
+      "name": "晉弘",
+      "close": 57.6,
+      "volume": 20088,
+      "instNetBuy": 5000
+    },
+    "6799": {
+      "name": "來頡",
+      "close": 81.4,
+      "volume": 685517,
+      "instNetBuy": 68099
+    },
+    "6805": {
+      "name": "富世達",
+      "close": 1305,
+      "volume": 746098,
+      "instNetBuy": -87968
+    },
+    "6807": {
+      "name": "峰源-KY",
+      "close": 33.8,
+      "volume": 13034,
+      "instNetBuy": 7034
+    },
+    "6830": {
+      "name": "汎銓",
+      "close": 343,
+      "volume": 1382301,
+      "instNetBuy": 321825
+    },
+    "6831": {
+      "name": "邁科",
+      "close": 551,
+      "volume": 447301,
+      "instNetBuy": -252241
+    },
+    "6834": {
+      "name": "天二科技",
+      "close": 94.6,
+      "volume": 3994472,
+      "instNetBuy": 1046849
+    },
+    "6835": {
+      "name": "圓裕",
+      "close": 31.35,
+      "volume": 47253,
+      "instNetBuy": 7000
+    },
+    "6838": {
+      "name": "台新藥",
+      "close": 23.45,
+      "volume": 144951,
+      "instNetBuy": 55500
+    },
+    "6854": {
+      "name": "錼創科技-KY創",
+      "close": 100.5,
+      "volume": 501853,
+      "instNetBuy": 122055
+    },
+    "6861": {
+      "name": "睿生光電",
+      "close": 215.5,
+      "volume": 746212,
+      "instNetBuy": 263838
+    },
+    "6862": {
+      "name": "三集瑞-KY",
+      "close": 143,
+      "volume": 744235,
+      "instNetBuy": 171969
+    },
+    "6863": {
+      "name": "永道-KY",
+      "close": 99.8,
+      "volume": 195523,
+      "instNetBuy": 61300
+    },
+    "6869": {
+      "name": "雲豹能源",
+      "close": 67.4,
+      "volume": 951808,
+      "instNetBuy": 353764
+    },
+    "6873": {
+      "name": "泓德能源",
+      "close": 82.5,
+      "volume": 404453,
+      "instNetBuy": 124986
+    },
+    "6885": {
+      "name": "全福生技",
+      "close": 21,
+      "volume": 316713,
+      "instNetBuy": 111196
+    },
+    "6887": {
+      "name": "寶綠特-KY",
+      "close": 35.85,
+      "volume": 84137,
+      "instNetBuy": -2971
+    },
+    "6890": {
+      "name": "來億-KY",
+      "close": 171,
+      "volume": 308716,
+      "instNetBuy": 56889
+    },
+    "6901": {
+      "name": "鑽石投資",
+      "close": 17.7,
+      "volume": 2964669,
+      "instNetBuy": 77440
+    },
+    "6902": {
+      "name": "GOGOLOOK",
+      "close": 120.5,
+      "volume": 87721,
+      "instNetBuy": -400
+    },
+    "6906": {
+      "name": "現觀科",
+      "close": 70,
+      "volume": 46389,
+      "instNetBuy": 1814
+    },
+    "6908": {
+      "name": "宏碁遊戲-創",
+      "close": 36.75,
+      "volume": 15049,
+      "instNetBuy": 5480
+    },
+    "6909": {
+      "name": "創控",
+      "close": 42.55,
+      "volume": 505594,
+      "instNetBuy": -48900
+    },
+    "6914": {
+      "name": "阜爾運通",
+      "close": 145.5,
+      "volume": 95863,
+      "instNetBuy": 13950
+    },
+    "6916": {
+      "name": "華凌",
+      "close": 19.6,
+      "volume": 94188,
+      "instNetBuy": 14073
+    },
+    "6918": {
+      "name": "愛派司",
+      "close": 71.8,
+      "volume": 29046,
+      "instNetBuy": -8000
+    },
+    "6919": {
+      "name": "康霈*",
+      "close": 106.5,
+      "volume": 6411660,
+      "instNetBuy": 1538916
+    },
+    "6921": {
+      "name": "嘉雨思-創",
+      "close": 63,
+      "volume": 29015,
+      "instNetBuy": 5988
+    },
+    "6923": {
+      "name": "中台",
+      "close": 77.2,
+      "volume": 99592,
+      "instNetBuy": 32500
+    },
+    "6924": {
+      "name": "榮惠-KY創",
+      "close": 104.5,
+      "volume": 60470,
+      "instNetBuy": 18119
+    },
+    "6928": {
+      "name": "攸泰科技",
+      "close": 54,
+      "volume": 709002,
+      "instNetBuy": 157335
+    },
+    "6931": {
+      "name": "青松健康",
+      "close": 39.2,
+      "volume": 36546,
+      "instNetBuy": -900
+    },
+    "6933": {
+      "name": "AMAX-KY",
+      "close": 163.5,
+      "volume": 344742,
+      "instNetBuy": -8642
+    },
+    "6934": {
+      "name": "心誠鎂",
+      "close": 79.5,
+      "volume": 34051,
+      "instNetBuy": -6661
+    },
+    "6936": {
+      "name": "永鴻生技",
+      "close": 31.8,
+      "volume": 29993,
+      "instNetBuy": 2200
+    },
+    "6937": {
+      "name": "天虹",
+      "close": 266.5,
+      "volume": 452163,
+      "instNetBuy": 16136
+    },
+    "6944": {
+      "name": "兆聯實業",
+      "close": 960,
+      "volume": 486998,
+      "instNetBuy": -39793
+    },
+    "6949": {
+      "name": "沛爾生醫-創",
+      "close": 991,
+      "volume": 265584,
+      "instNetBuy": 28840
+    },
+    "6951": {
+      "name": "青新-創",
+      "close": 71.7,
+      "volume": 66284,
+      "instNetBuy": -2375
+    },
+    "6952": {
+      "name": "大武山",
+      "close": 35.8,
+      "volume": 35414,
+      "instNetBuy": -3000
+    },
+    "6955": {
+      "name": "邦睿生技-創",
+      "close": 112.5,
+      "volume": 3001,
+      "instNetBuy": -3000
+    },
+    "6957": {
+      "name": "裕慶-KY",
+      "close": 249.5,
+      "volume": 285829,
+      "instNetBuy": 25041
+    },
+    "6958": {
+      "name": "日盛台駿",
+      "close": 18.55,
+      "volume": 218914,
+      "instNetBuy": 83700
+    },
+    "6962": {
+      "name": "奕力-KY",
+      "close": 32.5,
+      "volume": 2458023,
+      "instNetBuy": -590785
+    },
+    "6965": {
+      "name": "中傑-KY",
+      "close": 79.2,
+      "volume": 88371,
+      "instNetBuy": 14600
+    },
+    "6969": {
+      "name": "成信實業*-創",
+      "close": 26.4,
+      "volume": 1630161,
+      "instNetBuy": 47000
+    },
+    "6988": {
+      "name": "威力暘-創",
+      "close": 13.1,
+      "volume": 15000,
+      "instNetBuy": 3000
+    },
+    "6994": {
+      "name": "富威電力",
+      "close": 40.3,
+      "volume": 493628,
+      "instNetBuy": 129504
+    },
+    "7610": {
+      "name": "聯友金屬-創",
+      "close": 2170,
+      "volume": 623678,
+      "instNetBuy": 215608
+    },
+    "7631": {
+      "name": "聚賢研發-創",
+      "close": 138.5,
+      "volume": 38076,
+      "instNetBuy": -700
+    },
+    "7705": {
+      "name": "三商餐飲",
+      "close": 30.45,
+      "volume": 27577,
+      "instNetBuy": -1900
+    },
+    "7711": {
+      "name": "永擎",
+      "close": 298,
+      "volume": 348232,
+      "instNetBuy": 111981
+    },
+    "7721": {
+      "name": "微程式",
+      "close": 61,
+      "volume": 114218,
+      "instNetBuy": 4000
+    },
+    "7722": {
+      "name": "LINEPAY",
+      "close": 307.5,
+      "volume": 100151,
+      "instNetBuy": 51841
+    },
+    "7730": {
+      "name": "暉盛-創",
+      "close": 166,
+      "volume": 85425,
+      "instNetBuy": -29989
+    },
+    "7732": {
+      "name": "金興精密",
+      "close": 35.75,
+      "volume": 19000,
+      "instNetBuy": 3000
+    },
+    "7736": {
+      "name": "虎山",
+      "close": 70.3,
+      "volume": 41086,
+      "instNetBuy": 18021
+    },
+    "7740": {
+      "name": "熙特爾-創",
+      "close": 159.5,
+      "volume": 184522,
+      "instNetBuy": 2846
+    },
+    "7749": {
+      "name": "意騰-KY",
+      "close": 353,
+      "volume": 185868,
+      "instNetBuy": 716
+    },
+    "7750": {
+      "name": "新代",
+      "close": 1950,
+      "volume": 350754,
+      "instNetBuy": 11344
+    },
+    "7760": {
+      "name": "享溫馨",
+      "close": 34.5,
+      "volume": 79034,
+      "instNetBuy": 19030
+    },
+    "7765": {
+      "name": "中華資安",
+      "close": 230,
+      "volume": 100897,
+      "instNetBuy": 12741
+    },
+    "7768": {
+      "name": "頌勝科技",
+      "close": 298,
+      "volume": 156098,
+      "instNetBuy": 62200
+    },
+    "7769": {
+      "name": "鴻勁",
+      "close": 6005,
+      "volume": 770274,
+      "instNetBuy": 6772
+    },
+    "7780": {
+      "name": "大研生醫*",
+      "close": 17.3,
+      "volume": 1116579,
+      "instNetBuy": 307770
+    },
+    "7786": {
+      "name": "東方風能",
+      "close": 129,
+      "volume": 171777,
+      "instNetBuy": 73279
+    },
+    "7788": {
+      "name": "松川精密",
+      "close": 233,
+      "volume": 1965298,
+      "instNetBuy": 408589
+    },
+    "7791": {
+      "name": "皇家可口",
+      "close": 62.3,
+      "volume": 43199,
+      "instNetBuy": 11300
+    },
+    "7795": {
+      "name": "長廣",
+      "close": 456.5,
+      "volume": 394398,
+      "instNetBuy": -45577
+    },
+    "7799": {
+      "name": "禾榮科",
+      "close": 420.5,
+      "volume": 623294,
+      "instNetBuy": 30795
+    },
+    "7803": {
+      "name": "雲象科技-創",
+      "close": 21.25,
+      "volume": 98016,
+      "instNetBuy": -7016
+    },
+    "7818": {
+      "name": "溢泰實業",
+      "close": 68.6,
+      "volume": 144951,
+      "instNetBuy": 18590
+    },
+    "7821": {
+      "name": "神數",
+      "close": 40.35,
+      "volume": 120804,
+      "instNetBuy": 57000
+    },
+    "7822": {
+      "name": "倍利科",
+      "close": 860,
+      "volume": 135316,
+      "instNetBuy": 2810
+    },
+    "7823": {
+      "name": "奧義賽博-KY創",
+      "close": 84,
+      "volume": 21600,
+      "instNetBuy": 1109
+    },
+    "7827": {
+      "name": "漢康-KY創",
+      "close": 154.5,
+      "volume": 282591,
+      "instNetBuy": -38765
+    },
+    "8011": {
+      "name": "台通",
+      "close": 16.85,
+      "volume": 1093208,
+      "instNetBuy": -92980
+    },
+    "8016": {
+      "name": "矽創",
+      "close": 274,
+      "volume": 1585791,
+      "instNetBuy": 8899
+    },
+    "8021": {
+      "name": "尖點",
+      "close": 409.5,
+      "volume": 3805600,
+      "instNetBuy": -310328
+    },
+    "8028": {
+      "name": "昇陽半導體",
+      "close": 300,
+      "volume": 9537577,
+      "instNetBuy": -398183
+    },
+    "8033": {
+      "name": "雷虎",
+      "close": 204.5,
+      "volume": 27186589,
+      "instNetBuy": -1207008
+    },
+    "8039": {
+      "name": "台虹",
+      "close": 193,
+      "volume": 54015044,
+      "instNetBuy": -3397502
+    },
+    "8045": {
+      "name": "達運光電",
+      "close": 61.3,
+      "volume": 351456,
+      "instNetBuy": 102000
+    },
+    "8046": {
+      "name": "南電",
+      "close": 1105,
+      "volume": 18077328,
+      "instNetBuy": 265729
+    },
+    "8070": {
+      "name": "長華*",
+      "close": 46.7,
+      "volume": 3402175,
+      "instNetBuy": -330520
+    },
+    "8072": {
+      "name": "陞泰",
+      "close": 26.75,
+      "volume": 310294,
+      "instNetBuy": 39354
+    },
+    "8081": {
+      "name": "致新",
+      "close": 233.5,
+      "volume": 1091164,
+      "instNetBuy": -166083
+    },
+    "8101": {
+      "name": "華冠",
+      "close": 13.4,
+      "volume": 1542,
+      "instNetBuy": null
+    },
+    "8103": {
+      "name": "瀚荃",
+      "close": 76.5,
+      "volume": 1319357,
+      "instNetBuy": -160060
+    },
+    "8104": {
+      "name": "錸寶",
+      "close": 33.45,
+      "volume": 450814,
+      "instNetBuy": 79340
+    },
+    "8105": {
+      "name": "凌巨",
+      "close": 16.05,
+      "volume": 4660148,
+      "instNetBuy": 255820
+    },
+    "8110": {
+      "name": "華東",
+      "close": 41.15,
+      "volume": 5306636,
+      "instNetBuy": 680383
+    },
+    "8112": {
+      "name": "至上",
+      "close": 80.9,
+      "volume": 8702716,
+      "instNetBuy": -40204
+    },
+    "8114": {
+      "name": "振樺電",
+      "close": 183,
+      "volume": 496857,
+      "instNetBuy": 58441
+    },
+    "8131": {
+      "name": "福懋科",
+      "close": 67.2,
+      "volume": 5916702,
+      "instNetBuy": -701640
+    },
+    "8150": {
+      "name": "南茂",
+      "close": 103,
+      "volume": 49833726,
+      "instNetBuy": -689662
+    },
+    "8162": {
+      "name": "微矽電子-創",
+      "close": 61,
+      "volume": 672611,
+      "instNetBuy": 188315
+    },
+    "8163": {
+      "name": "達方",
+      "close": 32.5,
+      "volume": 1246416,
+      "instNetBuy": 110423
+    },
+    "8201": {
+      "name": "無敵",
+      "close": 12.4,
+      "volume": 43000,
+      "instNetBuy": 4000
+    },
+    "8210": {
+      "name": "勤誠",
+      "close": 1080,
+      "volume": 1071746,
+      "instNetBuy": 194566
+    },
+    "8213": {
+      "name": "志超",
+      "close": 30.9,
+      "volume": 1067198,
+      "instNetBuy": -418000
+    },
+    "8215": {
+      "name": "明基材",
+      "close": 24.45,
+      "volume": 1234542,
+      "instNetBuy": -60577
+    },
+    "8222": {
+      "name": "寶一",
+      "close": 37.8,
+      "volume": 2630166,
+      "instNetBuy": -40828
+    },
+    "8249": {
+      "name": "菱光",
+      "close": 43.65,
+      "volume": 320296,
+      "instNetBuy": 102000
+    },
+    "8261": {
+      "name": "富鼎",
+      "close": 229,
+      "volume": 2908393,
+      "instNetBuy": 455516
+    },
+    "8271": {
+      "name": "宇瞻",
+      "close": 184,
+      "volume": 3821743,
+      "instNetBuy": -476150
+    },
+    "8341": {
+      "name": "日友",
+      "close": 75.9,
+      "volume": 215695,
+      "instNetBuy": 77931
+    },
+    "8367": {
+      "name": "建新國際",
+      "close": 40.7,
+      "volume": 26061,
+      "instNetBuy": 16000
+    },
+    "8374": {
+      "name": "羅昇",
+      "close": 75.8,
+      "volume": 368453,
+      "instNetBuy": 86232
+    },
+    "8404": {
+      "name": "百和興業-KY",
+      "close": 16.9,
+      "volume": 253504,
+      "instNetBuy": 108000
+    },
+    "8411": {
+      "name": "福貞-KY",
+      "close": 12.6,
+      "volume": 66734,
+      "instNetBuy": 28700
+    },
+    "8422": {
+      "name": "可寧衛*",
+      "close": 25.8,
+      "volume": 7661803,
+      "instNetBuy": 45619
+    },
+    "8429": {
+      "name": "金麗-KY",
+      "close": 6.08,
+      "volume": 212283,
+      "instNetBuy": 7100
+    },
+    "8438": {
+      "name": "昶昕",
+      "close": 71.1,
+      "volume": 2210055,
+      "instNetBuy": 1019152
+    },
+    "8442": {
+      "name": "威宏-KY",
+      "close": 44.85,
+      "volume": 82450,
+      "instNetBuy": 200
+    },
+    "8443": {
+      "name": "阿瘦",
+      "close": 11.4,
+      "volume": 8593,
+      "instNetBuy": 5100
+    },
+    "8454": {
+      "name": "富邦媒",
+      "close": 253.5,
+      "volume": 795106,
+      "instNetBuy": 41844
+    },
+    "8462": {
+      "name": "柏文",
+      "close": 155.5,
+      "volume": 124622,
+      "instNetBuy": 13181
+    },
+    "8463": {
+      "name": "潤泰材",
+      "close": 21.3,
+      "volume": 75047,
+      "instNetBuy": 20000
+    },
+    "8464": {
+      "name": "億豐",
+      "close": 360,
+      "volume": 979367,
+      "instNetBuy": -135124
+    },
+    "8466": {
+      "name": "美吉吉-KY",
+      "close": 17,
+      "volume": 102300,
+      "instNetBuy": 15300
+    },
+    "8467": {
+      "name": "波力-KY",
+      "close": 102,
+      "volume": 40141,
+      "instNetBuy": 14685
+    },
+    "8473": {
+      "name": "山林水",
+      "close": 43.6,
+      "volume": 669455,
+      "instNetBuy": 83221
+    },
+    "8476": {
+      "name": "台境*",
+      "close": 24.35,
+      "volume": 1245845,
+      "instNetBuy": 222800
+    },
+    "8478": {
+      "name": "東哥遊艇",
+      "close": 151,
+      "volume": 163067,
+      "instNetBuy": 18257
+    },
+    "8481": {
+      "name": "政伸",
+      "close": 39.9,
+      "volume": 82180,
+      "instNetBuy": 18000
+    },
+    "8482": {
+      "name": "商億-KY",
+      "close": 48.75,
+      "volume": 16757,
+      "instNetBuy": 11647
+    },
+    "8487": {
+      "name": "愛爾達-創",
+      "close": 75.1,
+      "volume": 50667,
+      "instNetBuy": 10292
+    },
+    "8488": {
+      "name": "吉源-KY",
+      "close": 10.25,
+      "volume": 6200,
+      "instNetBuy": 4200
+    },
+    "8499": {
+      "name": "鼎炫-KY",
+      "close": 269,
+      "volume": 69993,
+      "instNetBuy": -28695
+    },
+    "8926": {
+      "name": "台汽電",
+      "close": 64,
+      "volume": 4580110,
+      "instNetBuy": 28853
+    },
+    "8940": {
+      "name": "新天地",
+      "close": 16,
+      "volume": 76416,
+      "instNetBuy": 12115
+    },
+    "8996": {
+      "name": "高力",
+      "close": 971,
+      "volume": 3790952,
+      "instNetBuy": 83290
+    },
+    "9103": {
+      "name": "美德醫療-DR",
+      "close": 5.18,
+      "volume": 3850425,
+      "instNetBuy": 85461
+    },
+    "9105": {
+      "name": "泰金寶-DR",
+      "close": 8.43,
+      "volume": 33356885,
+      "instNetBuy": 3314664
+    },
+    "9110": {
+      "name": "越南控-DR",
+      "close": 3.11,
+      "volume": 13000,
+      "instNetBuy": null
+    },
+    "9136": {
+      "name": "巨騰-DR",
+      "close": 11.6,
+      "volume": 345767,
+      "instNetBuy": 20000
+    },
+    "9802": {
+      "name": "鈺齊-KY",
+      "close": 74.2,
+      "volume": 626659,
+      "instNetBuy": 121395
+    },
+    "9902": {
+      "name": "台火",
+      "close": 13.5,
+      "volume": 102043,
+      "instNetBuy": 39873
+    },
+    "9904": {
+      "name": "寶成",
+      "close": 24.35,
+      "volume": 24005216,
+      "instNetBuy": -5549192
+    },
+    "9905": {
+      "name": "大華",
+      "close": 20.6,
+      "volume": 118041,
+      "instNetBuy": 57100
+    },
+    "9906": {
+      "name": "欣巴巴",
+      "close": 39.5,
+      "volume": 73257,
+      "instNetBuy": 18500
+    },
+    "9907": {
+      "name": "統一實",
+      "close": 15.1,
+      "volume": 4953487,
+      "instNetBuy": 267769
+    },
+    "9908": {
+      "name": "大台北",
+      "close": 29.1,
+      "volume": 486821,
+      "instNetBuy": 180600
+    },
+    "9910": {
+      "name": "豐泰",
+      "close": 68.2,
+      "volume": 2677168,
+      "instNetBuy": 341299
+    },
+    "9911": {
+      "name": "櫻花",
+      "close": 83.2,
+      "volume": 399684,
+      "instNetBuy": -38990
+    },
+    "9912": {
+      "name": "偉聯",
+      "close": 12.6,
+      "volume": 30587,
+      "instNetBuy": -100
+    },
+    "9914": {
+      "name": "美利達",
+      "close": 79.8,
+      "volume": 10242270,
+      "instNetBuy": -501161
+    },
+    "9917": {
+      "name": "中保科",
+      "close": 109,
+      "volume": 1930614,
+      "instNetBuy": 803393
+    },
+    "9918": {
+      "name": "欣天然",
+      "close": 43.8,
+      "volume": 58505,
+      "instNetBuy": 3000
+    },
+    "9919": {
+      "name": "康那香",
+      "close": 13.75,
+      "volume": 1601360,
+      "instNetBuy": -194000
+    },
+    "9921": {
+      "name": "巨大",
+      "close": 83.9,
+      "volume": 6273365,
+      "instNetBuy": 25291
+    },
+    "9924": {
+      "name": "福興",
+      "close": 40.45,
+      "volume": 113592,
+      "instNetBuy": 41500
+    },
+    "9925": {
+      "name": "新保",
+      "close": 41.35,
+      "volume": 559697,
+      "instNetBuy": 258500
+    },
+    "9926": {
+      "name": "新海",
+      "close": 50.8,
+      "volume": 56445,
+      "instNetBuy": 6825
+    },
+    "9927": {
+      "name": "泰銘",
+      "close": 68.6,
+      "volume": 81117,
+      "instNetBuy": -9000
+    },
+    "9928": {
+      "name": "中視",
+      "close": 17.7,
+      "volume": 37837,
+      "instNetBuy": 2000
+    },
+    "9929": {
+      "name": "秋雨",
+      "close": 11.15,
+      "volume": 36309,
+      "instNetBuy": 0
+    },
+    "9930": {
+      "name": "中聯資源",
+      "close": 63.4,
+      "volume": 200033,
+      "instNetBuy": 88200
+    },
+    "9931": {
+      "name": "欣高",
+      "close": 33.8,
+      "volume": 89717,
+      "instNetBuy": 37982
+    },
+    "9933": {
+      "name": "中鼎",
+      "close": 39.45,
+      "volume": 2813934,
+      "instNetBuy": 608306
+    },
+    "9934": {
+      "name": "成霖",
+      "close": 10.85,
+      "volume": 1726457,
+      "instNetBuy": 410981
+    },
+    "9935": {
+      "name": "慶豐富",
+      "close": 18.8,
+      "volume": 485002,
+      "instNetBuy": 176830
+    },
+    "9937": {
+      "name": "全國",
+      "close": 55.9,
+      "volume": 84982,
+      "instNetBuy": 58200
+    },
+    "9938": {
+      "name": "百和",
+      "close": 46.65,
+      "volume": 1863660,
+      "instNetBuy": 96737
+    },
+    "9939": {
+      "name": "宏全",
+      "close": 128.5,
+      "volume": 2573572,
+      "instNetBuy": 183789
+    },
+    "9940": {
+      "name": "信義",
+      "close": 20.5,
+      "volume": 944184,
+      "instNetBuy": 158730
+    },
+    "9941": {
+      "name": "裕融",
+      "close": 82.6,
+      "volume": 1006920,
+      "instNetBuy": 102590
+    },
+    "9942": {
+      "name": "茂順",
+      "close": 123.5,
+      "volume": 138163,
+      "instNetBuy": -37394
+    },
+    "9943": {
+      "name": "好樂迪",
+      "close": 52.8,
+      "volume": 60483,
+      "instNetBuy": 20830
+    },
+    "9944": {
+      "name": "新麗",
+      "close": 18,
+      "volume": 70436,
+      "instNetBuy": 12000
+    },
+    "9945": {
+      "name": "潤泰新",
+      "close": 26.4,
+      "volume": 5071157,
+      "instNetBuy": 2127721
+    },
+    "9946": {
+      "name": "三發地產",
+      "close": 18.15,
+      "volume": 413054,
+      "instNetBuy": 53500
+    },
+    "9955": {
+      "name": "佳龍",
+      "close": 23.9,
+      "volume": 248269,
+      "instNetBuy": 63352
+    },
+    "9958": {
+      "name": "世紀鋼",
+      "close": 113,
+      "volume": 1335871,
+      "instNetBuy": 61670
+    },
+    "910322": {
+      "name": "康師傅-DR",
+      "close": 23.9,
+      "volume": 73112,
+      "instNetBuy": 68000
+    },
+    "910861": {
+      "name": "神州-DR",
+      "close": 3.94,
+      "volume": 108280,
+      "instNetBuy": -17000
+    },
+    "911608": {
+      "name": "明輝-DR",
+      "close": 2.71,
+      "volume": 41000,
+      "instNetBuy": -2000
+    },
+    "911622": {
+      "name": "泰聚亨-DR",
+      "close": 3.62,
+      "volume": 15000,
+      "instNetBuy": null
+    },
+    "911868": {
+      "name": "同方友友-DR",
+      "close": 1.2,
+      "volume": 468000,
+      "instNetBuy": -1000
+    },
+    "912000": {
+      "name": "晨訊科-DR",
+      "close": 2.79,
+      "volume": 1458187,
+      "instNetBuy": 173984
+    },
+    "0050": {
+      "name": "元大台灣50",
+      "close": 99.2,
+      "volume": 373784717,
+      "instNetBuy": -231637742
+    },
+    "0051": {
+      "name": "元大中型100",
+      "close": 134,
+      "volume": 127698,
+      "instNetBuy": -15448
+    },
+    "0052": {
+      "name": "富邦科技",
+      "close": 57.6,
+      "volume": 38675342,
+      "instNetBuy": -3970658
+    },
+    "0053": {
+      "name": "元大電子",
+      "close": 222.85,
+      "volume": 77845,
+      "instNetBuy": -32374
+    },
+    "0055": {
+      "name": "元大MSCI金融",
+      "close": 41.52,
+      "volume": 390935,
+      "instNetBuy": 219697
+    },
+    "0056": {
+      "name": "元大高股息",
+      "close": 49.95,
+      "volume": 166201337,
+      "instNetBuy": -112774903
+    },
+    "0057": {
+      "name": "富邦摩台",
+      "close": 297.6,
+      "volume": 137499,
+      "instNetBuy": -21000
+    },
+    "0061": {
+      "name": "元大寶滬深",
+      "close": 24.32,
+      "volume": 175417,
+      "instNetBuy": 126401
+    },
+    "006203": {
+      "name": "元大MSCI台灣",
+      "close": 181,
+      "volume": 65489,
+      "instNetBuy": -14998
+    },
+    "006204": {
+      "name": "永豐臺灣加權",
+      "close": 214.7,
+      "volume": 3884,
+      "instNetBuy": 51
+    },
+    "006205": {
+      "name": "富邦上証",
+      "close": 40.2,
+      "volume": 759816,
+      "instNetBuy": 41850
+    },
+    "006206": {
+      "name": "元大上證50",
+      "close": 37.87,
+      "volume": 63494,
+      "instNetBuy": 18594
+    },
+    "006207": {
+      "name": "復華滬深",
+      "close": 32.53,
+      "volume": 594372,
+      "instNetBuy": 111
+    },
+    "006208": {
+      "name": "富邦台50",
+      "close": 226,
+      "volume": 7475916,
+      "instNetBuy": -2025730
+    },
+    "00636": {
+      "name": "國泰中國A50",
+      "close": 28.29,
+      "volume": 1124759,
+      "instNetBuy": 398261
+    },
+    "00639": {
+      "name": "富邦深100",
+      "close": 16.83,
+      "volume": 1971234,
+      "instNetBuy": 682954
+    },
+    "00643": {
+      "name": "群益深証中小",
+      "close": 18.52,
+      "volume": 4774445,
+      "instNetBuy": -128943
+    },
+    "00645": {
+      "name": "富邦日本",
+      "close": 55.65,
+      "volume": 129196,
+      "instNetBuy": 44662
+    },
+    "00646": {
+      "name": "元大S&P500",
+      "close": 76.1,
+      "volume": 3151020,
+      "instNetBuy": -37721
+    },
+    "00652": {
+      "name": "富邦印度",
+      "close": 33.33,
+      "volume": 279975,
+      "instNetBuy": 194621
+    },
+    "00657": {
+      "name": "國泰日經225",
+      "close": 76.4,
+      "volume": 27158,
+      "instNetBuy": 7429
+    },
+    "00660": {
+      "name": "元大歐洲50",
+      "close": 45.81,
+      "volume": 9664,
+      "instNetBuy": 1000
+    },
+    "00661": {
+      "name": "元大日經225",
+      "close": 84.05,
+      "volume": 143181,
+      "instNetBuy": 11383
+    },
+    "00662": {
+      "name": "富邦NASDAQ",
+      "close": 119.3,
+      "volume": 2640942,
+      "instNetBuy": -755271
+    },
+    "00668": {
+      "name": "國泰美國道瓊",
+      "close": 61.65,
+      "volume": 30951,
+      "instNetBuy": 15966
+    },
+    "00678": {
+      "name": "群益那斯達克生技",
+      "close": 40.92,
+      "volume": 413170,
+      "instNetBuy": -37693
+    },
+    "00690": {
+      "name": "兆豐藍籌30",
+      "close": 71.05,
+      "volume": 813625,
+      "instNetBuy": -184987
+    },
+    "00692": {
+      "name": "富邦公司治理",
+      "close": 84.8,
+      "volume": 3930095,
+      "instNetBuy": 452334
+    },
+    "00700": {
+      "name": "富邦恒生國企",
+      "close": 17.46,
+      "volume": 899785,
+      "instNetBuy": 197595
+    },
+    "00701": {
+      "name": "國泰股利精選30",
+      "close": 37.5,
+      "volume": 696860,
+      "instNetBuy": 9258
+    },
+    "00702": {
+      "name": "國泰標普低波高息",
+      "close": 25.02,
+      "volume": 105610,
+      "instNetBuy": 450
+    },
+    "00703": {
+      "name": "台新MSCI中國",
+      "close": 19.75,
+      "volume": 50450,
+      "instNetBuy": 15664
+    },
+    "00709": {
+      "name": "富邦歐洲",
+      "close": 40.75,
+      "volume": 72396,
+      "instNetBuy": 44000
+    },
+    "00712": {
+      "name": "復華富時不動產",
+      "close": 9.03,
+      "volume": 29687967,
+      "instNetBuy": 17437265
+    },
+    "00713": {
+      "name": "元大台灣高息低波",
+      "close": 60.2,
+      "volume": 6373752,
+      "instNetBuy": 2226470
+    },
+    "00714": {
+      "name": "群益道瓊美國地產",
+      "close": 22.76,
+      "volume": 387914,
+      "instNetBuy": 25012
+    },
+    "00717": {
+      "name": "富邦美國特別股",
+      "close": 14.86,
+      "volume": 383327,
+      "instNetBuy": 369148
+    },
+    "00728": {
+      "name": "第一金工業30",
+      "close": 59.4,
+      "volume": 354486,
+      "instNetBuy": -22752
+    },
+    "00730": {
+      "name": "富邦臺灣優質高息",
+      "close": 27.1,
+      "volume": 158893,
+      "instNetBuy": 13511
+    },
+    "00731": {
+      "name": "復華富時高息低波",
+      "close": 87.3,
+      "volume": 755345,
+      "instNetBuy": 19581
+    },
+    "00733": {
+      "name": "富邦臺灣中小",
+      "close": 62.25,
+      "volume": 1343825,
+      "instNetBuy": 216237
+    },
+    "00735": {
+      "name": "國泰臺韓科技",
+      "close": 93.65,
+      "volume": 4369695,
+      "instNetBuy": -33815
+    },
+    "00736": {
+      "name": "國泰新興市場",
+      "close": 30.83,
+      "volume": 197170,
+      "instNetBuy": 13000
+    },
+    "00737": {
+      "name": "國泰AI機器人",
+      "close": 37.97,
+      "volume": 167683,
+      "instNetBuy": 38190
+    },
+    "00739": {
+      "name": "元大MSCI A股",
+      "close": 27.78,
+      "volume": 151871,
+      "instNetBuy": 16492
+    },
+    "00752": {
+      "name": "中信中國50",
+      "close": 23.6,
+      "volume": 4505112,
+      "instNetBuy": 2764927
+    },
+    "00757": {
+      "name": "統一FANG+",
+      "close": 131.35,
+      "volume": 975781,
+      "instNetBuy": 528637
+    },
+    "00762": {
+      "name": "元大全球AI",
+      "close": 106.9,
+      "volume": 326835,
+      "instNetBuy": 84480
+    },
+    "00770": {
+      "name": "國泰北美科技",
+      "close": 66.05,
+      "volume": 249824,
+      "instNetBuy": 22897
+    },
+    "00771": {
+      "name": "元大US高息特別股",
+      "close": 15.92,
+      "volume": 11740,
+      "instNetBuy": 7442
+    },
+    "00783": {
+      "name": "富邦中証500",
+      "close": 27.05,
+      "volume": 177484,
+      "instNetBuy": -2937
+    },
+    "00830": {
+      "name": "國泰費城半導體",
+      "close": 84.65,
+      "volume": 12357383,
+      "instNetBuy": -1030698
+    },
+    "00850": {
+      "name": "元大臺灣ESG永續",
+      "close": 83.4,
+      "volume": 1727309,
+      "instNetBuy": -647329
+    },
+    "00851": {
+      "name": "台新全球AI",
+      "close": 69.9,
+      "volume": 11351,
+      "instNetBuy": 0
+    },
+    "00861": {
+      "name": "元大全球未來通訊",
+      "close": 85.3,
+      "volume": 285814,
+      "instNetBuy": -113882
+    },
+    "00875": {
+      "name": "國泰網路資安",
+      "close": 53.35,
+      "volume": 85130,
+      "instNetBuy": 627
+    },
+    "00876": {
+      "name": "元大全球5G",
+      "close": 87.3,
+      "volume": 338933,
+      "instNetBuy": -121101
+    },
+    "00878": {
+      "name": "國泰永續高股息",
+      "close": 31.36,
+      "volume": 62783112,
+      "instNetBuy": -3304397
+    },
+    "00881": {
+      "name": "國泰台灣科技龍頭",
+      "close": 48.85,
+      "volume": 18607163,
+      "instNetBuy": -3226981
+    },
+    "00882": {
+      "name": "中信中國高股息",
+      "close": 15.01,
+      "volume": 17211652,
+      "instNetBuy": 13873491
+    },
+    "00885": {
+      "name": "富邦越南",
+      "close": 17.91,
+      "volume": 4096385,
+      "instNetBuy": -568575
+    },
+    "00891": {
+      "name": "中信關鍵半導體",
+      "close": 32.67,
+      "volume": 20385010,
+      "instNetBuy": -4973778
+    },
+    "00892": {
+      "name": "富邦台灣半導體",
+      "close": 37.02,
+      "volume": 7968177,
+      "instNetBuy": 2432610
+    },
+    "00893": {
+      "name": "國泰智能電動車",
+      "close": 44.02,
+      "volume": 1335652,
+      "instNetBuy": 326673
+    },
+    "00894": {
+      "name": "中信小資高價30",
+      "close": 42.64,
+      "volume": 2561575,
+      "instNetBuy": 478255
+    },
+    "00895": {
+      "name": "富邦未來車",
+      "close": 49.21,
+      "volume": 812860,
+      "instNetBuy": 183252
+    },
+    "00896": {
+      "name": "中信綠能及電動車",
+      "close": 25.54,
+      "volume": 3368531,
+      "instNetBuy": -134798
+    },
+    "00897": {
+      "name": "富邦基因免疫生技",
+      "close": 11.23,
+      "volume": 731497,
+      "instNetBuy": 236088
+    },
+    "00898": {
+      "name": "國泰基因免疫革命",
+      "close": 9.36,
+      "volume": 942564,
+      "instNetBuy": 636812
+    },
+    "00899": {
+      "name": "FT潔淨能源",
+      "close": 24.78,
+      "volume": 59221,
+      "instNetBuy": 43111
+    },
+    "00900": {
+      "name": "富邦特選高股息30",
+      "close": 17.73,
+      "volume": 6150247,
+      "instNetBuy": 2905252
+    },
+    "00901": {
+      "name": "永豐智能車供應鏈",
+      "close": 41.57,
+      "volume": 372361,
+      "instNetBuy": -5345
+    },
+    "00902": {
+      "name": "中信電池及儲能",
+      "close": 12.27,
+      "volume": 1040302,
+      "instNetBuy": -86089
+    },
+    "00903": {
+      "name": "富邦元宇宙",
+      "close": 20.65,
+      "volume": 47872,
+      "instNetBuy": 39584
+    },
+    "00904": {
+      "name": "台新臺灣半導體30",
+      "close": 37.36,
+      "volume": 3049000,
+      "instNetBuy": -307476
+    },
+    "00905": {
+      "name": "FT臺灣Smart",
+      "close": 24.02,
+      "volume": 4785718,
+      "instNetBuy": -666642
+    },
+    "00907": {
+      "name": "永豐優息存股",
+      "close": 16.27,
+      "volume": 1369889,
+      "instNetBuy": 278063
+    },
+    "00908": {
+      "name": "富邦入息REITs+",
+      "close": 15.68,
+      "volume": 569198,
+      "instNetBuy": 90881
+    },
+    "00909": {
+      "name": "國泰數位支付服務",
+      "close": 43.27,
+      "volume": 487312,
+      "instNetBuy": 65181
+    },
+    "00910": {
+      "name": "第一金太空衛星",
+      "close": 54.65,
+      "volume": 1039315,
+      "instNetBuy": 349630
+    },
+    "00911": {
+      "name": "兆豐洲際半導體",
+      "close": 54.35,
+      "volume": 501715,
+      "instNetBuy": -186316
+    },
+    "00912": {
+      "name": "中信臺灣智慧50",
+      "close": 30.8,
+      "volume": 704580,
+      "instNetBuy": 38547
+    },
+    "00913": {
+      "name": "兆豐台灣晶圓製造",
+      "close": 46.39,
+      "volume": 3481066,
+      "instNetBuy": -272135
+    },
+    "00915": {
+      "name": "凱基優選高股息30",
+      "close": 30.27,
+      "volume": 4232035,
+      "instNetBuy": 881658
+    },
+    "00916": {
+      "name": "國泰全球品牌50",
+      "close": 26.51,
+      "volume": 1241645,
+      "instNetBuy": 1105961
+    },
+    "00917": {
+      "name": "中信特選金融",
+      "close": 23.74,
+      "volume": 333350,
+      "instNetBuy": 140120
+    },
+    "00918": {
+      "name": "大華優利高填息30",
+      "close": 30.92,
+      "volume": 25877023,
+      "instNetBuy": 7326807
+    },
+    "00919": {
+      "name": "群益台灣精選高息",
+      "close": 28.55,
+      "volume": 108186430,
+      "instNetBuy": -15998334
+    },
+    "00920": {
+      "name": "富邦ESG綠色電力",
+      "close": 24.13,
+      "volume": 376716,
+      "instNetBuy": 19172
+    },
+    "00921": {
+      "name": "兆豐龍頭等權重",
+      "close": 22.7,
+      "volume": 324402,
+      "instNetBuy": 32405
+    },
+    "00922": {
+      "name": "國泰台灣領袖50",
+      "close": 37.5,
+      "volume": 19081386,
+      "instNetBuy": -2378999
+    },
+    "00923": {
+      "name": "群益台ESG低碳50",
+      "close": 38.69,
+      "volume": 5995744,
+      "instNetBuy": -530603
+    },
+    "00924": {
+      "name": "復華S&P500成長",
+      "close": 32.47,
+      "volume": 5178360,
+      "instNetBuy": 3682327
+    },
+    "00926": {
+      "name": "凱基全球菁英55",
+      "close": 25.4,
+      "volume": 845839,
+      "instNetBuy": 214279
+    },
+    "00927": {
+      "name": "群益半導體收益",
+      "close": 34.5,
+      "volume": 46379843,
+      "instNetBuy": 6150288
+    },
+    "00929": {
+      "name": "復華台灣科技優息",
+      "close": 27.94,
+      "volume": 76837846,
+      "instNetBuy": -44885692
+    },
+    "00930": {
+      "name": "永豐ESG低碳高息",
+      "close": 23.44,
+      "volume": 611643,
+      "instNetBuy": 194020
+    },
+    "00932": {
+      "name": "兆豐永續高息等權",
+      "close": 16.89,
+      "volume": 867767,
+      "instNetBuy": 142591
+    },
+    "00934": {
+      "name": "中信成長高股息",
+      "close": 25.73,
+      "volume": 2883799,
+      "instNetBuy": -318915
+    },
+    "00935": {
+      "name": "野村臺灣新科技50",
+      "close": 52.2,
+      "volume": 22587462,
+      "instNetBuy": -1511715
+    },
+    "00936": {
+      "name": "台新永續高息中小",
+      "close": 19.5,
+      "volume": 1924420,
+      "instNetBuy": 447275
+    },
+    "00938": {
+      "name": "凱基優選30",
+      "close": 23.89,
+      "volume": 5796917,
+      "instNetBuy": -1287792
+    },
+    "00939": {
+      "name": "統一台灣高息動能",
+      "close": 21.07,
+      "volume": 7867478,
+      "instNetBuy": 2749041
+    },
+    "00940": {
+      "name": "元大台灣價值高息",
+      "close": 11.75,
+      "volume": 27436720,
+      "instNetBuy": 8537888
+    },
+    "00941": {
+      "name": "中信上游半導體",
+      "close": 26.81,
+      "volume": 2470628,
+      "instNetBuy": -998126
+    },
+    "00943": {
+      "name": "兆豐電子高息等權",
+      "close": 20.8,
+      "volume": 468584,
+      "instNetBuy": 38810
+    },
+    "00944": {
+      "name": "野村趨勢動能高息",
+      "close": 20.14,
+      "volume": 598284,
+      "instNetBuy": 44325
+    },
+    "00946": {
+      "name": "群益科技高息成長",
+      "close": 14.07,
+      "volume": 4507787,
+      "instNetBuy": 1112747
+    },
+    "00947": {
+      "name": "台新臺灣IC設計",
+      "close": 31.61,
+      "volume": 5616264,
+      "instNetBuy": -256216
+    },
+    "00949": {
+      "name": "復華日本龍頭",
+      "close": 20.4,
+      "volume": 578271,
+      "instNetBuy": 308884
+    },
+    "00951": {
+      "name": "台新日本半導體",
+      "close": 18.22,
+      "volume": 2638350,
+      "instNetBuy": 640256
+    },
+    "00952": {
+      "name": "凱基台灣AI50",
+      "close": 16.89,
+      "volume": 2402031,
+      "instNetBuy": -314205
+    },
+    "00954": {
+      "name": "中信日本半導體",
+      "close": 19.37,
+      "volume": 2253172,
+      "instNetBuy": 876717
+    },
+    "00956": {
+      "name": "中信日經高股息",
+      "close": 12.45,
+      "volume": 243343,
+      "instNetBuy": 200300
+    },
+    "00960": {
+      "name": "野村全球航運龍頭",
+      "close": 17.77,
+      "volume": 478618,
+      "instNetBuy": 413465
+    },
+    "00961": {
+      "name": "FT臺灣永續高息",
+      "close": 12.34,
+      "volume": 10939804,
+      "instNetBuy": -1956271
+    },
+    "00962": {
+      "name": "台新AI優息動能",
+      "close": 13.89,
+      "volume": 577991,
+      "instNetBuy": -5516
+    },
+    "00963": {
+      "name": "中信全球高股息",
+      "close": 13.18,
+      "volume": 1403686,
+      "instNetBuy": -883950
+    },
+    "00964": {
+      "name": "中信亞太高股息",
+      "close": 13.68,
+      "volume": 1279928,
+      "instNetBuy": -23136
+    },
+    "00965": {
+      "name": "元大航太防衛科技",
+      "close": 24.46,
+      "volume": 2365095,
+      "instNetBuy": 207682
+    },
+    "00971": {
+      "name": "野村美國研發龍頭",
+      "close": 17.12,
+      "volume": 102326,
+      "instNetBuy": 53104
+    },
+    "00972": {
+      "name": "野村日本動能高息",
+      "close": 20.32,
+      "volume": 77787,
+      "instNetBuy": 71220
+    },
+    "009800": {
+      "name": "中信NASDAQ",
+      "close": 12.89,
+      "volume": 1163185,
+      "instNetBuy": 50835
+    },
+    "009801": {
+      "name": "中信美國創新科技",
+      "close": 12.25,
+      "volume": 382266,
+      "instNetBuy": 334527
+    },
+    "009802": {
+      "name": "富邦旗艦50",
+      "close": 17.32,
+      "volume": 5686891,
+      "instNetBuy": 991879
+    },
+    "009803": {
+      "name": "玉山市值動能50",
+      "close": 19.72,
+      "volume": 4552964,
+      "instNetBuy": -1812661
+    },
+    "009804": {
+      "name": "聯邦台精彩50",
+      "close": 20.35,
+      "volume": 2569233,
+      "instNetBuy": 49304
+    },
+    "009805": {
+      "name": "台新美國電力基建",
+      "close": 16.2,
+      "volume": 4838082,
+      "instNetBuy": 3477577
+    },
+    "009808": {
+      "name": "華南永昌優選50",
+      "close": 29.1,
+      "volume": 619018,
+      "instNetBuy": 963
+    },
+    "009809": {
+      "name": "富邦淨零ESG50",
+      "close": 16.93,
+      "volume": 1631111,
+      "instNetBuy": 45134
+    },
+    "009810": {
+      "name": "玉山全球藍籌100",
+      "close": 20.87,
+      "volume": 294402,
+      "instNetBuy": 234637
+    },
+    "009811": {
+      "name": "統一美國50",
+      "close": 13.09,
+      "volume": 1960662,
+      "instNetBuy": 974981
+    },
+    "009812": {
+      "name": "野村日本東證",
+      "close": 12.29,
+      "volume": 310710,
+      "instNetBuy": 228296
+    },
+    "009813": {
+      "name": "貝萊德標普卓越50",
+      "close": 11.16,
+      "volume": 3239780,
+      "instNetBuy": 1175456
+    },
+    "009816": {
+      "name": "凱基台灣TOP50",
+      "close": 14.14,
+      "volume": 242830957,
+      "instNetBuy": -61946720
+    },
+    "009817": {
+      "name": "國泰日本不動產",
+      "close": 9.18,
+      "volume": 1218730,
+      "instNetBuy": 585383
+    },
+    "009818": {
+      "name": "華南永昌NASDAQxT",
+      "close": 19.64,
+      "volume": 570371,
+      "instNetBuy": 551327
+    },
+    "009819": {
+      "name": "中信數據及電力",
+      "close": 9.82,
+      "volume": 5385530,
+      "instNetBuy": 3317981
+    },
+    "009820": {
+      "name": "元大納斯達克精選",
+      "close": 9.73,
+      "volume": 4578792,
+      "instNetBuy": 2270634
+    },
+    "009821": {
+      "name": "野村稀土關鍵資源",
+      "close": 12.58,
+      "volume": 9581457,
+      "instNetBuy": 4524285
+    },
+    "009824": {
+      "name": "群益美國科技巨頭",
+      "close": 10,
+      "volume": 12386249,
+      "instNetBuy": 5958864
+    },
+    "020000": {
+      "name": "富邦特選蘋果N",
+      "close": 28.71,
+      "volume": 18000,
+      "instNetBuy": -18000
+    },
+    "020011": {
+      "name": "統一微波高息20N",
+      "close": null,
+      "volume": 0,
+      "instNetBuy": null
+    },
+    "020012": {
+      "name": "富邦行動通訊N",
+      "close": 21.36,
+      "volume": 21000,
+      "instNetBuy": 21000
+    },
+    "020020": {
+      "name": "元大台股領航N",
+      "close": 24.39,
+      "volume": 133000,
+      "instNetBuy": -131000
+    },
+    "020028": {
+      "name": "元大特選電動車N",
+      "close": 17.7,
+      "volume": 24000,
+      "instNetBuy": 18000
+    },
+    "020029": {
+      "name": "元大ESG高股息N",
+      "close": null,
+      "volume": 0,
+      "instNetBuy": null
+    },
+    "020030": {
+      "name": "統一智慧電動車N",
+      "close": 16.27,
+      "volume": 13000,
+      "instNetBuy": 3000
+    },
+    "020031": {
+      "name": "統一IC設計臺灣N",
+      "close": 8.69,
+      "volume": 29000,
+      "instNetBuy": -25000
+    },
+    "020032": {
+      "name": "元大綠能N",
+      "close": 9.73,
+      "volume": 6000,
+      "instNetBuy": 6000
+    },
+    "020034": {
+      "name": "元大IC設計N",
+      "close": 11.87,
+      "volume": 5000,
+      "instNetBuy": -5000
+    },
+    "020036": {
+      "name": "元大金融配息N",
+      "close": null,
+      "volume": 0,
+      "instNetBuy": null
+    },
+    "020037": {
+      "name": "元大金融高股息N",
+      "close": 10.8,
+      "volume": 5000,
+      "instNetBuy": -5000
+    },
+    "020038": {
+      "name": "元大ESG配息N",
+      "close": 13.27,
+      "volume": 2000,
+      "instNetBuy": 2000
+    },
+    "020039": {
+      "name": "元大加權N",
+      "close": 13.63,
+      "volume": 8000,
+      "instNetBuy": 6000
+    }
+  }
+}

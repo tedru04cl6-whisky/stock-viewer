@@ -1,0 +1,13 @@
+# 備份檔（vault 工作流會在同層產生 .bak，不進 repo）
+*.bak
+*.bak.*
+
+# 系統與編輯器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 暫存
+tmp/
+*.log

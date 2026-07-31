@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="oklch(0.105 0 0)" />
+    <meta name="description" content="看股票：以公開收盤資料整理自選股、條件與風險。" />
+    <title>看股票</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#watchlist" aria-label="看股票首頁">看股票</a>
+        <p id="data-date" class="data-date" aria-live="polite">資料日期：載入中</p>
+      </header>
+      <main id="app" tabindex="-1">
+        <section class="loading-shell" aria-label="正在載入">
+          <span class="skeleton title-skeleton"></span>
+          <span class="skeleton line-skeleton"></span>
+          <span class="skeleton line-skeleton short"></span>
+        </section>
+      </main>
+      <nav class="primary-nav" aria-label="主要導覽">
+        <a href="#watchlist" data-route="watchlist">自選</a>
+        <a href="#screener" data-route="screener">篩選</a>
+        <a href="#etf" data-route="etf">ETF</a>
+        <a href="#stock" data-route="stock">個股</a>
+      </nav>
+    </div>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
