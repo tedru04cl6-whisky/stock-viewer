@@ -1,78 +1,78 @@
 {
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-08-13",
   "methodology": "主要持股與權重取自投信官方持股比重頁；目前先支援可穩定自動更新的元大台股 ETF，顯示官方頁公開的前五大持股。",
   "funds": {
     "0050": {
       "name": "元大台灣50",
-      "holdingsDate": "2026-08-12",
+      "holdingsDate": "2026-08-13",
       "sourceUrl": "https://www.yuantaetfs.com/product/detail/0050/ratio",
       "holdings": [
         {
           "code": "2330",
           "name": "台積電",
-          "quantity": 570270926,
-          "weight": 58.17
+          "quantity": 570283656,
+          "weight": 57.85
         },
         {
           "code": "2454",
           "name": "聯發科",
-          "quantity": 34351174,
-          "weight": 5.83
+          "quantity": 34355943,
+          "weight": 6.05
         },
         {
           "code": "2308",
           "name": "台達電",
-          "quantity": 45075478,
-          "weight": 3.41
+          "quantity": 45076487,
+          "weight": 3.54
         },
         {
           "code": "2317",
           "name": "鴻海",
-          "quantity": 285071743,
-          "weight": 3.25
+          "quantity": 285078123,
+          "weight": 3.11
         },
         {
           "code": "3711",
           "name": "日月光投控",
-          "quantity": 77452176,
-          "weight": 2.03
+          "quantity": 77460909,
+          "weight": 2.02
         }
       ]
     },
     "0056": {
       "name": "元大高股息",
-      "holdingsDate": "2026-08-12",
+      "holdingsDate": "2026-08-13",
       "sourceUrl": "https://www.yuantaetfs.com/product/detail/0056/ratio",
       "holdings": [
         {
           "code": "1303",
           "name": "南亞",
-          "quantity": 262218996,
-          "weight": 6.57
+          "quantity": 262155408,
+          "weight": 6.52
         },
         {
           "code": "2408",
           "name": "南亞科",
-          "quantity": 67734660,
-          "weight": 4.33
+          "quantity": 67718175,
+          "weight": 4.58
         },
         {
-          "code": "2344",
-          "name": "華邦電",
-          "quantity": 172648344,
-          "weight": 4.05
+          "code": "2357",
+          "name": "華碩",
+          "quantity": 35251264,
+          "weight": 4.35
         },
         {
           "code": "3231",
           "name": "緯創",
-          "quantity": 157265836,
-          "weight": 4.03
+          "quantity": 157227000,
+          "weight": 4.07
         },
         {
-          "code": "2880",
-          "name": "華南金",
-          "quantity": 697299596,
-          "weight": 3.99
+          "code": "2344",
+          "name": "華邦電",
+          "quantity": 172606414,
+          "weight": 4.02
         }
       ]
     }

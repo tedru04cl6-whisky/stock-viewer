@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-08-13",
   "years": [
     2025,
     2026
@@ -1227,6 +1227,11 @@
       "name": "貝萊德世界股票",
       "type": "國外成分證券指數股票型基金",
       "listingDate": "1150803"
+    },
+    "009829": {
+      "name": "大華韓國KOSPI 50",
+      "type": "國外成分證券指數股票型基金",
+      "listingDate": "1150821"
     },
     "00982A": {
       "name": "主動群益台灣強棒",
@@ -3456,7 +3461,7 @@
           "exDate": "2026-08-17",
           "recordDate": "2026-08-23",
           "paymentDate": "2026-09-04",
-          "amount": null
+          "amount": 0.35
         },
         {
           "exDate": "2026-05-18",
@@ -3503,7 +3508,7 @@
           "exDate": "2026-08-17",
           "recordDate": "2026-08-23",
           "paymentDate": "2026-09-04",
-          "amount": null
+          "amount": 0.12
         },
         {
           "exDate": "2026-07-15",
@@ -3628,7 +3633,7 @@
           "exDate": "2026-08-17",
           "recordDate": "2026-08-23",
           "paymentDate": "2026-09-04",
-          "amount": null
+          "amount": 0.16
         },
         {
           "exDate": "2026-07-15",
