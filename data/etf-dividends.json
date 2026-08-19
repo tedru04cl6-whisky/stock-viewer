@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18",
+  "updatedAt": "2026-08-19",
   "years": [
     2025,
     2026
@@ -1932,7 +1932,7 @@
           "exDate": "2026-08-21",
           "recordDate": "2026-08-29",
           "paymentDate": "2026-09-11",
-          "amount": null
+          "amount": 0.21
         },
         {
           "exDate": "2026-05-22",
@@ -1979,7 +1979,7 @@
           "exDate": "2026-08-21",
           "recordDate": "2026-08-29",
           "paymentDate": "2026-09-11",
-          "amount": null
+          "amount": 0.85
         },
         {
           "exDate": "2026-05-22",
