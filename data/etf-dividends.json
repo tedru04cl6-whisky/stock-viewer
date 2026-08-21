@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-08-21",
   "years": [
     2025,
     2026
@@ -1350,6 +1350,29 @@
     }
   },
   "dividends": {
+    "00400A": {
+      "name": "主動國泰動能高息",
+      "records": [
+        {
+          "exDate": "2026-09-07",
+          "recordDate": "2026-09-13",
+          "paymentDate": "2026-10-05",
+          "amount": null
+        },
+        {
+          "exDate": "2026-08-05",
+          "recordDate": "2026-08-11",
+          "paymentDate": "2026-08-31",
+          "amount": 0.12
+        },
+        {
+          "exDate": "2026-07-09",
+          "recordDate": "2026-07-15",
+          "paymentDate": "2026-07-31",
+          "amount": 0.12
+        }
+      ]
+    },
     "00406A": {
       "name": "主動中信台灣收益",
       "records": [
@@ -1867,7 +1890,7 @@
           "exDate": "2026-08-25",
           "recordDate": "2026-08-31",
           "paymentDate": "2026-09-18",
-          "amount": null
+          "amount": 0.24
         },
         {
           "exDate": "2026-06-24",
@@ -4352,23 +4375,6 @@
           "recordDate": "2025-02-12",
           "paymentDate": "2025-03-03",
           "amount": 0.03
-        }
-      ]
-    },
-    "00400A": {
-      "name": "主動國泰動能高息",
-      "records": [
-        {
-          "exDate": "2026-08-05",
-          "recordDate": "2026-08-11",
-          "paymentDate": "2026-08-31",
-          "amount": 0.12
-        },
-        {
-          "exDate": "2026-07-09",
-          "recordDate": "2026-07-15",
-          "paymentDate": "2026-07-31",
-          "amount": 0.12
         }
       ]
     },
