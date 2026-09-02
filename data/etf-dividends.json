@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-02",
   "years": [
     2025,
     2026
@@ -1239,7 +1239,7 @@
       "listingDate": "1150902"
     },
     "009828": {
-      "name": "中信台日韓PCB ETF基金",
+      "name": "中信台日韓PCB",
       "type": "國外成分證券指數股票型基金",
       "listingDate": "1150902"
     },
@@ -1591,6 +1591,278 @@
           "recordDate": "2026-06-27",
           "paymentDate": "2026-07-13",
           "amount": 0.462
+        }
+      ]
+    },
+    "00710B": {
+      "name": "復華彭博非投等債",
+      "records": [
+        {
+          "exDate": "2026-09-17",
+          "recordDate": "2026-09-23",
+          "paymentDate": "2026-10-16",
+          "amount": null
+        },
+        {
+          "exDate": "2026-06-17",
+          "recordDate": "2026-06-23",
+          "paymentDate": "2026-07-13",
+          "amount": 0.31
+        },
+        {
+          "exDate": "2026-03-18",
+          "recordDate": "2026-03-24",
+          "paymentDate": "2026-04-15",
+          "amount": 0.3
+        },
+        {
+          "exDate": "2025-12-17",
+          "recordDate": "2025-12-23",
+          "paymentDate": "2026-01-14",
+          "amount": 0.31
+        },
+        {
+          "exDate": "2025-09-17",
+          "recordDate": "2025-09-23",
+          "paymentDate": "2025-10-15",
+          "amount": 0.32
+        },
+        {
+          "exDate": "2025-06-18",
+          "recordDate": "2025-06-24",
+          "paymentDate": "2025-07-14",
+          "amount": 0.32
+        },
+        {
+          "exDate": "2025-03-19",
+          "recordDate": "2025-03-25",
+          "paymentDate": "2025-04-16",
+          "amount": 0.32
+        }
+      ]
+    },
+    "00711B": {
+      "name": "復華彭博新興債",
+      "records": [
+        {
+          "exDate": "2026-09-17",
+          "recordDate": "2026-09-23",
+          "paymentDate": "2026-10-16",
+          "amount": null
+        },
+        {
+          "exDate": "2026-06-17",
+          "recordDate": "2026-06-23",
+          "paymentDate": "2026-07-13",
+          "amount": 0.2
+        },
+        {
+          "exDate": "2026-03-18",
+          "recordDate": "2026-03-24",
+          "paymentDate": "2026-04-15",
+          "amount": 0.2
+        },
+        {
+          "exDate": "2025-12-17",
+          "recordDate": "2025-12-23",
+          "paymentDate": "2026-01-14",
+          "amount": 0.19
+        },
+        {
+          "exDate": "2025-09-17",
+          "recordDate": "2025-09-23",
+          "paymentDate": "2025-10-15",
+          "amount": 0.19
+        },
+        {
+          "exDate": "2025-06-18",
+          "recordDate": "2025-06-24",
+          "paymentDate": "2025-07-14",
+          "amount": 0.19
+        },
+        {
+          "exDate": "2025-03-19",
+          "recordDate": "2025-03-25",
+          "paymentDate": "2025-04-16",
+          "amount": 0.19
+        }
+      ]
+    },
+    "00712": {
+      "name": "復華富時不動產",
+      "records": [
+        {
+          "exDate": "2026-09-17",
+          "recordDate": "2026-09-23",
+          "paymentDate": "2026-10-16",
+          "amount": null
+        },
+        {
+          "exDate": "2026-06-17",
+          "recordDate": "2026-06-23",
+          "paymentDate": "2026-07-13",
+          "amount": 0.235
+        },
+        {
+          "exDate": "2026-03-18",
+          "recordDate": "2026-03-24",
+          "paymentDate": "2026-04-15",
+          "amount": 0.19
+        },
+        {
+          "exDate": "2025-12-17",
+          "recordDate": "2025-12-23",
+          "paymentDate": "2026-01-14",
+          "amount": 0.19
+        },
+        {
+          "exDate": "2025-09-17",
+          "recordDate": "2025-09-23",
+          "paymentDate": "2025-10-15",
+          "amount": 0.19
+        },
+        {
+          "exDate": "2025-06-18",
+          "recordDate": "2025-06-24",
+          "paymentDate": "2025-07-14",
+          "amount": 0.23
+        },
+        {
+          "exDate": "2025-03-19",
+          "recordDate": "2025-03-25",
+          "paymentDate": "2025-04-16",
+          "amount": 0.183
+        }
+      ]
+    },
+    "00929": {
+      "name": "復華台灣科技優息",
+      "records": [
+        {
+          "exDate": "2026-09-17",
+          "recordDate": "2026-09-23",
+          "paymentDate": "2026-10-16",
+          "amount": null
+        },
+        {
+          "exDate": "2026-08-19",
+          "recordDate": "2026-08-25",
+          "paymentDate": "2026-09-14",
+          "amount": 0.38
+        },
+        {
+          "exDate": "2026-07-21",
+          "recordDate": "2026-07-27",
+          "paymentDate": "2026-08-14",
+          "amount": 0.38
+        },
+        {
+          "exDate": "2026-06-17",
+          "recordDate": "2026-06-23",
+          "paymentDate": "2026-07-13",
+          "amount": 0.26
+        },
+        {
+          "exDate": "2026-05-20",
+          "recordDate": "2026-05-26",
+          "paymentDate": "2026-06-15",
+          "amount": 0.13
+        },
+        {
+          "exDate": "2026-04-21",
+          "recordDate": "2026-04-27",
+          "paymentDate": "2026-05-18",
+          "amount": 0.13
+        },
+        {
+          "exDate": "2026-03-18",
+          "recordDate": "2026-03-24",
+          "paymentDate": "2026-04-15",
+          "amount": 0.11
+        },
+        {
+          "exDate": "2026-03-03",
+          "recordDate": "2026-03-09",
+          "paymentDate": "2026-03-27",
+          "amount": 0.1
+        },
+        {
+          "exDate": "2026-01-20",
+          "recordDate": "2026-01-26",
+          "paymentDate": "2026-02-13",
+          "amount": 0.1
+        },
+        {
+          "exDate": "2025-12-17",
+          "recordDate": "2025-12-23",
+          "paymentDate": "2026-01-14",
+          "amount": 0.09
+        },
+        {
+          "exDate": "2025-11-19",
+          "recordDate": "2025-11-25",
+          "paymentDate": "2025-12-15",
+          "amount": 0.09
+        },
+        {
+          "exDate": "2025-10-21",
+          "recordDate": "2025-10-27",
+          "paymentDate": "2025-11-14",
+          "amount": 0.08
+        },
+        {
+          "exDate": "2025-09-17",
+          "recordDate": "2025-09-23",
+          "paymentDate": "2025-10-15",
+          "amount": 0.08
+        },
+        {
+          "exDate": "2025-08-19",
+          "recordDate": "2025-08-25",
+          "paymentDate": "2025-09-12",
+          "amount": 0.08
+        },
+        {
+          "exDate": "2025-07-17",
+          "recordDate": "2025-07-23",
+          "paymentDate": "2025-08-12",
+          "amount": 0.07
+        },
+        {
+          "exDate": "2025-06-18",
+          "recordDate": "2025-06-24",
+          "paymentDate": "2025-07-14",
+          "amount": 0.07
+        },
+        {
+          "exDate": "2025-05-20",
+          "recordDate": "2025-05-26",
+          "paymentDate": "2025-06-16",
+          "amount": 0.07
+        },
+        {
+          "exDate": "2025-04-22",
+          "recordDate": "2025-04-28",
+          "paymentDate": "2025-05-19",
+          "amount": 0.05
+        },
+        {
+          "exDate": "2025-03-19",
+          "recordDate": "2025-03-25",
+          "paymentDate": "2025-04-16",
+          "amount": 0.05
+        },
+        {
+          "exDate": "2025-02-19",
+          "recordDate": "2025-02-25",
+          "paymentDate": "2025-03-18",
+          "amount": 0.05
+        },
+        {
+          "exDate": "2025-01-16",
+          "recordDate": "2025-01-22",
+          "paymentDate": "2025-02-17",
+          "amount": 0.05
         }
       ]
     },
@@ -3754,7 +4026,7 @@
           "exDate": "2026-09-07",
           "recordDate": "2026-09-13",
           "paymentDate": "2026-10-05",
-          "amount": null
+          "amount": 0.12
         },
         {
           "exDate": "2026-08-05",
@@ -4483,131 +4755,6 @@
           "recordDate": "2025-02-25",
           "paymentDate": "2025-03-18",
           "amount": 0.593
-        }
-      ]
-    },
-    "00929": {
-      "name": "復華台灣科技優息",
-      "records": [
-        {
-          "exDate": "2026-08-19",
-          "recordDate": "2026-08-25",
-          "paymentDate": "2026-09-14",
-          "amount": 0.38
-        },
-        {
-          "exDate": "2026-07-21",
-          "recordDate": "2026-07-27",
-          "paymentDate": "2026-08-14",
-          "amount": 0.38
-        },
-        {
-          "exDate": "2026-06-17",
-          "recordDate": "2026-06-23",
-          "paymentDate": "2026-07-13",
-          "amount": 0.26
-        },
-        {
-          "exDate": "2026-05-20",
-          "recordDate": "2026-05-26",
-          "paymentDate": "2026-06-15",
-          "amount": 0.13
-        },
-        {
-          "exDate": "2026-04-21",
-          "recordDate": "2026-04-27",
-          "paymentDate": "2026-05-18",
-          "amount": 0.13
-        },
-        {
-          "exDate": "2026-03-18",
-          "recordDate": "2026-03-24",
-          "paymentDate": "2026-04-15",
-          "amount": 0.11
-        },
-        {
-          "exDate": "2026-03-03",
-          "recordDate": "2026-03-09",
-          "paymentDate": "2026-03-27",
-          "amount": 0.1
-        },
-        {
-          "exDate": "2026-01-20",
-          "recordDate": "2026-01-26",
-          "paymentDate": "2026-02-13",
-          "amount": 0.1
-        },
-        {
-          "exDate": "2025-12-17",
-          "recordDate": "2025-12-23",
-          "paymentDate": "2026-01-14",
-          "amount": 0.09
-        },
-        {
-          "exDate": "2025-11-19",
-          "recordDate": "2025-11-25",
-          "paymentDate": "2025-12-15",
-          "amount": 0.09
-        },
-        {
-          "exDate": "2025-10-21",
-          "recordDate": "2025-10-27",
-          "paymentDate": "2025-11-14",
-          "amount": 0.08
-        },
-        {
-          "exDate": "2025-09-17",
-          "recordDate": "2025-09-23",
-          "paymentDate": "2025-10-15",
-          "amount": 0.08
-        },
-        {
-          "exDate": "2025-08-19",
-          "recordDate": "2025-08-25",
-          "paymentDate": "2025-09-12",
-          "amount": 0.08
-        },
-        {
-          "exDate": "2025-07-17",
-          "recordDate": "2025-07-23",
-          "paymentDate": "2025-08-12",
-          "amount": 0.07
-        },
-        {
-          "exDate": "2025-06-18",
-          "recordDate": "2025-06-24",
-          "paymentDate": "2025-07-14",
-          "amount": 0.07
-        },
-        {
-          "exDate": "2025-05-20",
-          "recordDate": "2025-05-26",
-          "paymentDate": "2025-06-16",
-          "amount": 0.07
-        },
-        {
-          "exDate": "2025-04-22",
-          "recordDate": "2025-04-28",
-          "paymentDate": "2025-05-19",
-          "amount": 0.05
-        },
-        {
-          "exDate": "2025-03-19",
-          "recordDate": "2025-03-25",
-          "paymentDate": "2025-04-16",
-          "amount": 0.05
-        },
-        {
-          "exDate": "2025-02-19",
-          "recordDate": "2025-02-25",
-          "paymentDate": "2025-03-18",
-          "amount": 0.05
-        },
-        {
-          "exDate": "2025-01-16",
-          "recordDate": "2025-01-22",
-          "paymentDate": "2025-02-17",
-          "amount": 0.05
         }
       ]
     },
@@ -6012,129 +6159,6 @@
           "recordDate": "2026-07-12",
           "paymentDate": "2026-07-30",
           "amount": 0.37
-        }
-      ]
-    },
-    "00710B": {
-      "name": "復華彭博非投等債",
-      "records": [
-        {
-          "exDate": "2026-06-17",
-          "recordDate": "2026-06-23",
-          "paymentDate": "2026-07-13",
-          "amount": 0.31
-        },
-        {
-          "exDate": "2026-03-18",
-          "recordDate": "2026-03-24",
-          "paymentDate": "2026-04-15",
-          "amount": 0.3
-        },
-        {
-          "exDate": "2025-12-17",
-          "recordDate": "2025-12-23",
-          "paymentDate": "2026-01-14",
-          "amount": 0.31
-        },
-        {
-          "exDate": "2025-09-17",
-          "recordDate": "2025-09-23",
-          "paymentDate": "2025-10-15",
-          "amount": 0.32
-        },
-        {
-          "exDate": "2025-06-18",
-          "recordDate": "2025-06-24",
-          "paymentDate": "2025-07-14",
-          "amount": 0.32
-        },
-        {
-          "exDate": "2025-03-19",
-          "recordDate": "2025-03-25",
-          "paymentDate": "2025-04-16",
-          "amount": 0.32
-        }
-      ]
-    },
-    "00711B": {
-      "name": "復華彭博新興債",
-      "records": [
-        {
-          "exDate": "2026-06-17",
-          "recordDate": "2026-06-23",
-          "paymentDate": "2026-07-13",
-          "amount": 0.2
-        },
-        {
-          "exDate": "2026-03-18",
-          "recordDate": "2026-03-24",
-          "paymentDate": "2026-04-15",
-          "amount": 0.2
-        },
-        {
-          "exDate": "2025-12-17",
-          "recordDate": "2025-12-23",
-          "paymentDate": "2026-01-14",
-          "amount": 0.19
-        },
-        {
-          "exDate": "2025-09-17",
-          "recordDate": "2025-09-23",
-          "paymentDate": "2025-10-15",
-          "amount": 0.19
-        },
-        {
-          "exDate": "2025-06-18",
-          "recordDate": "2025-06-24",
-          "paymentDate": "2025-07-14",
-          "amount": 0.19
-        },
-        {
-          "exDate": "2025-03-19",
-          "recordDate": "2025-03-25",
-          "paymentDate": "2025-04-16",
-          "amount": 0.19
-        }
-      ]
-    },
-    "00712": {
-      "name": "復華富時不動產",
-      "records": [
-        {
-          "exDate": "2026-06-17",
-          "recordDate": "2026-06-23",
-          "paymentDate": "2026-07-13",
-          "amount": 0.235
-        },
-        {
-          "exDate": "2026-03-18",
-          "recordDate": "2026-03-24",
-          "paymentDate": "2026-04-15",
-          "amount": 0.19
-        },
-        {
-          "exDate": "2025-12-17",
-          "recordDate": "2025-12-23",
-          "paymentDate": "2026-01-14",
-          "amount": 0.19
-        },
-        {
-          "exDate": "2025-09-17",
-          "recordDate": "2025-09-23",
-          "paymentDate": "2025-10-15",
-          "amount": 0.19
-        },
-        {
-          "exDate": "2025-06-18",
-          "recordDate": "2025-06-24",
-          "paymentDate": "2025-07-14",
-          "amount": 0.23
-        },
-        {
-          "exDate": "2025-03-19",
-          "recordDate": "2025-03-25",
-          "paymentDate": "2025-04-16",
-          "amount": 0.183
         }
       ]
     },
