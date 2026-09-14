@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-14",
   "years": [
     2025,
     2026
@@ -1873,7 +1873,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-13",
-          "amount": null
+          "amount": 0.36
         }
       ]
     },
@@ -1884,7 +1884,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-14",
-          "amount": null
+          "amount": 0.11
         },
         {
           "exDate": "2026-08-18",
@@ -2015,7 +2015,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 6
         },
         {
           "exDate": "2026-01-20",
@@ -2038,7 +2038,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 1.45
         },
         {
           "exDate": "2026-06-16",
@@ -2085,7 +2085,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-14",
-          "amount": null
+          "amount": 0.075
         },
         {
           "exDate": "2026-08-18",
@@ -2216,7 +2216,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.6
         },
         {
           "exDate": "2026-06-16",
@@ -2263,7 +2263,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 1.1
         },
         {
           "exDate": "2026-06-16",
@@ -2357,7 +2357,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.33
         },
         {
           "exDate": "2026-08-18",
@@ -2488,7 +2488,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 1.83
         },
         {
           "exDate": "2026-03-17",
@@ -2618,7 +2618,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.109
         },
         {
           "exDate": "2026-08-18",
@@ -2743,7 +2743,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.097
         },
         {
           "exDate": "2026-08-18",
@@ -2874,7 +2874,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.12
         },
         {
           "exDate": "2026-08-18",
@@ -2975,7 +2975,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-14",
-          "amount": null
+          "amount": 0.19
         },
         {
           "exDate": "2026-08-18",
@@ -3070,7 +3070,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.1
         },
         {
           "exDate": "2026-08-18",
@@ -3189,7 +3189,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.2
         },
         {
           "exDate": "2026-08-18",
@@ -3308,7 +3308,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.22
         },
         {
           "exDate": "2026-06-16",
@@ -3349,7 +3349,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-14",
-          "amount": null
+          "amount": 0.189
         },
         {
           "exDate": "2026-06-16",
@@ -3384,7 +3384,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-14",
-          "amount": null
+          "amount": 0.215
         },
         {
           "exDate": "2026-06-16",
@@ -3401,7 +3401,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-13",
-          "amount": null
+          "amount": 0.63
         },
         {
           "exDate": "2026-06-16",
@@ -3424,7 +3424,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.082
         },
         {
           "exDate": "2026-08-18",
@@ -3483,7 +3483,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-14",
-          "amount": null
+          "amount": 0.052
         },
         {
           "exDate": "2026-08-18",
@@ -3553,7 +3553,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-14",
-          "amount": null
+          "amount": 0.061
         },
         {
           "exDate": "2026-08-18",
@@ -3612,7 +3612,7 @@
           "exDate": "2026-09-16",
           "recordDate": "2026-09-22",
           "paymentDate": "2026-10-15",
-          "amount": null
+          "amount": 0.29
         }
       ]
     },
