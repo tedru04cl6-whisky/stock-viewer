@@ -1,78 +1,78 @@
 {
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "methodology": "主要持股與權重取自投信官方持股比重頁；目前先支援可穩定自動更新的元大台股 ETF，顯示官方頁公開的前五大持股。",
   "funds": {
     "0050": {
       "name": "元大台灣50",
-      "holdingsDate": "2026-10-06",
+      "holdingsDate": "2026-10-07",
       "sourceUrl": "https://www.yuantaetfs.com/product/detail/0050/ratio",
       "holdings": [
         {
           "code": "2330",
           "name": "台積電",
-          "quantity": 564774629,
-          "weight": 56.43
+          "quantity": 565067281,
+          "weight": 56.56
         },
         {
           "code": "2454",
           "name": "聯發科",
-          "quantity": 34011044,
-          "weight": 6.47
+          "quantity": 34028708,
+          "weight": 6.37
         },
         {
           "code": "2308",
           "name": "台達電",
-          "quantity": 44615428,
-          "weight": 3.53
+          "quantity": 44638612,
+          "weight": 3.44
         },
         {
           "code": "2317",
           "name": "鴻海",
-          "quantity": 282165493,
-          "weight": 2.79
+          "quantity": 282312164,
+          "weight": 2.75
         },
         {
           "code": "3711",
           "name": "日月光投控",
-          "quantity": 76665950,
-          "weight": 2.2
+          "quantity": 76705786,
+          "weight": 2.17
         }
       ]
     },
     "0056": {
       "name": "元大高股息",
-      "holdingsDate": "2026-10-06",
+      "holdingsDate": "2026-10-07",
       "sourceUrl": "https://www.yuantaetfs.com/product/detail/0056/ratio",
       "holdings": [
         {
           "code": "1303",
           "name": "南亞",
-          "quantity": 264428711,
-          "weight": 9.39
+          "quantity": 263798196,
+          "weight": 9.95
         },
         {
           "code": "2408",
           "name": "南亞科",
-          "quantity": 67822851,
-          "weight": 4.31
+          "quantity": 67914317,
+          "weight": 4.19
         },
         {
           "code": "2357",
           "name": "華碩",
-          "quantity": 35113069,
-          "weight": 4.25
-        },
-        {
-          "code": "2890",
-          "name": "永豐金",
-          "quantity": 733063524,
-          "weight": 4.03
+          "quantity": 35160949,
+          "weight": 4.18
         },
         {
           "code": "2880",
           "name": "華南金",
-          "quantity": 701356236,
-          "weight": 3.86
+          "quantity": 702305020,
+          "weight": 3.96
+        },
+        {
+          "code": "2890",
+          "name": "永豐金",
+          "quantity": 734053348,
+          "weight": 3.94
         }
       ]
     }
