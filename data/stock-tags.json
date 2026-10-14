@@ -5,94 +5,110 @@
   "industries": [
     {
       "name": "電子零組件業",
-      "count": 89
+      "count": 104
     },
     {
       "name": "半導體業",
-      "count": 87
+      "count": 96
     },
     {
       "name": "光電業",
-      "count": 62
+      "count": 68
     },
     {
       "name": "電腦及週邊設備業",
-      "count": 57
+      "count": 64
     },
     {
       "name": "生技醫療業",
-      "count": 48
-    },
-    {
-      "name": "其他",
-      "count": 47
+      "count": 61
     },
     {
       "name": "建材營造",
-      "count": 47
+      "count": 55
+    },
+    {
+      "name": "其他",
+      "count": 51
     },
     {
       "name": "電機機械",
-      "count": 43
+      "count": 49
     },
     {
       "name": "其他電子業",
-      "count": 39
+      "count": 46
     },
     {
       "name": "通信網路業",
-      "count": 38
-    },
-    {
-      "name": "紡織纖維",
-      "count": 35
+      "count": 46
     },
     {
       "name": "汽車工業",
-      "count": 29
+      "count": 43
+    },
+    {
+      "name": "紡織纖維",
+      "count": 41
     },
     {
       "name": "鋼鐵工業",
-      "count": 24
+      "count": 31
     },
     {
       "name": "化學工業",
-      "count": 23
+      "count": 28
     },
     {
       "name": "航運業",
-      "count": 21
+      "count": 28
     },
     {
       "name": "綠能環保",
-      "count": 20
-    },
-    {
-      "name": "塑膠工業",
-      "count": 16
-    },
-    {
-      "name": "電子通路業",
-      "count": 16
+      "count": 27
     },
     {
       "name": "食品工業",
-      "count": 15
+      "count": 24
+    },
+    {
+      "name": "電子通路業",
+      "count": 22
+    },
+    {
+      "name": "塑膠工業",
+      "count": 21
     },
     {
       "name": "觀光餐旅",
-      "count": 14
-    },
-    {
-      "name": "金融保險業",
-      "count": 13
+      "count": 19
     },
     {
       "name": "運動休閒",
-      "count": 11
+      "count": 18
+    },
+    {
+      "name": "貿易百貨",
+      "count": 18
     },
     {
       "name": "電器電纜",
+      "count": 16
+    },
+    {
+      "name": "金融保險業",
+      "count": 16
+    },
+    {
+      "name": "數位雲端",
+      "count": 13
+    },
+    {
+      "name": "居家生活",
+      "count": 11
+    },
+    {
+      "name": "橡膠工業",
       "count": 11
     },
     {
@@ -100,36 +116,20 @@
       "count": 11
     },
     {
-      "name": "數位雲端",
-      "count": 10
-    },
-    {
-      "name": "橡膠工業",
+      "name": "油電燃氣業",
       "count": 8
     },
     {
-      "name": "居家生活",
-      "count": 7
-    },
-    {
-      "name": "油電燃氣業",
-      "count": 7
-    },
-    {
-      "name": "貿易百貨",
-      "count": 7
-    },
-    {
       "name": "水泥工業",
-      "count": 3
-    },
-    {
-      "name": "玻璃陶瓷",
-      "count": 3
+      "count": 7
     },
     {
       "name": "造紙工業",
-      "count": 3
+      "count": 7
+    },
+    {
+      "name": "玻璃陶瓷",
+      "count": 5
     },
     {
       "name": "存託憑證",
@@ -138,14 +138,14 @@
   ],
   "tags": {
     "1101": {
-      "industry": "",
+      "industry": "水泥工業",
       "signals": [
         "法人連買"
       ],
       "return20": 2.75
     },
     "1102": {
-      "industry": "",
+      "industry": "水泥工業",
       "signals": [
         "法人連買",
         "放量"
@@ -153,14 +153,14 @@
       "return20": -9.47
     },
     "1103": {
-      "industry": "",
+      "industry": "水泥工業",
       "signals": [
         "放量"
       ],
       "return20": -4.03
     },
     "1104": {
-      "industry": "",
+      "industry": "水泥工業",
       "signals": [],
       "return20": -2.19
     },
@@ -185,12 +185,12 @@
       "return20": 1.25
     },
     "1201": {
-      "industry": "",
+      "industry": "食品工業",
       "signals": [],
       "return20": -3.56
     },
     "1203": {
-      "industry": "",
+      "industry": "食品工業",
       "signals": [
         "近期強勢"
       ],
@@ -214,14 +214,14 @@
       "return20": -7.56
     },
     "1216": {
-      "industry": "",
+      "industry": "食品工業",
       "signals": [
         "法人連買"
       ],
       "return20": -3.28
     },
     "1217": {
-      "industry": "",
+      "industry": "食品工業",
       "signals": [
         "放量"
       ],
@@ -250,14 +250,14 @@
       "return20": -9.95
     },
     "1227": {
-      "industry": "",
+      "industry": "食品工業",
       "signals": [
         "放量"
       ],
       "return20": -2.5
     },
     "1229": {
-      "industry": "",
+      "industry": "食品工業",
       "signals": [],
       "return20": -7.77
     },
@@ -299,17 +299,17 @@
       "return20": -4.1
     },
     "1256": {
-      "industry": "",
+      "industry": "食品工業",
       "signals": [],
       "return20": -5.18
     },
     "1301": {
-      "industry": "",
+      "industry": "塑膠工業",
       "signals": [],
       "return20": -11.43
     },
     "1303": {
-      "industry": "",
+      "industry": "塑膠工業",
       "signals": [],
       "return20": -19.04
     },
@@ -367,7 +367,7 @@
       "return20": 0.31
     },
     "1316": {
-      "industry": "",
+      "industry": "建材營造",
       "signals": [],
       "return20": -9.13
     },
@@ -386,12 +386,12 @@
       "return20": 2.19
     },
     "1323": {
-      "industry": "",
+      "industry": "塑膠工業",
       "signals": [],
       "return20": -2.69
     },
     "1324": {
-      "industry": "",
+      "industry": "塑膠工業",
       "signals": [],
       "return20": -7.93
     },
@@ -403,7 +403,7 @@
       "return20": 2.96
     },
     "1326": {
-      "industry": "",
+      "industry": "塑膠工業",
       "signals": [],
       "return20": -15.59
     },
@@ -442,14 +442,14 @@
       "return20": -16.1
     },
     "1402": {
-      "industry": "",
+      "industry": "紡織纖維",
       "signals": [
         "法人連買"
       ],
       "return20": -6.7
     },
     "1409": {
-      "industry": "",
+      "industry": "紡織纖維",
       "signals": [],
       "return20": -33.06
     },
@@ -498,7 +498,7 @@
       "return20": -2.98
     },
     "1432": {
-      "industry": "",
+      "industry": "運動休閒",
       "signals": [
         "法人連買"
       ],
@@ -537,7 +537,7 @@
       "return20": 3.56
     },
     "1439": {
-      "industry": "",
+      "industry": "建材營造",
       "signals": [
         "近期強勢",
         "放量"
@@ -657,12 +657,12 @@
       "return20": -1.93
     },
     "1466": {
-      "industry": "",
+      "industry": "紡織纖維",
       "signals": [],
       "return20": -16.3
     },
     "1467": {
-      "industry": "",
+      "industry": "紡織纖維",
       "signals": [],
       "return20": -3.81
     },
@@ -684,12 +684,12 @@
       "return20": 12.38
     },
     "1471": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -14.59
     },
     "1472": {
-      "industry": "",
+      "industry": "建材營造",
       "signals": [],
       "return20": 2.28
     },
@@ -723,7 +723,7 @@
       "return20": -3.94
     },
     "1503": {
-      "industry": "",
+      "industry": "電機機械",
       "signals": [],
       "return20": -18.07
     },
@@ -740,7 +740,7 @@
       "return20": -0.48
     },
     "1512": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [],
       "return20": -6.29
     },
@@ -765,12 +765,12 @@
       "return20": -18.62
     },
     "1517": {
-      "industry": "",
+      "industry": "電機機械",
       "signals": [],
       "return20": 1.79
     },
     "1519": {
-      "industry": "",
+      "industry": "電機機械",
       "signals": [
         "法人連買"
       ],
@@ -784,7 +784,7 @@
       "return20": -4.38
     },
     "1522": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [
         "法人連買"
       ],
@@ -856,7 +856,7 @@
       "return20": -9.13
     },
     "1536": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [],
       "return20": -10.63
     },
@@ -903,7 +903,7 @@
       "return20": -22.84
     },
     "1568": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [],
       "return20": -32.66
     },
@@ -927,7 +927,7 @@
       "return20": -15.43
     },
     "1590": {
-      "industry": "",
+      "industry": "電機機械",
       "signals": [
         "放量"
       ],
@@ -1002,7 +1002,7 @@
       "return20": -20.73
     },
     "1617": {
-      "industry": "",
+      "industry": "電器電纜",
       "signals": [],
       "return20": -33.88
     },
@@ -1012,24 +1012,24 @@
       "return20": -8.63
     },
     "1623": {
-      "industry": "",
+      "industry": "電器電纜",
       "signals": [],
       "return20": -0.23
     },
     "1626": {
-      "industry": "",
+      "industry": "電器電纜",
       "signals": [],
       "return20": -11.52
     },
     "1702": {
-      "industry": "",
+      "industry": "食品工業",
       "signals": [
         "近期強勢"
       ],
       "return20": 3.69
     },
     "1707": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [
         "放量"
       ],
@@ -1046,7 +1046,7 @@
       "return20": -2.53
     },
     "1710": {
-      "industry": "",
+      "industry": "化學工業",
       "signals": [],
       "return20": -31.56
     },
@@ -1078,7 +1078,7 @@
       "return20": -26.59
     },
     "1718": {
-      "industry": "",
+      "industry": "化學工業",
       "signals": [],
       "return20": -41.61
     },
@@ -1112,7 +1112,7 @@
       "return20": -14.81
     },
     "1726": {
-      "industry": "",
+      "industry": "化學工業",
       "signals": [],
       "return20": -0.38
     },
@@ -1132,7 +1132,7 @@
       "return20": -0.72
     },
     "1732": {
-      "industry": "",
+      "industry": "化學工業",
       "signals": [],
       "return20": -1.68
     },
@@ -1176,7 +1176,7 @@
       "return20": -6.98
     },
     "1762": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [],
       "return20": -13.53
     },
@@ -1186,7 +1186,7 @@
       "return20": -15.21
     },
     "1776": {
-      "industry": "",
+      "industry": "化學工業",
       "signals": [
         "法人連買"
       ],
@@ -1210,14 +1210,14 @@
       "return20": -6.95
     },
     "1795": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [
         "法人連買"
       ],
       "return20": -12.28
     },
     "1802": {
-      "industry": "",
+      "industry": "玻璃陶瓷",
       "signals": [],
       "return20": -33.58
     },
@@ -1248,7 +1248,7 @@
       "return20": -40.26
     },
     "1810": {
-      "industry": "",
+      "industry": "玻璃陶瓷",
       "signals": [
         "近期強勢"
       ],
@@ -1262,7 +1262,7 @@
       "return20": -0.64
     },
     "1903": {
-      "industry": "",
+      "industry": "造紙工業",
       "signals": [
         "放量"
       ],
@@ -1274,7 +1274,7 @@
       "return20": -9.7
     },
     "1905": {
-      "industry": "",
+      "industry": "造紙工業",
       "signals": [],
       "return20": -25.59
     },
@@ -1284,7 +1284,7 @@
       "return20": -3.93
     },
     "1907": {
-      "industry": "",
+      "industry": "造紙工業",
       "signals": [
         "近期強勢",
         "法人連買",
@@ -1298,7 +1298,7 @@
       "return20": -4.37
     },
     "2002": {
-      "industry": "",
+      "industry": "鋼鐵工業",
       "signals": [
         "法人連買"
       ],
@@ -1338,7 +1338,7 @@
       "return20": -1.86
     },
     "2012": {
-      "industry": "",
+      "industry": "鋼鐵工業",
       "signals": [
         "法人連買"
       ],
@@ -1366,7 +1366,7 @@
       "return20": 4.65
     },
     "2017": {
-      "industry": "",
+      "industry": "鋼鐵工業",
       "signals": [
         "法人連買"
       ],
@@ -1378,7 +1378,7 @@
       "return20": -2.76
     },
     "2022": {
-      "industry": "",
+      "industry": "鋼鐵工業",
       "signals": [],
       "return20": -7.44
     },
@@ -1388,7 +1388,7 @@
       "return20": 0
     },
     "2024": {
-      "industry": "",
+      "industry": "鋼鐵工業",
       "signals": [],
       "return20": -1.79
     },
@@ -1412,7 +1412,7 @@
       "return20": -4.63
     },
     "2029": {
-      "industry": "",
+      "industry": "鋼鐵工業",
       "signals": [
         "法人連買"
       ],
@@ -1500,19 +1500,19 @@
       "return20": -9.57
     },
     "2104": {
-      "industry": "",
+      "industry": "橡膠工業",
       "signals": [],
       "return20": -13.84
     },
     "2105": {
-      "industry": "",
+      "industry": "橡膠工業",
       "signals": [
         "放量"
       ],
       "return20": -5.29
     },
     "2106": {
-      "industry": "",
+      "industry": "橡膠工業",
       "signals": [
         "法人連買",
         "放量"
@@ -1549,7 +1549,7 @@
       "return20": 3.08
     },
     "2201": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [
         "法人連買",
         "放量"
@@ -1564,14 +1564,14 @@
       "return20": -7.01
     },
     "2206": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [
         "法人連買"
       ],
       "return20": 1.25
     },
     "2207": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [
         "近期強勢",
         "法人連買",
@@ -1580,7 +1580,7 @@
       "return20": 17.97
     },
     "2208": {
-      "industry": "",
+      "industry": "航運業",
       "signals": [],
       "return20": -8.65
     },
@@ -1597,7 +1597,7 @@
       "return20": 0.4
     },
     "2228": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [
         "法人連買"
       ],
@@ -1619,7 +1619,7 @@
       "return20": -29.08
     },
     "2239": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [],
       "return20": -14.22
     },
@@ -1634,14 +1634,14 @@
       "return20": -36.95
     },
     "2247": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [
         "法人連買"
       ],
       "return20": -2.95
     },
     "2248": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [
         "近期強勢"
       ],
@@ -1689,7 +1689,7 @@
       "return20": -22.42
     },
     "2308": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [
         "成交熱門",
         "放量"
@@ -1697,7 +1697,7 @@
       "return20": -20.96
     },
     "2312": {
-      "industry": "",
+      "industry": "其他電子業",
       "signals": [],
       "return20": -13.92
     },
@@ -1733,7 +1733,7 @@
       "return20": 3.6
     },
     "2323": {
-      "industry": "",
+      "industry": "光電業",
       "signals": [],
       "return20": -17.17
     },
@@ -1773,7 +1773,7 @@
       "return20": -13.41
     },
     "2332": {
-      "industry": "",
+      "industry": "通信網路業",
       "signals": [
         "近期強勢",
         "放量"
@@ -1786,7 +1786,7 @@
       "return20": -29.47
     },
     "2338": {
-      "industry": "",
+      "industry": "半導體業",
       "signals": [],
       "return20": -28.74
     },
@@ -1923,14 +1923,14 @@
       "return20": -25.19
     },
     "2371": {
-      "industry": "",
+      "industry": "電機機械",
       "signals": [
         "法人連買"
       ],
       "return20": -13.21
     },
     "2373": {
-      "industry": "",
+      "industry": "其他電子業",
       "signals": [],
       "return20": -5.76
     },
@@ -2005,7 +2005,7 @@
       "return20": -22.26
     },
     "2392": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -15.47
     },
@@ -2029,12 +2029,12 @@
       "return20": -12.11
     },
     "2399": {
-      "industry": "",
+      "industry": "電腦及週邊設備業",
       "signals": [],
       "return20": -33.8
     },
     "2401": {
-      "industry": "",
+      "industry": "半導體業",
       "signals": [],
       "return20": -25.71
     },
@@ -2044,7 +2044,7 @@
       "return20": -23.26
     },
     "2404": {
-      "industry": "",
+      "industry": "其他電子業",
       "signals": [
         "成交熱門",
         "放量"
@@ -2057,7 +2057,7 @@
       "return20": -9.97
     },
     "2406": {
-      "industry": "",
+      "industry": "光電業",
       "signals": [],
       "return20": -24.3
     },
@@ -2074,7 +2074,7 @@
       "return20": -19.33
     },
     "2412": {
-      "industry": "",
+      "industry": "通信網路業",
       "signals": [
         "法人連買"
       ],
@@ -2112,7 +2112,7 @@
       "return20": -20.71
     },
     "2420": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -13.23
     },
@@ -2127,7 +2127,7 @@
       "return20": -2.95
     },
     "2424": {
-      "industry": "",
+      "industry": "通信網路業",
       "signals": [
         "法人連買"
       ],
@@ -2162,7 +2162,7 @@
       "return20": -37.06
     },
     "2430": {
-      "industry": "",
+      "industry": "電子通路業",
       "signals": [],
       "return20": -6.09
     },
@@ -2179,7 +2179,7 @@
       "return20": -0.17
     },
     "2433": {
-      "industry": "",
+      "industry": "其他電子業",
       "signals": [
         "法人連買"
       ],
@@ -2296,12 +2296,12 @@
       "return20": -10.86
     },
     "2462": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -19.18
     },
     "2464": {
-      "industry": "",
+      "industry": "其他電子業",
       "signals": [],
       "return20": -22.03
     },
@@ -2311,7 +2311,7 @@
       "return20": 0
     },
     "2466": {
-      "industry": "",
+      "industry": "光電業",
       "signals": [
         "近期強勢"
       ],
@@ -2371,7 +2371,7 @@
       "return20": 4.08
     },
     "2481": {
-      "industry": "",
+      "industry": "半導體業",
       "signals": [],
       "return20": -43.24
     },
@@ -2415,7 +2415,7 @@
       "return20": -35.97
     },
     "2491": {
-      "industry": "",
+      "industry": "光電業",
       "signals": [],
       "return20": -40.54
     },
@@ -2545,7 +2545,7 @@
       "return20": 0
     },
     "2535": {
-      "industry": "",
+      "industry": "建材營造",
       "signals": [
         "法人連買",
         "放量"
@@ -2634,7 +2634,7 @@
       "return20": -3.82
     },
     "2601": {
-      "industry": "",
+      "industry": "航運業",
       "signals": [],
       "return20": 2.67
     },
@@ -2647,7 +2647,7 @@
       "return20": 4.62
     },
     "2605": {
-      "industry": "",
+      "industry": "航運業",
       "signals": [],
       "return20": -1.46
     },
@@ -2657,7 +2657,7 @@
       "return20": 1.29
     },
     "2607": {
-      "industry": "",
+      "industry": "航運業",
       "signals": [
         "法人連買",
         "放量"
@@ -2665,7 +2665,7 @@
       "return20": 1.95
     },
     "2608": {
-      "industry": "",
+      "industry": "航運業",
       "signals": [
         "放量"
       ],
@@ -2757,7 +2757,7 @@
       "return20": 3.17
     },
     "2636": {
-      "industry": "",
+      "industry": "航運業",
       "signals": [
         "法人連買"
       ],
@@ -2781,7 +2781,7 @@
       "return20": -15.47
     },
     "2646": {
-      "industry": "",
+      "industry": "航運業",
       "signals": [
         "法人連買"
       ],
@@ -2843,7 +2843,7 @@
       "return20": -5.64
     },
     "2723": {
-      "industry": "",
+      "industry": "觀光餐旅",
       "signals": [
         "法人連買",
         "放量"
@@ -2866,14 +2866,14 @@
       "return20": -2
     },
     "2739": {
-      "industry": "",
+      "industry": "觀光餐旅",
       "signals": [
         "法人連買"
       ],
       "return20": -7.11
     },
     "2748": {
-      "industry": "",
+      "industry": "觀光餐旅",
       "signals": [],
       "return20": -3.74
     },
@@ -2977,7 +2977,7 @@
       "return20": -10.27
     },
     "2852": {
-      "industry": "",
+      "industry": "金融保險業",
       "signals": [
         "法人連買",
         "放量"
@@ -3096,7 +3096,7 @@
       "return20": 13.43
     },
     "2897": {
-      "industry": "",
+      "industry": "金融保險業",
       "signals": [
         "法人連買"
       ],
@@ -3108,7 +3108,7 @@
       "return20": 0.83
     },
     "2903": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [],
       "return20": 0.45
     },
@@ -3118,7 +3118,7 @@
       "return20": -6.6
     },
     "2905": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [
         "近期強勢",
         "法人連買"
@@ -3126,7 +3126,7 @@
       "return20": 13.62
     },
     "2906": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [
         "法人連買"
       ],
@@ -3148,12 +3148,12 @@
       "return20": 13.72
     },
     "2911": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [],
       "return20": -15.63
     },
     "2912": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [
         "法人連買",
         "放量"
@@ -3161,7 +3161,7 @@
       "return20": -3.03
     },
     "2913": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [],
       "return20": -2.67
     },
@@ -3174,7 +3174,7 @@
       "return20": 0.77
     },
     "2923": {
-      "industry": "",
+      "industry": "建材營造",
       "signals": [
         "近期強勢",
         "法人連買"
@@ -3182,7 +3182,7 @@
       "return20": 28.34
     },
     "2929": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [],
       "return20": -3.59
     },
@@ -3192,7 +3192,7 @@
       "return20": -1.27
     },
     "2945": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [
         "法人連買"
       ],
@@ -3204,7 +3204,7 @@
       "return20": -26.61
     },
     "3003": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -15.47
     },
@@ -3234,7 +3234,7 @@
       "return20": -4.61
     },
     "3010": {
-      "industry": "",
+      "industry": "電子通路業",
       "signals": [],
       "return20": -12.11
     },
@@ -3273,7 +3273,7 @@
       "return20": -15.94
     },
     "3018": {
-      "industry": "",
+      "industry": "其他電子業",
       "signals": [
         "近期強勢",
         "放量"
@@ -3351,12 +3351,12 @@
       "return20": -38.24
     },
     "3032": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -1.01
     },
     "3033": {
-      "industry": "",
+      "industry": "電子通路業",
       "signals": [],
       "return20": -12.1
     },
@@ -3396,7 +3396,7 @@
       "return20": -8.38
     },
     "3041": {
-      "industry": "",
+      "industry": "半導體業",
       "signals": [],
       "return20": -25.17
     },
@@ -3416,7 +3416,7 @@
       "return20": -29.04
     },
     "3045": {
-      "industry": "",
+      "industry": "通信網路業",
       "signals": [
         "法人連買"
       ],
@@ -3568,7 +3568,7 @@
       "return20": -23.77
     },
     "3209": {
-      "industry": "",
+      "industry": "電子通路業",
       "signals": [
         "法人連買"
       ],
@@ -3616,7 +3616,7 @@
       "return20": -27.65
     },
     "3308": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -13.91
     },
@@ -3681,7 +3681,7 @@
       "return20": -15
     },
     "3432": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -14.36
     },
@@ -3706,7 +3706,7 @@
       "return20": -29.81
     },
     "3481": {
-      "industry": "",
+      "industry": "光電業",
       "signals": [
         "成交熱門"
       ],
@@ -3718,7 +3718,7 @@
       "return20": -12.03
     },
     "3501": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -2.68
     },
@@ -3750,7 +3750,7 @@
       "return20": -23.53
     },
     "3532": {
-      "industry": "",
+      "industry": "半導體業",
       "signals": [],
       "return20": -38.3
     },
@@ -3821,7 +3821,7 @@
       "return20": -15.74
     },
     "3593": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [
         "放量"
       ],
@@ -3872,7 +3872,7 @@
       "return20": 0.73
     },
     "3661": {
-      "industry": "",
+      "industry": "半導體業",
       "signals": [
         "成交熱門",
         "放量"
@@ -3918,31 +3918,31 @@
       "return20": -20.75
     },
     "3701": {
-      "industry": "",
+      "industry": "電腦及週邊設備業",
       "signals": [
         "法人連買"
       ],
       "return20": -20.79
     },
     "3702": {
-      "industry": "",
+      "industry": "電子通路業",
       "signals": [],
       "return20": 2.27
     },
     "3703": {
-      "industry": "",
+      "industry": "建材營造",
       "signals": [
         "法人連買"
       ],
       "return20": -1.2
     },
     "3704": {
-      "industry": "",
+      "industry": "通信網路業",
       "signals": [],
       "return20": -11.82
     },
     "3705": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [
         "放量"
       ],
@@ -3959,14 +3959,14 @@
       "return20": -16.83
     },
     "3711": {
-      "industry": "",
+      "industry": "半導體業",
       "signals": [
         "成交熱門"
       ],
       "return20": -18.62
     },
     "3712": {
-      "industry": "",
+      "industry": "電腦及週邊設備業",
       "signals": [],
       "return20": -5.01
     },
@@ -3981,7 +3981,7 @@
       "return20": -41.92
     },
     "3716": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [],
       "return20": -6.29
     },
@@ -4013,14 +4013,14 @@
       "return20": 4.99
     },
     "4133": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [
         "法人連買"
       ],
       "return20": 0.96
     },
     "4137": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [
         "法人連買"
       ],
@@ -4044,7 +4044,7 @@
       "return20": -7.1
     },
     "4164": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [],
       "return20": -12.29
     },
@@ -4061,12 +4061,12 @@
       "return20": -5.98
     },
     "4190": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [],
       "return20": 0.98
     },
     "4195": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [
         "法人連買"
       ],
@@ -4080,14 +4080,14 @@
       "return20": -13.29
     },
     "4414": {
-      "industry": "",
+      "industry": "紡織纖維",
       "signals": [
         "法人連買"
       ],
       "return20": -10.26
     },
     "4426": {
-      "industry": "",
+      "industry": "紡織纖維",
       "signals": [
         "法人連買"
       ],
@@ -4118,7 +4118,7 @@
       "return20": -8.66
     },
     "4526": {
-      "industry": "",
+      "industry": "電機機械",
       "signals": [],
       "return20": -35.18
     },
@@ -4145,7 +4145,7 @@
       "return20": -16.36
     },
     "4551": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [],
       "return20": -38.49
     },
@@ -4212,7 +4212,7 @@
       "return20": -18.88
     },
     "4581": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [],
       "return20": 1.39
     },
@@ -4313,12 +4313,12 @@
       "return20": -15.35
     },
     "4807": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [],
       "return20": -1.84
     },
     "4904": {
-      "industry": "",
+      "industry": "通信網路業",
       "signals": [
         "法人連買"
       ],
@@ -4357,7 +4357,7 @@
       "return20": -37.27
     },
     "4930": {
-      "industry": "",
+      "industry": "電器電纜",
       "signals": [],
       "return20": -8.07
     },
@@ -4382,7 +4382,7 @@
       "return20": -9.19
     },
     "4943": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -1.78
     },
@@ -4445,7 +4445,7 @@
       "return20": -7.33
     },
     "4977": {
-      "industry": "",
+      "industry": "通信網路業",
       "signals": [],
       "return20": -27.78
     },
@@ -4468,7 +4468,7 @@
       "return20": -9.27
     },
     "5007": {
-      "industry": "",
+      "industry": "鋼鐵工業",
       "signals": [
         "法人連買"
       ],
@@ -4480,7 +4480,7 @@
       "return20": -7.89
     },
     "5215": {
-      "industry": "",
+      "industry": "電腦及週邊設備業",
       "signals": [
         "法人連買"
       ],
@@ -4533,7 +4533,7 @@
       "return20": -14.05
     },
     "5283": {
-      "industry": "",
+      "industry": "電器電纜",
       "signals": [],
       "return20": 1.67
     },
@@ -4558,7 +4558,7 @@
       "return20": -31.28
     },
     "5306": {
-      "industry": "",
+      "industry": "運動休閒",
       "signals": [
         "近期強勢"
       ],
@@ -4570,7 +4570,7 @@
       "return20": 0.86
     },
     "5434": {
-      "industry": "",
+      "industry": "電子通路業",
       "signals": [
         "法人連買"
       ],
@@ -4606,7 +4606,7 @@
       "return20": -18.38
     },
     "5521": {
-      "industry": "",
+      "industry": "建材營造",
       "signals": [],
       "return20": -9.48
     },
@@ -4652,7 +4652,7 @@
       "return20": 0.88
     },
     "5546": {
-      "industry": "",
+      "industry": "建材營造",
       "signals": [],
       "return20": -16.91
     },
@@ -4667,12 +4667,12 @@
       "return20": -11.82
     },
     "5706": {
-      "industry": "",
+      "industry": "觀光餐旅",
       "signals": [],
       "return20": -7.19
     },
     "5871": {
-      "industry": "",
+      "industry": "其他",
       "signals": [
         "法人連買"
       ],
@@ -4704,14 +4704,14 @@
       "return20": 8.55
     },
     "5907": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [
         "放量"
       ],
       "return20": -6.6
     },
     "6005": {
-      "industry": "",
+      "industry": "金融保險業",
       "signals": [],
       "return20": -10.35
     },
@@ -4745,7 +4745,7 @@
       "return20": -31.4
     },
     "6117": {
-      "industry": "",
+      "industry": "電腦及週邊設備業",
       "signals": [],
       "return20": -15.05
     },
@@ -4762,7 +4762,7 @@
       "return20": -2.64
     },
     "6133": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -22.29
     },
@@ -4779,7 +4779,7 @@
       "return20": -25.42
     },
     "6141": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -20.26
     },
@@ -4951,7 +4951,7 @@
       "return20": -6.05
     },
     "6226": {
-      "industry": "",
+      "industry": "光電業",
       "signals": [
         "放量"
       ],
@@ -5084,7 +5084,7 @@
       "return20": -24.88
     },
     "6431": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [],
       "return20": -7
     },
@@ -5118,7 +5118,7 @@
       "return20": -40.03
     },
     "6451": {
-      "industry": "",
+      "industry": "半導體業",
       "signals": [],
       "return20": -37.2
     },
@@ -5162,7 +5162,7 @@
       "return20": 10.34
     },
     "6505": {
-      "industry": "",
+      "industry": "油電燃氣業",
       "signals": [
         "成交熱門",
         "近期強勢"
@@ -5206,7 +5206,7 @@
       "return20": 4.88
     },
     "6541": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [],
       "return20": -9.9
     },
@@ -5230,7 +5230,7 @@
       "return20": -22.7
     },
     "6573": {
-      "industry": "",
+      "industry": "半導體業",
       "signals": [],
       "return20": -34.06
     },
@@ -5299,7 +5299,7 @@
       "return20": -8.79
     },
     "6625": {
-      "industry": "",
+      "industry": "其他",
       "signals": [
         "法人連買"
       ],
@@ -5335,7 +5335,7 @@
       "return20": -32.85
     },
     "6666": {
-      "industry": "",
+      "industry": "生技醫療業",
       "signals": [],
       "return20": 2.05
     },
@@ -5361,7 +5361,7 @@
       "return20": -1.93
     },
     "6671": {
-      "industry": "",
+      "industry": "居家生活",
       "signals": [],
       "return20": -6.33
     },
@@ -5465,7 +5465,7 @@
       "return20": -25.75
     },
     "6771": {
-      "industry": "",
+      "industry": "綠能環保",
       "signals": [
         "法人連買",
         "放量"
@@ -5495,7 +5495,7 @@
       "return20": -19.79
     },
     "6790": {
-      "industry": "",
+      "industry": "造紙工業",
       "signals": [
         "法人連買"
       ],
@@ -5551,7 +5551,7 @@
       "return20": -39.55
     },
     "6835": {
-      "industry": "",
+      "industry": "電子零組件業",
       "signals": [],
       "return20": -10.33
     },
@@ -5585,14 +5585,14 @@
       "return20": 45.42
     },
     "6869": {
-      "industry": "",
+      "industry": "綠能環保",
       "signals": [
         "法人連買"
       ],
       "return20": -7.48
     },
     "6873": {
-      "industry": "",
+      "industry": "綠能環保",
       "signals": [],
       "return20": -9.06
     },
@@ -5602,14 +5602,14 @@
       "return20": -4.12
     },
     "6887": {
-      "industry": "",
+      "industry": "綠能環保",
       "signals": [
         "近期強勢"
       ],
       "return20": 7.65
     },
     "6890": {
-      "industry": "",
+      "industry": "運動休閒",
       "signals": [],
       "return20": -20.75
     },
@@ -5674,7 +5674,7 @@
       "return20": -13.68
     },
     "6923": {
-      "industry": "",
+      "industry": "綠能環保",
       "signals": [],
       "return20": 0.13
     },
@@ -5684,7 +5684,7 @@
       "return20": -20.46
     },
     "6928": {
-      "industry": "",
+      "industry": "電腦及週邊設備業",
       "signals": [],
       "return20": -16.67
     },
@@ -5696,7 +5696,7 @@
       "return20": -7.41
     },
     "6933": {
-      "industry": "",
+      "industry": "電腦及週邊設備業",
       "signals": [
         "法人連買"
       ],
@@ -5761,7 +5761,7 @@
       "return20": 17.1
     },
     "6958": {
-      "industry": "",
+      "industry": "其他",
       "signals": [
         "近期強勢",
         "放量"
@@ -5774,7 +5774,7 @@
       "return20": -20.44
     },
     "6965": {
-      "industry": "",
+      "industry": "運動休閒",
       "signals": [
         "法人連買"
       ],
@@ -5803,12 +5803,12 @@
       "return20": -52.94
     },
     "7631": {
-      "industry": "",
+      "industry": "其他電子業",
       "signals": [],
       "return20": -15.89
     },
     "7689": {
-      "industry": "",
+      "industry": "通信網路業",
       "signals": [
         "法人連買"
       ],
@@ -5834,7 +5834,7 @@
       "return20": -23.02
     },
     "7722": {
-      "industry": "",
+      "industry": "數位雲端",
       "signals": [],
       "return20": -14.15
     },
@@ -5846,7 +5846,7 @@
       "return20": -21.15
     },
     "7732": {
-      "industry": "",
+      "industry": "汽車工業",
       "signals": [
         "放量"
       ],
@@ -5858,7 +5858,7 @@
       "return20": -0.56
     },
     "7740": {
-      "industry": "",
+      "industry": "綠能環保",
       "signals": [],
       "return20": -6
     },
@@ -5873,7 +5873,7 @@
       "return20": -7.29
     },
     "7760": {
-      "industry": "",
+      "industry": "觀光餐旅",
       "signals": [],
       "return20": -6.46
     },
@@ -5912,7 +5912,7 @@
       "return20": -23.12
     },
     "7791": {
-      "industry": "",
+      "industry": "食品工業",
       "signals": [
         "法人連買"
       ],
@@ -5963,7 +5963,7 @@
       "return20": -11.76
     },
     "7835": {
-      "industry": "",
+      "industry": "數位雲端",
       "signals": [],
       "return20": -25.41
     },
@@ -6169,7 +6169,7 @@
       "return20": -12.7
     },
     "8429": {
-      "industry": "",
+      "industry": "貿易百貨",
       "signals": [
         "放量"
       ],
@@ -6193,7 +6193,7 @@
       "return20": 0
     },
     "8454": {
-      "industry": "",
+      "industry": "數位雲端",
       "signals": [
         "放量"
       ],
@@ -6226,7 +6226,7 @@
       "return20": -3.45
     },
     "8467": {
-      "industry": "",
+      "industry": "運動休閒",
       "signals": [
         "法人連買"
       ],
@@ -6238,7 +6238,7 @@
       "return20": -17.09
     },
     "8476": {
-      "industry": "",
+      "industry": "綠能環保",
       "signals": [],
       "return20": -20.86
     },
@@ -6255,7 +6255,7 @@
       "return20": -4.87
     },
     "8482": {
-      "industry": "",
+      "industry": "居家生活",
       "signals": [
         "近期強勢",
         "法人連買"
@@ -6329,7 +6329,7 @@
       "return20": -4.21
     },
     "9904": {
-      "industry": "",
+      "industry": "運動休閒",
       "signals": [
         "法人連買"
       ],
@@ -6384,7 +6384,7 @@
       "return20": 0.79
     },
     "9914": {
-      "industry": "",
+      "industry": "運動休閒",
       "signals": [],
       "return20": 0.26
     },
@@ -6469,12 +6469,12 @@
       "return20": -13.92
     },
     "9934": {
-      "industry": "",
+      "industry": "居家生活",
       "signals": [],
       "return20": 0
     },
     "9935": {
-      "industry": "",
+      "industry": "居家生活",
       "signals": [
         "法人連買"
       ],
@@ -6533,7 +6533,7 @@
       "return20": -1.39
     },
     "9945": {
-      "industry": "",
+      "industry": "其他",
       "signals": [
         "法人連買",
         "放量"

@@ -4,75 +4,75 @@
   "funds": {
     "0050": {
       "name": "元大台灣50",
-      "holdingsDate": "2026-10-13",
+      "holdingsDate": "2026-10-14",
       "sourceUrl": "https://www.yuantaetfs.com/product/detail/0050/ratio",
       "holdings": [
         {
           "code": "2330",
           "name": "台積電",
-          "quantity": 566950001,
-          "weight": 56.48
+          "quantity": 569545085,
+          "weight": 56.34
         },
         {
           "code": "2454",
           "name": "聯發科",
-          "quantity": 34142372,
-          "weight": 6.18
+          "quantity": 34299044,
+          "weight": 6.1
         },
         {
           "code": "2308",
           "name": "台達電",
-          "quantity": 44787796,
-          "weight": 3.18
+          "quantity": 44993428,
+          "weight": 3.19
         },
         {
           "code": "2317",
           "name": "鴻海",
-          "quantity": 283255812,
-          "weight": 2.72
+          "quantity": 284556516,
+          "weight": 2.75
         },
         {
           "code": "3711",
           "name": "日月光投控",
-          "quantity": 76962122,
-          "weight": 2.28
+          "quantity": 77315450,
+          "weight": 2.29
         }
       ]
     },
     "0056": {
       "name": "元大高股息",
-      "holdingsDate": "2026-10-13",
+      "holdingsDate": "2026-10-14",
       "sourceUrl": "https://www.yuantaetfs.com/product/detail/0056/ratio",
       "holdings": [
         {
           "code": "1303",
           "name": "南亞",
-          "quantity": 264748237,
-          "weight": 10.1
-        },
-        {
-          "code": "2880",
-          "name": "華南金",
-          "quantity": 704830663,
-          "weight": 4.16
+          "quantity": 265687637,
+          "weight": 10.88
         },
         {
           "code": "2357",
           "name": "華碩",
-          "quantity": 35288405,
-          "weight": 4.08
+          "quantity": 35414605,
+          "weight": 4.11
+        },
+        {
+          "code": "2880",
+          "name": "華南金",
+          "quantity": 707332063,
+          "weight": 4.06
         },
         {
           "code": "2408",
           "name": "南亞科",
-          "quantity": 68157774,
-          "weight": 3.98
+          "quantity": 68398874,
+          "weight": 3.86
         },
         {
           "code": "2890",
           "name": "永豐金",
-          "quantity": 737087790,
-          "weight": 3.94
+          "quantity": 739191390,
+          "weight": 3.82
         }
       ]
     }

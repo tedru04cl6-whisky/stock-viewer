@@ -2222,7 +2222,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 2.1
         },
         {
           "exDate": "2026-03-17",
@@ -3660,7 +3660,7 @@
           "exDate": "2026-10-16",
           "recordDate": "2026-10-24",
           "paymentDate": "2026-11-06",
-          "amount": null
+          "amount": 2.5
         },
         {
           "exDate": "2025-10-17",
@@ -3677,7 +3677,7 @@
           "exDate": "2026-10-16",
           "recordDate": "2026-10-24",
           "paymentDate": "2026-11-06",
-          "amount": null
+          "amount": 2.2
         },
         {
           "exDate": "2026-07-15",
@@ -3730,7 +3730,7 @@
           "exDate": "2026-10-16",
           "recordDate": "2026-10-24",
           "paymentDate": "2026-11-06",
-          "amount": null
+          "amount": 0.16
         },
         {
           "exDate": "2026-09-15",
@@ -3867,7 +3867,7 @@
           "exDate": "2026-10-16",
           "recordDate": "2026-10-24",
           "paymentDate": "2026-11-06",
-          "amount": null
+          "amount": 2
         },
         {
           "exDate": "2026-07-15",
@@ -3908,13 +3908,13 @@
       ]
     },
     "00962": {
-      "name": "台新AI優息動能",
+      "name": "台新 AI 優息動能",
       "records": [
         {
           "exDate": "2026-10-16",
           "recordDate": "2026-10-24",
           "paymentDate": "2026-11-06",
-          "amount": null
+          "amount": 0.25
         },
         {
           "exDate": "2026-09-15",
@@ -4015,7 +4015,7 @@
           "exDate": "2026-10-16",
           "recordDate": "2026-10-24",
           "paymentDate": "2026-11-06",
-          "amount": null
+          "amount": 0.3
         },
         {
           "exDate": "2026-07-15",
