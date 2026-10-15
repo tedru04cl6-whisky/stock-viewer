@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-15",
   "years": [
     2025,
     2026
@@ -1370,6 +1370,35 @@
     }
   },
   "dividends": {
+    "00406A": {
+      "name": "主動中信台灣收益",
+      "records": [
+        {
+          "exDate": "2026-11-03",
+          "recordDate": "2026-11-09",
+          "paymentDate": "2026-11-27",
+          "amount": null
+        },
+        {
+          "exDate": "2026-10-05",
+          "recordDate": "2026-10-11",
+          "paymentDate": "2026-11-02",
+          "amount": 0.138
+        },
+        {
+          "exDate": "2026-09-02",
+          "recordDate": "2026-09-08",
+          "paymentDate": "2026-09-30",
+          "amount": 0.138
+        },
+        {
+          "exDate": "2026-07-31",
+          "recordDate": "2026-08-08",
+          "paymentDate": "2026-08-26",
+          "amount": 0.128
+        }
+      ]
+    },
     "00907": {
       "name": "永豐優息存股",
       "records": [
@@ -1660,7 +1689,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.123
         },
         {
           "exDate": "2026-07-16",
@@ -1713,7 +1742,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 0.141
         },
         {
           "exDate": "2026-07-16",
@@ -1766,7 +1795,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 0.11
         },
         {
           "exDate": "2026-09-16",
@@ -1903,7 +1932,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 1.487
         },
         {
           "exDate": "2026-04-20",
@@ -1932,7 +1961,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 0.075
         },
         {
           "exDate": "2026-09-16",
@@ -2069,7 +2098,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 0.6
         },
         {
           "exDate": "2026-07-16",
@@ -2116,7 +2145,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 0.145
         },
         {
           "exDate": "2026-07-16",
@@ -2169,7 +2198,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 1.8
         },
         {
           "exDate": "2026-07-16",
@@ -2251,7 +2280,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 2
         },
         {
           "exDate": "2026-07-16",
@@ -2304,7 +2333,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.5
         },
         {
           "exDate": "2026-09-16",
@@ -2548,7 +2577,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.109
         },
         {
           "exDate": "2026-09-16",
@@ -2679,7 +2708,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.097
         },
         {
           "exDate": "2026-09-16",
@@ -2816,7 +2845,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.12
         },
         {
           "exDate": "2026-09-16",
@@ -2923,7 +2952,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.3
         },
         {
           "exDate": "2026-07-16",
@@ -2976,7 +3005,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.28
         },
         {
           "exDate": "2026-07-16",
@@ -3029,7 +3058,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 0.09
         },
         {
           "exDate": "2026-09-16",
@@ -3130,7 +3159,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.1
         },
         {
           "exDate": "2026-09-16",
@@ -3255,7 +3284,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.2
         },
         {
           "exDate": "2026-09-16",
@@ -3380,7 +3409,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.082
         },
         {
           "exDate": "2026-09-16",
@@ -3445,7 +3474,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 0.052
         },
         {
           "exDate": "2026-09-16",
@@ -3510,7 +3539,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-12",
-          "amount": null
+          "amount": 0.061
         },
         {
           "exDate": "2026-09-16",
@@ -3575,7 +3604,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.473
         },
         {
           "exDate": "2026-07-16",
@@ -3610,7 +3639,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 2.15
         }
       ]
     },
@@ -3621,7 +3650,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.85
         },
         {
           "exDate": "2026-07-16",
@@ -3638,7 +3667,7 @@
           "exDate": "2026-10-19",
           "recordDate": "2026-10-25",
           "paymentDate": "2026-11-13",
-          "amount": null
+          "amount": 0.5
         }
       ]
     },
@@ -4556,29 +4585,6 @@
           "recordDate": "2025-11-11",
           "paymentDate": "2025-11-28",
           "amount": 0.048
-        }
-      ]
-    },
-    "00406A": {
-      "name": "主動中信台灣收益",
-      "records": [
-        {
-          "exDate": "2026-10-05",
-          "recordDate": "2026-10-11",
-          "paymentDate": "2026-11-02",
-          "amount": 0.138
-        },
-        {
-          "exDate": "2026-09-02",
-          "recordDate": "2026-09-08",
-          "paymentDate": "2026-09-30",
-          "amount": 0.138
-        },
-        {
-          "exDate": "2026-07-31",
-          "recordDate": "2026-08-08",
-          "paymentDate": "2026-08-26",
-          "amount": 0.128
         }
       ]
     },
