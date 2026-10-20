@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-20",
   "years": [
     2025,
     2026
@@ -67,6 +67,11 @@
       "name": "主動安聯亞半導體",
       "type": "國外成分證券主動式交易所交易基金(股票)",
       "listingDate": "1151013"
+    },
+    "00415A": {
+      "name": "主動群益核心50",
+      "type": "國內成分證券主動式交易所交易基金(股票)",
+      "listingDate": "1151020"
     },
     "0050": {
       "name": "元大台灣50",
@@ -1370,6 +1375,41 @@
     }
   },
   "dividends": {
+    "00400A": {
+      "name": "主動國泰動能高息",
+      "records": [
+        {
+          "exDate": "2026-11-06",
+          "recordDate": "2026-11-14",
+          "paymentDate": "2026-12-02",
+          "amount": null
+        },
+        {
+          "exDate": "2026-10-08",
+          "recordDate": "2026-10-17",
+          "paymentDate": "2026-11-05",
+          "amount": 0.12
+        },
+        {
+          "exDate": "2026-09-07",
+          "recordDate": "2026-09-13",
+          "paymentDate": "2026-10-05",
+          "amount": 0.12
+        },
+        {
+          "exDate": "2026-08-05",
+          "recordDate": "2026-08-11",
+          "paymentDate": "2026-08-31",
+          "amount": 0.12
+        },
+        {
+          "exDate": "2026-07-09",
+          "recordDate": "2026-07-15",
+          "paymentDate": "2026-07-31",
+          "amount": 0.12
+        }
+      ]
+    },
     "00946": {
       "name": "群益科技高息成長",
       "records": [
@@ -2030,7 +2070,7 @@
           "exDate": "2026-10-22",
           "recordDate": "2026-10-28",
           "paymentDate": "2026-11-11",
-          "amount": null
+          "amount": 1.72
         },
         {
           "exDate": "2026-07-21",
@@ -4627,35 +4667,6 @@
           "recordDate": "2026-08-22",
           "paymentDate": "2026-09-04",
           "amount": 0.121
-        }
-      ]
-    },
-    "00400A": {
-      "name": "主動國泰動能高息",
-      "records": [
-        {
-          "exDate": "2026-10-08",
-          "recordDate": "2026-10-17",
-          "paymentDate": "2026-11-05",
-          "amount": 0.12
-        },
-        {
-          "exDate": "2026-09-07",
-          "recordDate": "2026-09-13",
-          "paymentDate": "2026-10-05",
-          "amount": 0.12
-        },
-        {
-          "exDate": "2026-08-05",
-          "recordDate": "2026-08-11",
-          "paymentDate": "2026-08-31",
-          "amount": 0.12
-        },
-        {
-          "exDate": "2026-07-09",
-          "recordDate": "2026-07-15",
-          "paymentDate": "2026-07-31",
-          "amount": 0.12
         }
       ]
     },
