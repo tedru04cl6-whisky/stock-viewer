@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "years": [
     2025,
     2026
@@ -1280,7 +1280,7 @@
     },
     "009832": {
       "name": "兆豐美國黃金",
-      "type": "國內成分證券指數股票型基金",
+      "type": "國外成分證券指數股票型基金",
       "listingDate": "1151029"
     },
     "00983A": {
@@ -1385,6 +1385,35 @@
     }
   },
   "dividends": {
+    "00401A": {
+      "name": "主動摩根台灣鑫收",
+      "records": [
+        {
+          "exDate": "2026-11-13",
+          "recordDate": "2026-11-21",
+          "paymentDate": "2026-12-04",
+          "amount": null
+        },
+        {
+          "exDate": "2026-10-15",
+          "recordDate": "2026-10-21",
+          "paymentDate": "2026-11-05",
+          "amount": 0.131
+        },
+        {
+          "exDate": "2026-09-14",
+          "recordDate": "2026-09-20",
+          "paymentDate": "2026-10-06",
+          "amount": 0.125
+        },
+        {
+          "exDate": "2026-08-14",
+          "recordDate": "2026-08-22",
+          "paymentDate": "2026-09-04",
+          "amount": 0.121
+        }
+      ]
+    },
     "00940": {
       "name": "元大台灣價值高息",
       "records": [
@@ -1933,7 +1962,7 @@
           "exDate": "2026-11-03",
           "recordDate": "2026-11-09",
           "paymentDate": "2026-11-27",
-          "amount": null
+          "amount": 0.138
         },
         {
           "exDate": "2026-10-05",
@@ -1962,7 +1991,7 @@
           "exDate": "2026-11-03",
           "recordDate": "2026-11-09",
           "paymentDate": "2026-11-25",
-          "amount": null
+          "amount": 0.15
         },
         {
           "exDate": "2026-10-05",
@@ -2099,7 +2128,7 @@
           "exDate": "2026-11-03",
           "recordDate": "2026-11-09",
           "paymentDate": "2026-11-25",
-          "amount": null
+          "amount": 0.085
         },
         {
           "exDate": "2026-10-05",
@@ -4791,29 +4820,6 @@
           "recordDate": "2026-07-21",
           "paymentDate": "2026-08-04",
           "amount": 0.1
-        }
-      ]
-    },
-    "00401A": {
-      "name": "主動摩根台灣鑫收",
-      "records": [
-        {
-          "exDate": "2026-10-15",
-          "recordDate": "2026-10-21",
-          "paymentDate": "2026-11-05",
-          "amount": 0.131
-        },
-        {
-          "exDate": "2026-09-14",
-          "recordDate": "2026-09-20",
-          "paymentDate": "2026-10-06",
-          "amount": 0.125
-        },
-        {
-          "exDate": "2026-08-14",
-          "recordDate": "2026-08-22",
-          "paymentDate": "2026-09-04",
-          "amount": 0.121
         }
       ]
     },
